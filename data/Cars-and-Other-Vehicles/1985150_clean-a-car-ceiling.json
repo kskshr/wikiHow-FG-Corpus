@@ -1,1 +1,229 @@
-{"article_id": "1985150_clean-a-car-ceiling", "url": "https://www.wikihow.com/Clean-a-Car-Ceiling", "steps": [[{"token_id": "0-0-0", "token": "Spray", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "upholstery", "ne_tag": "T-B"}, {"token_id": "0-0-2", "token": "cleaner", "ne_tag": "T-I"}, {"token_id": "0-0-3", "token": "onto", "ne_tag": "O"}, {"token_id": "0-0-4", "token": "a", "ne_tag": "O"}, {"token_id": "0-0-5", "token": "soft", "ne_tag": "T-B"}, {"token_id": "0-0-6", "token": "-", "ne_tag": "T-I"}, {"token_id": "0-0-7", "token": "bristle", "ne_tag": "T-I"}, {"token_id": "0-0-8", "token": "brush", "ne_tag": "T-I"}, {"token_id": "0-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Work", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "cleaner", "ne_tag": "T-B"}, {"token_id": "1-0-3", "token": "into", "ne_tag": "O"}, {"token_id": "1-0-4", "token": "a", "ne_tag": "O"}, {"token_id": "1-0-5", "token": "lather", "ne_tag": "Si-B"}, {"token_id": "1-0-6", "token": "on", "ne_tag": "Si-B"}, {"token_id": "1-0-7", "token": "the", "ne_tag": "Si-B"}, {"token_id": "1-0-8", "token": "spot", "ne_tag": "I-B"}, {"token_id": "1-0-9", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Wipe", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "or", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "blot", "ne_tag": "Ae-B"}, {"token_id": "2-0-3", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-4", "token": "spot", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "with", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "a", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "dry", "ne_tag": "St-B"}, {"token_id": "2-0-8", "token": "microfiber", "ne_tag": "T-B"}, {"token_id": "2-0-9", "token": "towel", "ne_tag": "T-I"}, {"token_id": "2-0-10", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "1-0-2", "T-eq"], ["0-0-1", "0-0-0", "Targ"], ["0-0-5", "0-0-0", "Dest"], ["1-0-0", "2-0-4", "I-eq"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "other-mod"], ["1-0-8", "1-0-0", "Dest"], ["2-0-4", "2-0-0", "Targ"], ["2-0-4", "2-0-2", "Targ"], ["2-0-7", "2-0-8", "other-mod"], ["2-0-8", "2-0-0", "T-comp"], ["2-0-8", "2-0-2", "T-comp"]]}
+{
+    "article_id": "1985150_clean-a-car-ceiling",
+    "url": "https://www.wikihow.com/Clean-a-Car-Ceiling",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Spray",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "upholstery",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "cleaner",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "onto",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "soft",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "-",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "bristle",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "brush",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Work",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "cleaner",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "into",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "lather",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "on",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "the",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "spot",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Wipe",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "or",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "blot",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "spot",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "dry",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "microfiber",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "towel",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "T-eq"
+        ],
+        [
+            "0-0-1",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-5",
+            "0-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-0",
+            "2-0-4",
+            "I-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-8",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-2",
+            "Targ"
+        ],
+        [
+            "2-0-7",
+            "2-0-8",
+            "other-mod"
+        ],
+        [
+            "2-0-8",
+            "2-0-0",
+            "T-comp"
+        ],
+        [
+            "2-0-8",
+            "2-0-2",
+            "T-comp"
+        ]
+    ]
+}

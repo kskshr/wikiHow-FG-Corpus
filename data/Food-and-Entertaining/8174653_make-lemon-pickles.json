@@ -1,1 +1,706 @@
-{"article_id": "8174653_make-lemon-pickles", "url": "https://www.wikihow.com/Make-Lemon-Pickles", "steps": [[{"token_id": "0-0-0", "token": "Gather", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "10", "ne_tag": "Q-B"}, {"token_id": "0-0-2", "token": "to", "ne_tag": "Q-I"}, {"token_id": "0-0-3", "token": "12", "ne_tag": "Q-I"}, {"token_id": "0-0-4", "token": "small", "ne_tag": "Si-B"}, {"token_id": "0-0-5", "token": "ripe", "ne_tag": "Si-B"}, {"token_id": "0-0-6", "token": "lemons", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Sterilize", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "quart", "ne_tag": "St-B"}, {"token_id": "1-0-3", "token": "-", "ne_tag": "St-I"}, {"token_id": "1-0-4", "token": "size", "ne_tag": "St-I"}, {"token_id": "1-0-5", "token": "(", "ne_tag": "O"}, {"token_id": "1-0-6", "token": "1", "ne_tag": "St-B"}, {"token_id": "1-0-7", "token": "liter", "ne_tag": "St-I"}, {"token_id": "1-0-8", "token": ")", "ne_tag": "O"}, {"token_id": "1-0-9", "token": "canning", "ne_tag": "T-B"}, {"token_id": "1-0-10", "token": "jar", "ne_tag": "T-I"}, {"token_id": "1-0-11", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Clean", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "outside", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "of", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "lemons", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Slice", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "lemons", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "into", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "\u2044", "ne_tag": "Si-B"}, {"token_id": "3-0-5", "token": "4", "ne_tag": "Si-I"}, {"token_id": "3-0-6", "token": "to", "ne_tag": "Si-I"}, {"token_id": "3-0-7", "token": "\u2044", "ne_tag": "Si-I"}, {"token_id": "3-0-8", "token": "2", "ne_tag": "Si-I"}, {"token_id": "3-0-9", "token": "inch", "ne_tag": "Si-I"}, {"token_id": "3-0-10", "token": "(", "ne_tag": "Si-I"}, {"token_id": "3-0-11", "token": "0.64", "ne_tag": "Si-B"}, {"token_id": "3-0-12", "token": "to", "ne_tag": "Si-I"}, {"token_id": "3-0-13", "token": "1.27", "ne_tag": "Si-I"}, {"token_id": "3-0-14", "token": "cm", "ne_tag": "Si-I"}, {"token_id": "3-0-15", "token": ")", "ne_tag": "Si-I"}, {"token_id": "3-0-16", "token": "slices", "ne_tag": "Si-B"}, {"token_id": "3-0-17", "token": ".", "ne_tag": "Si-B"}], [{"token_id": "4-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "all", "ne_tag": "Q-B"}, {"token_id": "4-0-2", "token": "the", "ne_tag": "O"}, {"token_id": "4-0-3", "token": "lemon", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "seeds", "ne_tag": "I-I"}, {"token_id": "4-0-5", "token": ".", "ne_tag": "I-I"}], [{"token_id": "5-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "lemons", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "slices", "ne_tag": "I-I"}, {"token_id": "5-0-4", "token": "with", "ne_tag": "I-I"}, {"token_id": "5-0-5", "token": "salt", "ne_tag": "I-B"}, {"token_id": "5-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "6-0-0", "token": "Let", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "lemons", "ne_tag": "I-B"}, {"token_id": "6-0-3", "token": "sit", "ne_tag": "Ai-B"}, {"token_id": "6-0-4", "token": "in", "ne_tag": "Ai-B"}, {"token_id": "6-0-5", "token": "the", "ne_tag": "Ai-B"}, {"token_id": "6-0-6", "token": "jar", "ne_tag": "T-B"}, {"token_id": "6-0-7", "token": "on", "ne_tag": "O"}, {"token_id": "6-0-8", "token": "your", "ne_tag": "O"}, {"token_id": "6-0-9", "token": "counter", "ne_tag": "T-B"}, {"token_id": "6-0-10", "token": "for", "ne_tag": "O"}, {"token_id": "6-0-11", "token": "about", "ne_tag": "D-B"}, {"token_id": "6-0-12", "token": "a", "ne_tag": "D-I"}, {"token_id": "6-0-13", "token": "week", "ne_tag": "D-I"}, {"token_id": "6-0-14", "token": ".", "ne_tag": "O"}], [{"token_id": "7-0-0", "token": "Cook", "ne_tag": "Ae-B"}, {"token_id": "7-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "7-0-2", "token": "seasonings", "ne_tag": "I-B"}, {"token_id": "7-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "7-0-4", "token": "a", "ne_tag": "I-B"}, {"token_id": "7-0-5", "token": "dry", "ne_tag": "T-B"}, {"token_id": "7-0-6", "token": "pan", "ne_tag": "T-I"}, {"token_id": "7-0-7", "token": "on", "ne_tag": "O"}, {"token_id": "7-0-8", "token": "low", "ne_tag": "St-B"}, {"token_id": "7-0-9", "token": "heat", "ne_tag": "T-B"}, {"token_id": "7-0-10", "token": ".", "ne_tag": "O"}], [{"token_id": "8-0-0", "token": "Stir", "ne_tag": "Ae-B"}, {"token_id": "8-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "8-0-2", "token": "seasonings", "ne_tag": "I-B"}, {"token_id": "8-0-3", "token": "into", "ne_tag": "I-B"}, {"token_id": "8-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "8-0-5", "token": "jar", "ne_tag": "T-B"}, {"token_id": "8-0-6", "token": "and", "ne_tag": "O"}, {"token_id": "8-0-7", "token": "place", "ne_tag": "Ae-B"}, {"token_id": "8-0-8", "token": "it", "ne_tag": "T-B"}, {"token_id": "8-0-9", "token": "in", "ne_tag": "O"}, {"token_id": "8-0-10", "token": "the", "ne_tag": "O"}, {"token_id": "8-0-11", "token": "refrigerator", "ne_tag": "T-B"}, {"token_id": "8-0-12", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "2-0-5", "I-eq"], ["0-0-1", "0-0-6", "other-mod"], ["0-0-4", "0-0-6", "other-mod"], ["0-0-5", "0-0-6", "other-mod"], ["0-0-6", "0-0-0", "Targ"], ["1-0-0", "6-0-6", "T-eq"], ["1-0-2", "1-0-9", "other-mod"], ["1-0-6", "1-0-9", "other-mod"], ["1-0-9", "1-0-0", "Targ"], ["2-0-0", "3-0-2", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "2-0-2", "I-part-of"], ["3-0-0", "4-0-3", "I-part-of"], ["3-0-11", "3-0-16", "other-mod"], ["3-0-16", "3-0-0", "other-mod"], ["3-0-2", "3-0-0", "Targ"], ["3-0-4", "3-0-16", "other-mod"], ["4-0-0", "5-0-2", "I-eq"], ["4-0-1", "4-0-3", "other-mod"], ["4-0-3", "4-0-0", "Targ"], ["5-0-0", "6-0-2", "I-eq"], ["5-0-2", "5-0-0", "Targ"], ["5-0-5", "5-0-0", "Targ"], ["6-0-0", "6-0-3", "Agent"], ["6-0-11", "6-0-0", "other-mod"], ["6-0-2", "6-0-0", "Targ"], ["6-0-3", "8-0-5", "T-eq"], ["6-0-6", "6-0-0", "Dest"], ["6-0-9", "6-0-0", "Dest"], ["7-0-0", "8-0-2", "I-eq"], ["7-0-2", "7-0-0", "Targ"], ["7-0-5", "7-0-0", "Dest"], ["7-0-8", "7-0-9", "other-mod"], ["7-0-9", "7-0-0", "T-comp"], ["8-0-0", "8-0-8", "T-eq"], ["8-0-11", "8-0-7", "Dest"], ["8-0-2", "8-0-0", "Targ"], ["8-0-5", "8-0-0", "Dest"], ["8-0-8", "8-0-7", "Targ"]]}
+{
+    "article_id": "8174653_make-lemon-pickles",
+    "url": "https://www.wikihow.com/Make-Lemon-Pickles",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Gather",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "10",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "to",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "12",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "small",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "ripe",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "lemons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Sterilize",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "quart",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "-",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "size",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "1",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "liter",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "canning",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "jar",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Clean",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "outside",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "lemons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Slice",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "lemons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "\u2044",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "4",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "to",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "\u2044",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "2",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "inch",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "(",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "0.64",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "to",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": "1.27",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-14",
+                "token": "cm",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-15",
+                "token": ")",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-16",
+                "token": "slices",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-17",
+                "token": ".",
+                "ne_tag": "Si-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "all",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "the",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "lemon",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "seeds",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "lemons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "slices",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "with",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "salt",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Let",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "lemons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "sit",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": "in",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "6-0-5",
+                "token": "the",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "6-0-6",
+                "token": "jar",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "6-0-7",
+                "token": "on",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "6-0-8",
+                "token": "your",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "6-0-9",
+                "token": "counter",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "6-0-10",
+                "token": "for",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "6-0-11",
+                "token": "about",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "6-0-12",
+                "token": "a",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "6-0-13",
+                "token": "week",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "6-0-14",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "7-0-0",
+                "token": "Cook",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-2",
+                "token": "seasonings",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-4",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-5",
+                "token": "dry",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "7-0-6",
+                "token": "pan",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "7-0-7",
+                "token": "on",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "7-0-8",
+                "token": "low",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "7-0-9",
+                "token": "heat",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "7-0-10",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "8-0-0",
+                "token": "Stir",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-2",
+                "token": "seasonings",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-3",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-5",
+                "token": "jar",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "8-0-6",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "8-0-7",
+                "token": "place",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-8",
+                "token": "it",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "8-0-9",
+                "token": "in",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "8-0-10",
+                "token": "the",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "8-0-11",
+                "token": "refrigerator",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "8-0-12",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "2-0-5",
+            "I-eq"
+        ],
+        [
+            "0-0-1",
+            "0-0-6",
+            "other-mod"
+        ],
+        [
+            "0-0-4",
+            "0-0-6",
+            "other-mod"
+        ],
+        [
+            "0-0-5",
+            "0-0-6",
+            "other-mod"
+        ],
+        [
+            "0-0-6",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "6-0-6",
+            "T-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-9",
+            "other-mod"
+        ],
+        [
+            "1-0-6",
+            "1-0-9",
+            "other-mod"
+        ],
+        [
+            "1-0-9",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "4-0-3",
+            "I-part-of"
+        ],
+        [
+            "3-0-11",
+            "3-0-16",
+            "other-mod"
+        ],
+        [
+            "3-0-16",
+            "3-0-0",
+            "other-mod"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-4",
+            "3-0-16",
+            "other-mod"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-1",
+            "4-0-3",
+            "other-mod"
+        ],
+        [
+            "4-0-3",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-0",
+            "6-0-2",
+            "I-eq"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-5",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-0",
+            "6-0-3",
+            "Agent"
+        ],
+        [
+            "6-0-11",
+            "6-0-0",
+            "other-mod"
+        ],
+        [
+            "6-0-2",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-3",
+            "8-0-5",
+            "T-eq"
+        ],
+        [
+            "6-0-6",
+            "6-0-0",
+            "Dest"
+        ],
+        [
+            "6-0-9",
+            "6-0-0",
+            "Dest"
+        ],
+        [
+            "7-0-0",
+            "8-0-2",
+            "I-eq"
+        ],
+        [
+            "7-0-2",
+            "7-0-0",
+            "Targ"
+        ],
+        [
+            "7-0-5",
+            "7-0-0",
+            "Dest"
+        ],
+        [
+            "7-0-8",
+            "7-0-9",
+            "other-mod"
+        ],
+        [
+            "7-0-9",
+            "7-0-0",
+            "T-comp"
+        ],
+        [
+            "8-0-0",
+            "8-0-8",
+            "T-eq"
+        ],
+        [
+            "8-0-11",
+            "8-0-7",
+            "Dest"
+        ],
+        [
+            "8-0-2",
+            "8-0-0",
+            "Targ"
+        ],
+        [
+            "8-0-5",
+            "8-0-0",
+            "Dest"
+        ],
+        [
+            "8-0-8",
+            "8-0-7",
+            "Targ"
+        ]
+    ]
+}

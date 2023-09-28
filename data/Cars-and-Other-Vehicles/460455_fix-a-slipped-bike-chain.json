@@ -1,1 +1,520 @@
-{"article_id": "460455_fix-a-slipped-bike-chain", "url": "https://www.wikihow.com/Fix-a-Slipped-Bike-Chain", "steps": [[{"token_id": "0-0-0", "token": "Inspect", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "drive", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": "chain", "ne_tag": "I-I"}, {"token_id": "0-0-4", "token": "first", "ne_tag": "I-I"}, {"token_id": "0-0-5", "token": ".", "ne_tag": "I-I"}], [{"token_id": "1-0-0", "token": "Turn", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "bike", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "upside", "ne_tag": "Ae2-B"}, {"token_id": "1-0-4", "token": "down", "ne_tag": "Ae2-I"}, {"token_id": "1-0-5", "token": "or", "ne_tag": "Ae2-I"}, {"token_id": "1-0-6", "token": "hang", "ne_tag": "Ae-B"}, {"token_id": "1-0-7", "token": "it", "ne_tag": "I-B"}, {"token_id": "1-0-8", "token": "from", "ne_tag": "I-B"}, {"token_id": "1-0-9", "token": "a", "ne_tag": "I-B"}, {"token_id": "1-0-10", "token": "bike", "ne_tag": "T-B"}, {"token_id": "1-0-11", "token": "stand", "ne_tag": "T-I"}, {"token_id": "1-0-12", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Note", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "what", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "gear", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "bike", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "is", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "in", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Push", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "rear", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "derailleur", "ne_tag": "I-I"}, {"token_id": "3-0-4", "token": "arm", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": "toward", "ne_tag": "I-I"}, {"token_id": "3-0-6", "token": "the", "ne_tag": "I-I"}, {"token_id": "3-0-7", "token": "handlebars", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "to", "ne_tag": "I-B"}, {"token_id": "3-0-9", "token": "get", "ne_tag": "Ae-B"}, {"token_id": "3-0-10", "token": "slack", "ne_tag": "Ae-I"}, {"token_id": "3-0-11", "token": "on", "ne_tag": "Ae-I"}, {"token_id": "3-0-12", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "3-0-13", "token": "chain", "ne_tag": "I-B"}, {"token_id": "3-0-14", "token": ".", "ne_tag": "I-B"}], [{"token_id": "4-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "other", "ne_tag": "St-B"}, {"token_id": "4-0-3", "token": "hand", "ne_tag": "T-B"}, {"token_id": "4-0-4", "token": "to", "ne_tag": "O"}, {"token_id": "4-0-5", "token": "slide", "ne_tag": "Ae-B"}, {"token_id": "4-0-6", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-7", "token": "chain", "ne_tag": "I-B"}, {"token_id": "4-0-8", "token": "back", "ne_tag": "Ae2-B"}, {"token_id": "4-0-9", "token": "on", "ne_tag": "Ae2-B"}, {"token_id": "4-0-10", "token": "the", "ne_tag": "Ae2-B"}, {"token_id": "4-0-11", "token": "right", "ne_tag": "I-B"}, {"token_id": "4-0-12", "token": "gear", "ne_tag": "I-I"}, {"token_id": "4-0-13", "token": ".", "ne_tag": "I-I"}], [{"token_id": "5-0-0", "token": "Pedal", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "bike", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "backward", "ne_tag": "Ae2-B"}, {"token_id": "5-0-4", "token": "slowly", "ne_tag": "Ae2-B"}, {"token_id": "5-0-5", "token": "for", "ne_tag": "Ae2-B"}, {"token_id": "5-0-6", "token": "1", "ne_tag": "Si-B"}, {"token_id": "5-0-7", "token": "full", "ne_tag": "Si-I"}, {"token_id": "5-0-8", "token": "rotation", "ne_tag": "Si-I"}, {"token_id": "5-0-9", "token": "with", "ne_tag": "Si-I"}, {"token_id": "5-0-10", "token": "your", "ne_tag": "Si-I"}, {"token_id": "5-0-11", "token": "hand", "ne_tag": "T-B"}, {"token_id": "5-0-12", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "1-0-2", "I-eq"], ["0-0-0", "1-0-7", "I-eq"], ["0-0-2", "0-0-0", "Targ"], ["1-0-0", "1-0-3", "Agent"], ["1-0-0", "2-0-4", "I-eq"], ["1-0-10", "1-0-6", "other-mod"], ["1-0-2", "1-0-0", "Targ"], ["1-0-6", "2-0-4", "I-eq"], ["1-0-7", "1-0-6", "Targ"], ["2-0-0", "3-0-2", "I-part-of"], ["2-0-0", "3-0-7", "I-part-of"], ["2-0-0", "3-0-13", "I-part-of"], ["2-0-2", "2-0-0", "Targ"], ["2-0-4", "2-0-2", "I-part-of"], ["3-0-0", "3-0-9", "other-mod"], ["3-0-13", "3-0-9", "Targ"], ["3-0-2", "3-0-0", "Targ"], ["3-0-7", "3-0-0", "Dest"], ["3-0-9", "4-0-7", "I-part-of"], ["3-0-9", "4-0-11", "I-part-of"], ["4-0-0", "4-0-5", "T-comp"], ["4-0-11", "4-0-5", "Dest"], ["4-0-2", "4-0-3", "other-mod"], ["4-0-3", "4-0-0", "Targ"], ["4-0-5", "4-0-8", "Agent"], ["4-0-7", "4-0-5", "Targ"], ["4-0-8", "5-0-2", "I-eq"], ["5-0-0", "5-0-3", "Agent"], ["5-0-11", "5-0-0", "T-comp"], ["5-0-2", "5-0-0", "Targ"], ["5-0-6", "5-0-0", "other-mod"]]}
+{
+    "article_id": "460455_fix-a-slipped-bike-chain",
+    "url": "https://www.wikihow.com/Fix-a-Slipped-Bike-Chain",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Inspect",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "drive",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "chain",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "first",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Turn",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "bike",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "upside",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "down",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "or",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "hang",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "it",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "from",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "bike",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "stand",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Note",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "what",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "gear",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "bike",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "is",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Push",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "rear",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "derailleur",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "arm",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "toward",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "handlebars",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "get",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "slack",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "on",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": "chain",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-14",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "other",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "hand",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "slide",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "chain",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "back",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "on",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": "the",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-11",
+                "token": "right",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-12",
+                "token": "gear",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-13",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Pedal",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "bike",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "backward",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "slowly",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "for",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": "1",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "5-0-7",
+                "token": "full",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-8",
+                "token": "rotation",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-9",
+                "token": "with",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-10",
+                "token": "your",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-11",
+                "token": "hand",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "5-0-12",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-0",
+            "1-0-7",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "1-0-3",
+            "Agent"
+        ],
+        [
+            "1-0-0",
+            "2-0-4",
+            "I-eq"
+        ],
+        [
+            "1-0-10",
+            "1-0-6",
+            "other-mod"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-6",
+            "2-0-4",
+            "I-eq"
+        ],
+        [
+            "1-0-7",
+            "1-0-6",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-part-of"
+        ],
+        [
+            "2-0-0",
+            "3-0-7",
+            "I-part-of"
+        ],
+        [
+            "2-0-0",
+            "3-0-13",
+            "I-part-of"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "3-0-9",
+            "other-mod"
+        ],
+        [
+            "3-0-13",
+            "3-0-9",
+            "Targ"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-7",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-9",
+            "4-0-7",
+            "I-part-of"
+        ],
+        [
+            "3-0-9",
+            "4-0-11",
+            "I-part-of"
+        ],
+        [
+            "4-0-0",
+            "4-0-5",
+            "T-comp"
+        ],
+        [
+            "4-0-11",
+            "4-0-5",
+            "Dest"
+        ],
+        [
+            "4-0-2",
+            "4-0-3",
+            "other-mod"
+        ],
+        [
+            "4-0-3",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-5",
+            "4-0-8",
+            "Agent"
+        ],
+        [
+            "4-0-7",
+            "4-0-5",
+            "Targ"
+        ],
+        [
+            "4-0-8",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "5-0-0",
+            "5-0-3",
+            "Agent"
+        ],
+        [
+            "5-0-11",
+            "5-0-0",
+            "T-comp"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-6",
+            "5-0-0",
+            "other-mod"
+        ]
+    ]
+}

@@ -1,1 +1,253 @@
-{"article_id": "695560_clean-your-egr-valve", "url": "https://www.wikihow.com/Clean-Your-EGR-Valve", "steps": [[{"token_id": "0-0-0", "token": "Clean", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "and", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "inspect", "ne_tag": "Ae-B"}, {"token_id": "0-0-3", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-4", "token": "vacuum", "ne_tag": "I-B"}, {"token_id": "0-0-5", "token": "hose", "ne_tag": "I-I"}, {"token_id": "0-0-6", "token": ".", "ne_tag": "I-I"}], [{"token_id": "1-0-0", "token": "Inspect", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "EGR", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "valve", "ne_tag": "I-I"}, {"token_id": "1-0-4", "token": "for", "ne_tag": "I-I"}, {"token_id": "1-0-5", "token": "damage", "ne_tag": "Si-B"}, {"token_id": "1-0-6", "token": ".", "ne_tag": "Si-B"}], [{"token_id": "2-0-0", "token": "Clean", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "return", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "tube", "ne_tag": "I-I"}, {"token_id": "2-0-4", "token": "and", "ne_tag": "I-I"}, {"token_id": "2-0-5", "token": "gas", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "entry", "ne_tag": "I-I"}, {"token_id": "2-0-7", "token": "port", "ne_tag": "I-I"}, {"token_id": "2-0-8", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Clean", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "out", "ne_tag": "Ae-I"}, {"token_id": "3-0-2", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "3-0-3", "token": "entry", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "port", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Reinstall", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "EGR", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "valve", "ne_tag": "I-I"}, {"token_id": "4-0-4", "token": ".", "ne_tag": "I-I"}]], "flows": [["0-0-0", "0-0-2", "Targ"], ["0-0-0", "1-0-2", "I-eq"], ["0-0-4", "0-0-0", "Targ"], ["1-0-0", "2-0-2", "I-part-of"], ["1-0-0", "2-0-5", "I-part-of"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "other-mod"], ["2-0-0", "3-0-3", "I-part-of"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "2-0-0", "Targ"], ["3-0-0", "4-0-2", "I-eq"], ["3-0-3", "3-0-0", "Targ"], ["4-0-2", "4-0-0", "Targ"]]}
+{
+    "article_id": "695560_clean-your-egr-valve",
+    "url": "https://www.wikihow.com/Clean-Your-EGR-Valve",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Clean",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "and",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "inspect",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "vacuum",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "hose",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Inspect",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "EGR",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "valve",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "for",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "damage",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": ".",
+                "ne_tag": "Si-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Clean",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "return",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "tube",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "gas",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "entry",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "port",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Clean",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "out",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "entry",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "port",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Reinstall",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "EGR",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "valve",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "0-0-2",
+            "Targ"
+        ],
+        [
+            "0-0-0",
+            "1-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-4",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-part-of"
+        ],
+        [
+            "1-0-0",
+            "2-0-5",
+            "I-part-of"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "3-0-3",
+            "I-part-of"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-eq"
+        ],
+        [
+            "3-0-3",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ]
+    ]
+}

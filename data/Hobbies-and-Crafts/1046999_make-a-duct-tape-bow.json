@@ -1,1 +1,427 @@
-{"article_id": "1046999_make-a-duct-tape-bow", "url": "https://www.wikihow.com/Make-a-Duct-Tape-Bow", "steps": [[{"token_id": "0-0-0", "token": "Get", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "some", "ne_tag": "Q-B"}, {"token_id": "0-0-2", "token": "colored", "ne_tag": "Si-B"}, {"token_id": "0-0-3", "token": "duct", "ne_tag": "I-B"}, {"token_id": "0-0-4", "token": "tape", "ne_tag": "I-I"}, {"token_id": "0-0-5", "token": ".", "ne_tag": "I-I"}], [{"token_id": "1-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "two", "ne_tag": "Q-B"}, {"token_id": "1-0-2", "token": "6", "ne_tag": "Si-B"}, {"token_id": "1-0-3", "token": "inch", "ne_tag": "Si-I"}, {"token_id": "1-0-4", "token": "(", "ne_tag": "Si-I"}, {"token_id": "1-0-5", "token": "15.2", "ne_tag": "Si-B"}, {"token_id": "1-0-6", "token": "cm", "ne_tag": "Si-I"}, {"token_id": "1-0-7", "token": ")", "ne_tag": "Si-I"}, {"token_id": "1-0-8", "token": "strips", "ne_tag": "Si-B"}, {"token_id": "1-0-9", "token": "of", "ne_tag": "Si-B"}, {"token_id": "1-0-10", "token": "duct", "ne_tag": "I-B"}, {"token_id": "1-0-11", "token": "tape", "ne_tag": "I-I"}, {"token_id": "1-0-12", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Line", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "up", "ne_tag": "Ae-I"}, {"token_id": "2-0-2", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "2-0-3", "token": "two", "ne_tag": "Q-B"}, {"token_id": "2-0-4", "token": "pieces", "ne_tag": "Q-I"}, {"token_id": "2-0-5", "token": "of", "ne_tag": "O"}, {"token_id": "2-0-6", "token": "tape", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "and", "ne_tag": "I-B"}, {"token_id": "2-0-8", "token": "stick", "ne_tag": "Ae-B"}, {"token_id": "2-0-9", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-10", "token": "sticky", "ne_tag": "I-B"}, {"token_id": "2-0-11", "token": "sides", "ne_tag": "I-I"}, {"token_id": "2-0-12", "token": "to", "ne_tag": "I-I"}, {"token_id": "2-0-13", "token": "each", "ne_tag": "Si-B"}, {"token_id": "2-0-14", "token": "other", "ne_tag": "Si-I"}, {"token_id": "2-0-15", "token": ".", "ne_tag": "Si-I"}], [{"token_id": "3-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "strip", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "three", "ne_tag": "Si-B"}, {"token_id": "3-0-4", "token": "ways", "ne_tag": "Si-I"}, {"token_id": "3-0-5", "token": ".", "ne_tag": "Si-I"}], [{"token_id": "4-0-0", "token": "Tape", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "center", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "of", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "4-0-5", "token": "bow", "ne_tag": "I-B"}, {"token_id": "4-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "5-0-0", "token": "Attach", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "bow", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "to", "ne_tag": "I-B"}, {"token_id": "5-0-4", "token": "something", "ne_tag": "I-B"}, {"token_id": "5-0-5", "token": ".", "ne_tag": "I-B"}], [{"token_id": "6-0-0", "token": "Finished", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": ".", "ne_tag": "Ae-B"}]], "flows": [["0-0-0", "1-0-10", "I-part-of"], ["0-0-1", "0-0-3", "other-mod"], ["0-0-2", "0-0-3", "other-mod"], ["0-0-3", "0-0-0", "Targ"], ["1-0-0", "2-0-6", "I-eq"], ["1-0-1", "1-0-10", "other-mod"], ["1-0-10", "1-0-0", "Targ"], ["1-0-2", "1-0-8", "other-mod"], ["1-0-5", "1-0-8", "other-mod"], ["1-0-8", "1-0-10", "other-mod"], ["2-0-0", "2-0-10", "I-part-of"], ["2-0-10", "2-0-8", "Targ"], ["2-0-13", "2-0-8", "other-mod"], ["2-0-3", "2-0-6", "other-mod"], ["2-0-6", "2-0-0", "Targ"], ["2-0-8", "3-0-2", "I-part-of"], ["3-0-0", "4-0-5", "I-eq"], ["3-0-2", "3-0-0", "Targ"], ["3-0-3", "3-0-0", "other-mod"], ["4-0-0", "5-0-2", "I-eq"], ["4-0-2", "4-0-0", "Targ"], ["4-0-5", "4-0-2", "I-part-of"], ["5-0-0", "6-0-0", "Agent"], ["5-0-2", "5-0-0", "Targ"], ["5-0-4", "5-0-0", "Dest"]]}
+{
+    "article_id": "1046999_make-a-duct-tape-bow",
+    "url": "https://www.wikihow.com/Make-a-Duct-Tape-Bow",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Get",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "some",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "colored",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "duct",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "tape",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "two",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "6",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "inch",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "(",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "15.2",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "cm",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": ")",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "strips",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "of",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "duct",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "tape",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Line",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "up",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "two",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "pieces",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "tape",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "stick",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "sticky",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": "sides",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-12",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-13",
+                "token": "each",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "2-0-14",
+                "token": "other",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "2-0-15",
+                "token": ".",
+                "ne_tag": "Si-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "strip",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "three",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "ways",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": ".",
+                "ne_tag": "Si-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Tape",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "center",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "bow",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Attach",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "bow",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "something",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Finished",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": ".",
+                "ne_tag": "Ae-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-10",
+            "I-part-of"
+        ],
+        [
+            "0-0-1",
+            "0-0-3",
+            "other-mod"
+        ],
+        [
+            "0-0-2",
+            "0-0-3",
+            "other-mod"
+        ],
+        [
+            "0-0-3",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-6",
+            "I-eq"
+        ],
+        [
+            "1-0-1",
+            "1-0-10",
+            "other-mod"
+        ],
+        [
+            "1-0-10",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-2",
+            "1-0-8",
+            "other-mod"
+        ],
+        [
+            "1-0-5",
+            "1-0-8",
+            "other-mod"
+        ],
+        [
+            "1-0-8",
+            "1-0-10",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "2-0-10",
+            "I-part-of"
+        ],
+        [
+            "2-0-10",
+            "2-0-8",
+            "Targ"
+        ],
+        [
+            "2-0-13",
+            "2-0-8",
+            "other-mod"
+        ],
+        [
+            "2-0-3",
+            "2-0-6",
+            "other-mod"
+        ],
+        [
+            "2-0-6",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-8",
+            "3-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "4-0-5",
+            "I-eq"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-3",
+            "3-0-0",
+            "other-mod"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-5",
+            "4-0-2",
+            "I-part-of"
+        ],
+        [
+            "5-0-0",
+            "6-0-0",
+            "Agent"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-4",
+            "5-0-0",
+            "Dest"
+        ]
+    ]
+}

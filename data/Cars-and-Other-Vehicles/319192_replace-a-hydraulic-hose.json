@@ -1,1 +1,475 @@
-{"article_id": "319192_replace-a-hydraulic-hose", "url": "https://www.wikihow.com/Replace-a-Hydraulic-Hose", "steps": [[{"token_id": "0-0-0", "token": "Put", "ne_tag": "O"}, {"token_id": "0-0-1", "token": "on", "ne_tag": "O"}, {"token_id": "0-0-2", "token": "goggles", "ne_tag": "O"}, {"token_id": "0-0-3", "token": "and", "ne_tag": "O"}, {"token_id": "0-0-4", "token": "gloves", "ne_tag": "O"}, {"token_id": "0-0-5", "token": "to", "ne_tag": "O"}, {"token_id": "0-0-6", "token": "protect", "ne_tag": "O"}, {"token_id": "0-0-7", "token": "yourself", "ne_tag": "O"}, {"token_id": "0-0-8", "token": "from", "ne_tag": "O"}, {"token_id": "0-0-9", "token": "the", "ne_tag": "O"}, {"token_id": "0-0-10", "token": "hydraulic", "ne_tag": "O"}, {"token_id": "0-0-11", "token": "fluid", "ne_tag": "O"}, {"token_id": "0-0-12", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Release", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "all", "ne_tag": "Q-B"}, {"token_id": "1-0-2", "token": "the", "ne_tag": "O"}, {"token_id": "1-0-3", "token": "pressure", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "from", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "the", "ne_tag": "I-B"}, {"token_id": "1-0-6", "token": "hydraulic", "ne_tag": "I-B"}, {"token_id": "1-0-7", "token": "system", "ne_tag": "I-I"}, {"token_id": "1-0-8", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Lay", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "sheet", "ne_tag": "T-B"}, {"token_id": "2-0-3", "token": "or", "ne_tag": "O"}, {"token_id": "2-0-4", "token": "bucket", "ne_tag": "T-B"}, {"token_id": "2-0-5", "token": "underneath", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "hose", "ne_tag": "I-B"}, {"token_id": "2-0-8", "token": "you", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": "\u2019re", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": "removing", "ne_tag": "I-B"}, {"token_id": "2-0-11", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "any", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "coverings", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "that", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "get", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "in", "ne_tag": "I-B"}, {"token_id": "3-0-6", "token": "the", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "way", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "of", "ne_tag": "I-B"}, {"token_id": "3-0-9", "token": "the", "ne_tag": "I-B"}, {"token_id": "3-0-10", "token": "hose", "ne_tag": "I-B"}, {"token_id": "3-0-11", "token": "attachment", "ne_tag": "I-I"}, {"token_id": "3-0-12", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Wash", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "off", "ne_tag": "Ae-I"}, {"token_id": "4-0-2", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "4-0-3", "token": "connectors", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "on", "ne_tag": "I-B"}, {"token_id": "4-0-5", "token": "both", "ne_tag": "I-B"}, {"token_id": "4-0-6", "token": "sides", "ne_tag": "I-I"}, {"token_id": "4-0-7", "token": "of", "ne_tag": "I-I"}, {"token_id": "4-0-8", "token": "the", "ne_tag": "I-I"}, {"token_id": "4-0-9", "token": "hose", "ne_tag": "I-B"}, {"token_id": "4-0-10", "token": ".", "ne_tag": "I-B"}], [{"token_id": "5-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "2", "ne_tag": "Q-B"}, {"token_id": "5-0-2", "token": "wrenches", "ne_tag": "T-B"}, {"token_id": "5-0-3", "token": "to", "ne_tag": "Ae2-B"}, {"token_id": "5-0-4", "token": "unscrew", "ne_tag": "Ae2-I"}, {"token_id": "5-0-5", "token": "the", "ne_tag": "Ae2-I"}, {"token_id": "5-0-6", "token": "fittings", "ne_tag": "I-B"}, {"token_id": "5-0-7", "token": "securing", "ne_tag": "Ae-B"}, {"token_id": "5-0-8", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-9", "token": "hose", "ne_tag": "I-B"}, {"token_id": "5-0-10", "token": ".", "ne_tag": "I-B"}]], "flows": [["1-0-0", "2-0-7", "I-eq"], ["1-0-1", "1-0-3", "other-mod"], ["1-0-3", "1-0-0", "Targ"], ["1-0-6", "1-0-0", "other-mod"], ["2-0-0", "3-0-10", "I-part-of"], ["2-0-2", "2-0-0", "Targ"], ["2-0-4", "2-0-0", "Targ"], ["2-0-5", "2-0-0", "Dest"], ["2-0-7", "2-0-5", "I-part-of"], ["3-0-0", "4-0-9", "I-eq"], ["3-0-10", "3-0-2", "I-part-of"], ["3-0-2", "3-0-0", "Targ"], ["4-0-0", "5-0-9", "I-eq"], ["4-0-3", "4-0-0", "Targ"], ["4-0-5", "4-0-3", "I-part-of"], ["4-0-9", "4-0-5", "I-part-of"], ["5-0-0", "5-0-3", "T-comp"], ["5-0-1", "5-0-2", "other-mod"], ["5-0-2", "5-0-0", "Targ"], ["5-0-6", "5-0-3", "Targ"], ["5-0-7", "5-0-3", "I-comp"], ["5-0-9", "5-0-7", "Targ"]]}
+{
+    "article_id": "319192_replace-a-hydraulic-hose",
+    "url": "https://www.wikihow.com/Replace-a-Hydraulic-Hose",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Put",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "on",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "goggles",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "gloves",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "protect",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "yourself",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "from",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "the",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "hydraulic",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "fluid",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Release",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "all",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "the",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "pressure",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "from",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "hydraulic",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "system",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Lay",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "sheet",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "bucket",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "underneath",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "hose",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "you",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "\u2019re",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "removing",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "any",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "coverings",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "that",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "get",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "way",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "hose",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "attachment",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Wash",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "off",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "connectors",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "on",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "both",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "sides",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "of",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "hose",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "2",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "wrenches",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "to",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "unscrew",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "the",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": "fittings",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-7",
+                "token": "securing",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-8",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-9",
+                "token": "hose",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "1-0-0",
+            "2-0-7",
+            "I-eq"
+        ],
+        [
+            "1-0-1",
+            "1-0-3",
+            "other-mod"
+        ],
+        [
+            "1-0-3",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-6",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "3-0-10",
+            "I-part-of"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-7",
+            "2-0-5",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "4-0-9",
+            "I-eq"
+        ],
+        [
+            "3-0-10",
+            "3-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "5-0-9",
+            "I-eq"
+        ],
+        [
+            "4-0-3",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-5",
+            "4-0-3",
+            "I-part-of"
+        ],
+        [
+            "4-0-9",
+            "4-0-5",
+            "I-part-of"
+        ],
+        [
+            "5-0-0",
+            "5-0-3",
+            "T-comp"
+        ],
+        [
+            "5-0-1",
+            "5-0-2",
+            "other-mod"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-6",
+            "5-0-3",
+            "Targ"
+        ],
+        [
+            "5-0-7",
+            "5-0-3",
+            "I-comp"
+        ],
+        [
+            "5-0-9",
+            "5-0-7",
+            "Targ"
+        ]
+    ]
+}

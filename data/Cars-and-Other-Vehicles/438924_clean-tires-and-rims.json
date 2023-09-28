@@ -1,1 +1,386 @@
-{"article_id": "438924_clean-tires-and-rims", "url": "https://www.wikihow.com/Clean-Tires-and-Rims", "steps": [[{"token_id": "0-0-0", "token": "Spray", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "synthetic", "ne_tag": "St-B"}, {"token_id": "0-0-3", "token": "wheel", "ne_tag": "T-B"}, {"token_id": "0-0-4", "token": "cleaner", "ne_tag": "T-I"}, {"token_id": "0-0-5", "token": "onto", "ne_tag": "O"}, {"token_id": "0-0-6", "token": "dry", "ne_tag": "Si-B"}, {"token_id": "0-0-7", "token": "tires", "ne_tag": "I-B"}, {"token_id": "0-0-8", "token": "and", "ne_tag": "I-B"}, {"token_id": "0-0-9", "token": "allow", "ne_tag": "Ae-B"}, {"token_id": "0-0-10", "token": "five", "ne_tag": "D-B"}, {"token_id": "0-0-11", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "0-0-12", "token": "to", "ne_tag": "O"}, {"token_id": "0-0-13", "token": "set", "ne_tag": "Ae2-B"}, {"token_id": "0-0-14", "token": "in", "ne_tag": "Ae2-I"}, {"token_id": "0-0-15", "token": "and", "ne_tag": "Ae2-I"}, {"token_id": "0-0-16", "token": "lift", "ne_tag": "Ae2-B"}, {"token_id": "0-0-17", "token": "off", "ne_tag": "Ae2-I"}, {"token_id": "0-0-18", "token": "grime", "ne_tag": "I-B"}, {"token_id": "0-0-19", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Rinse", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "off", "ne_tag": "Ae-I"}, {"token_id": "1-0-2", "token": "cleaner", "ne_tag": "T-B"}, {"token_id": "1-0-3", "token": "with", "ne_tag": "O"}, {"token_id": "1-0-4", "token": "a", "ne_tag": "O"}, {"token_id": "1-0-5", "token": "hose", "ne_tag": "T-B"}, {"token_id": "1-0-6", "token": ",", "ne_tag": "O"}, {"token_id": "1-0-7", "token": "being", "ne_tag": "O"}, {"token_id": "1-0-8", "token": "sure", "ne_tag": "O"}, {"token_id": "1-0-9", "token": "to", "ne_tag": "O"}, {"token_id": "1-0-10", "token": "remove", "ne_tag": "Ae-B"}, {"token_id": "1-0-11", "token": "all", "ne_tag": "Q-B"}, {"token_id": "1-0-12", "token": "traces", "ne_tag": "I-B"}, {"token_id": "1-0-13", "token": "of", "ne_tag": "I-B"}, {"token_id": "1-0-14", "token": "the", "ne_tag": "I-B"}, {"token_id": "1-0-15", "token": "cleaner", "ne_tag": "I-B"}, {"token_id": "1-0-16", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Examine", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "tires", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Apply", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "tire", "ne_tag": "I-B"}, {"token_id": "3-0-2", "token": "wetting", "ne_tag": "I-I"}, {"token_id": "3-0-3", "token": "formula", "ne_tag": "I-I"}, {"token_id": "3-0-4", "token": "to", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": "the", "ne_tag": "I-I"}, {"token_id": "3-0-6", "token": "walls", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "of", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "the", "ne_tag": "I-B"}, {"token_id": "3-0-9", "token": "tire", "ne_tag": "I-B"}, {"token_id": "3-0-10", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "0-0-9", "Targ"], ["0-0-10", "0-0-9", "other-mod"], ["0-0-13", "0-0-16", "Agent"], ["0-0-16", "1-0-2", "T-part-of"], ["0-0-18", "0-0-13", "Targ"], ["0-0-2", "0-0-3", "other-mod"], ["0-0-3", "0-0-0", "Targ"], ["0-0-6", "0-0-7", "other-mod"], ["0-0-7", "0-0-0", "Dest"], ["0-0-9", "0-0-13", "Agent"], ["1-0-0", "1-0-10", "A-eq"], ["1-0-10", "2-0-2", "I-eq"], ["1-0-11", "1-0-12", "other-mod"], ["1-0-12", "1-0-10", "Targ"], ["1-0-15", "1-0-12", "I-part-of"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "T-comp"], ["2-0-0", "3-0-9", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["3-0-1", "3-0-0", "Targ"], ["3-0-6", "3-0-0", "Dest"], ["3-0-9", "3-0-6", "I-part-of"]]}
+{
+    "article_id": "438924_clean-tires-and-rims",
+    "url": "https://www.wikihow.com/Clean-Tires-and-Rims",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Spray",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "synthetic",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "wheel",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "cleaner",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "onto",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "dry",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "tires",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "allow",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "five",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": "set",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-14",
+                "token": "in",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "0-0-15",
+                "token": "and",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "0-0-16",
+                "token": "lift",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-17",
+                "token": "off",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "0-0-18",
+                "token": "grime",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-19",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Rinse",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "off",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "cleaner",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "with",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "hose",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "being",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "sure",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "all",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "traces",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-14",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-15",
+                "token": "cleaner",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-16",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Examine",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "tires",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Apply",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "tire",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "wetting",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "formula",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "walls",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "tire",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "0-0-9",
+            "Targ"
+        ],
+        [
+            "0-0-10",
+            "0-0-9",
+            "other-mod"
+        ],
+        [
+            "0-0-13",
+            "0-0-16",
+            "Agent"
+        ],
+        [
+            "0-0-16",
+            "1-0-2",
+            "T-part-of"
+        ],
+        [
+            "0-0-18",
+            "0-0-13",
+            "Targ"
+        ],
+        [
+            "0-0-2",
+            "0-0-3",
+            "other-mod"
+        ],
+        [
+            "0-0-3",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-6",
+            "0-0-7",
+            "other-mod"
+        ],
+        [
+            "0-0-7",
+            "0-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-9",
+            "0-0-13",
+            "Agent"
+        ],
+        [
+            "1-0-0",
+            "1-0-10",
+            "A-eq"
+        ],
+        [
+            "1-0-10",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "1-0-11",
+            "1-0-12",
+            "other-mod"
+        ],
+        [
+            "1-0-12",
+            "1-0-10",
+            "Targ"
+        ],
+        [
+            "1-0-15",
+            "1-0-12",
+            "I-part-of"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "T-comp"
+        ],
+        [
+            "2-0-0",
+            "3-0-9",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-1",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-6",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-9",
+            "3-0-6",
+            "I-part-of"
+        ]
+    ]
+}

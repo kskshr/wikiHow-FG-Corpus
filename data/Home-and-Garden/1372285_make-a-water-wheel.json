@@ -1,1 +1,811 @@
-{"article_id": "1372285_make-a-water-wheel", "url": "https://www.wikihow.com/Make-a-Water-Wheel", "steps": [[{"token_id": "0-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "scissors", "ne_tag": "T-B"}, {"token_id": "0-0-2", "token": "to", "ne_tag": "O"}, {"token_id": "0-0-3", "token": "cut", "ne_tag": "Ae-B"}, {"token_id": "0-0-4", "token": "10", "ne_tag": "Q-B"}, {"token_id": "0-0-5", "token": "plastic", "ne_tag": "I-B"}, {"token_id": "0-0-6", "token": "spoons", "ne_tag": "I-I"}, {"token_id": "0-0-7", "token": "in", "ne_tag": "I-I"}, {"token_id": "0-0-8", "token": "half", "ne_tag": "Si-B"}, {"token_id": "0-0-9", "token": "at", "ne_tag": "Si-I"}, {"token_id": "0-0-10", "token": "an", "ne_tag": "Si-I"}, {"token_id": "0-0-11", "token": "angle", "ne_tag": "Si-I"}, {"token_id": "0-0-12", "token": ".", "ne_tag": "Si-I"}], [{"token_id": "1-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "circle", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "with", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "a", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "diameter", "ne_tag": "Si-B"}, {"token_id": "1-0-6", "token": "equal", "ne_tag": "Si-B"}, {"token_id": "1-0-7", "token": "to", "ne_tag": "Si-B"}, {"token_id": "1-0-8", "token": "the", "ne_tag": "Si-B"}, {"token_id": "1-0-9", "token": "length", "ne_tag": "Si-B"}, {"token_id": "1-0-10", "token": "of", "ne_tag": "Si-B"}, {"token_id": "1-0-11", "token": "a", "ne_tag": "Si-B"}, {"token_id": "1-0-12", "token": "spoon", "ne_tag": "I-B"}, {"token_id": "1-0-13", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Insert", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "spoons", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "into", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "outside", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "edge", "ne_tag": "I-I"}, {"token_id": "2-0-7", "token": "of", "ne_tag": "I-I"}, {"token_id": "2-0-8", "token": "the", "ne_tag": "I-I"}, {"token_id": "2-0-9", "token": "styrofoam", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "pencil", "ne_tag": "T-B"}, {"token_id": "3-0-3", "token": "to", "ne_tag": "O"}, {"token_id": "3-0-4", "token": "mark", "ne_tag": "Ae-B"}, {"token_id": "3-0-5", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-6", "token": "center", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "of", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "2", "ne_tag": "Q-B"}, {"token_id": "3-0-9", "token": "paper", "ne_tag": "I-B"}, {"token_id": "3-0-10", "token": "plates", "ne_tag": "I-I"}, {"token_id": "3-0-11", "token": "and", "ne_tag": "I-I"}, {"token_id": "3-0-12", "token": "your", "ne_tag": "I-I"}, {"token_id": "3-0-13", "token": "foam", "ne_tag": "I-B"}, {"token_id": "3-0-14", "token": "circle", "ne_tag": "I-I"}, {"token_id": "3-0-15", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Make", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "hole", "ne_tag": "Si-B"}, {"token_id": "4-0-3", "token": "in", "ne_tag": "Si-B"}, {"token_id": "4-0-4", "token": "the", "ne_tag": "Si-B"}, {"token_id": "4-0-5", "token": "center", "ne_tag": "I-B"}, {"token_id": "4-0-6", "token": "with", "ne_tag": "I-B"}, {"token_id": "4-0-7", "token": "a", "ne_tag": "I-B"}, {"token_id": "4-0-8", "token": "wooden", "ne_tag": "St-B"}, {"token_id": "4-0-9", "token": "skewer", "ne_tag": "T-B"}, {"token_id": "4-0-10", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Glue", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "plates", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "to", "ne_tag": "I-B"}, {"token_id": "5-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "5-0-5", "token": "sides", "ne_tag": "I-B"}, {"token_id": "5-0-6", "token": "of", "ne_tag": "I-B"}, {"token_id": "5-0-7", "token": "the", "ne_tag": "I-B"}, {"token_id": "5-0-8", "token": "foam", "ne_tag": "I-B"}, {"token_id": "5-0-9", "token": "disk", "ne_tag": "I-I"}, {"token_id": "5-0-10", "token": ".", "ne_tag": "I-I"}], [{"token_id": "6-0-0", "token": "Push", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "skewer", "ne_tag": "I-B"}, {"token_id": "6-0-3", "token": "through", "ne_tag": "I-B"}, {"token_id": "6-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "6-0-5", "token": "center", "ne_tag": "I-B"}, {"token_id": "6-0-6", "token": "of", "ne_tag": "I-B"}, {"token_id": "6-0-7", "token": "the", "ne_tag": "I-B"}, {"token_id": "6-0-8", "token": "wheel", "ne_tag": "I-B"}, {"token_id": "6-0-9", "token": ".", "ne_tag": "I-B"}], [{"token_id": "7-0-0", "token": "Set", "ne_tag": "Ae-B"}, {"token_id": "7-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "7-0-2", "token": "wheel", "ne_tag": "I-B"}, {"token_id": "7-0-3", "token": "on", "ne_tag": "I-B"}, {"token_id": "7-0-4", "token": "a", "ne_tag": "I-B"}, {"token_id": "7-0-5", "token": "bucket", "ne_tag": "I-B"}, {"token_id": "7-0-6", "token": "and", "ne_tag": "I-B"}, {"token_id": "7-0-7", "token": "fill", "ne_tag": "Ae-B"}, {"token_id": "7-0-8", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "7-0-9", "token": "glass", "ne_tag": "I-B"}, {"token_id": "7-0-10", "token": "with", "ne_tag": "I-B"}, {"token_id": "7-0-11", "token": "water", "ne_tag": "I-B"}, {"token_id": "7-0-12", "token": ".", "ne_tag": "I-B"}], [{"token_id": "8-0-0", "token": "Slowly", "ne_tag": "I-B"}, {"token_id": "8-0-1", "token": "pour", "ne_tag": "Ae-B"}, {"token_id": "8-0-2", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "8-0-3", "token": "water", "ne_tag": "I-B"}, {"token_id": "8-0-4", "token": "onto", "ne_tag": "I-B"}, {"token_id": "8-0-5", "token": "the", "ne_tag": "I-B"}, {"token_id": "8-0-6", "token": "spoons", "ne_tag": "I-B"}, {"token_id": "8-0-7", "token": "to", "ne_tag": "Ae2-B"}, {"token_id": "8-0-8", "token": "turn", "ne_tag": "Ae2-I"}, {"token_id": "8-0-9", "token": "the", "ne_tag": "Ae2-I"}, {"token_id": "8-0-10", "token": "wheel", "ne_tag": "I-B"}, {"token_id": "8-0-11", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "0-0-3", "T-comp"], ["0-0-1", "0-0-0", "Targ"], ["0-0-3", "2-0-2", "I-eq"], ["0-0-4", "0-0-5", "other-mod"], ["0-0-5", "0-0-3", "Targ"], ["0-0-8", "0-0-3", "other-mod"], ["1-0-0", "2-0-9", "I-eq"], ["1-0-12", "1-0-9", "other-mod"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "Dest"], ["1-0-9", "1-0-5", "other-mod"], ["2-0-0", "5-0-8", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "2-0-0", "Dest"], ["2-0-9", "2-0-5", "I-part-of"], ["3-0-0", "3-0-4", "T-comp"], ["3-0-13", "3-0-6", "I-part-of"], ["3-0-2", "3-0-0", "Targ"], ["3-0-4", "4-0-5", "I-part-of"], ["3-0-6", "3-0-4", "Targ"], ["3-0-8", "3-0-9", "other-mod"], ["3-0-9", "3-0-6", "I-part-of"], ["4-0-0", "5-0-2", "I-eq"], ["4-0-2", "4-0-0", "Targ"], ["4-0-5", "4-0-0", "Dest"], ["4-0-8", "4-0-9", "other-mod"], ["4-0-9", "4-0-0", "T-comp"], ["5-0-0", "6-0-8", "I-eq"], ["5-0-2", "5-0-0", "Targ"], ["5-0-5", "5-0-0", "Dest"], ["5-0-8", "5-0-5", "I-part-of"], ["6-0-0", "7-0-2", "I-eq"], ["6-0-2", "6-0-0", "Targ"], ["6-0-5", "6-0-0", "Dest"], ["6-0-8", "6-0-5", "I-part-of"], ["7-0-0", "8-0-6", "I-part-of"], ["7-0-0", "8-0-10", "I-eq"], ["7-0-11", "7-0-7", "Targ"], ["7-0-2", "7-0-0", "Targ"], ["7-0-5", "7-0-0", "Dest"], ["7-0-7", "8-0-3", "I-part-of"], ["7-0-9", "7-0-7", "Dest"], ["8-0-1", "8-0-7", "A-eq"], ["8-0-10", "8-0-7", "Targ"], ["8-0-3", "8-0-1", "Targ"], ["8-0-6", "8-0-1", "Dest"]]}
+{
+    "article_id": "1372285_make-a-water-wheel",
+    "url": "https://www.wikihow.com/Make-a-Water-Wheel",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "scissors",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "10",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "plastic",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "spoons",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "in",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "half",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "at",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "an",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "angle",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": ".",
+                "ne_tag": "Si-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "circle",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "diameter",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "equal",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "to",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "the",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "length",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "of",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "a",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "spoon",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Insert",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "spoons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "outside",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "edge",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "of",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "styrofoam",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "pencil",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "mark",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "center",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "2",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "paper",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "plates",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "your",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": "foam",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-14",
+                "token": "circle",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-15",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Make",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "hole",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "in",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "the",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "center",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "wooden",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "skewer",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Glue",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "plates",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "sides",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-7",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-8",
+                "token": "foam",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-9",
+                "token": "disk",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-10",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Push",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "skewer",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "through",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-5",
+                "token": "center",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-6",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-7",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-8",
+                "token": "wheel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-9",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "7-0-0",
+                "token": "Set",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-2",
+                "token": "wheel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-3",
+                "token": "on",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-4",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-5",
+                "token": "bucket",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-6",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-7",
+                "token": "fill",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-8",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-9",
+                "token": "glass",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-10",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-11",
+                "token": "water",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-12",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "8-0-0",
+                "token": "Slowly",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-1",
+                "token": "pour",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-2",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-3",
+                "token": "water",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-4",
+                "token": "onto",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-5",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-6",
+                "token": "spoons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-7",
+                "token": "to",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "8-0-8",
+                "token": "turn",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "8-0-9",
+                "token": "the",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "8-0-10",
+                "token": "wheel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-11",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "0-0-3",
+            "T-comp"
+        ],
+        [
+            "0-0-1",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-3",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-4",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-5",
+            "0-0-3",
+            "Targ"
+        ],
+        [
+            "0-0-8",
+            "0-0-3",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-9",
+            "I-eq"
+        ],
+        [
+            "1-0-12",
+            "1-0-9",
+            "other-mod"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-9",
+            "1-0-5",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "5-0-8",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-9",
+            "2-0-5",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "3-0-4",
+            "T-comp"
+        ],
+        [
+            "3-0-13",
+            "3-0-6",
+            "I-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-4",
+            "4-0-5",
+            "I-part-of"
+        ],
+        [
+            "3-0-6",
+            "3-0-4",
+            "Targ"
+        ],
+        [
+            "3-0-8",
+            "3-0-9",
+            "other-mod"
+        ],
+        [
+            "3-0-9",
+            "3-0-6",
+            "I-part-of"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-5",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "4-0-8",
+            "4-0-9",
+            "other-mod"
+        ],
+        [
+            "4-0-9",
+            "4-0-0",
+            "T-comp"
+        ],
+        [
+            "5-0-0",
+            "6-0-8",
+            "I-eq"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-5",
+            "5-0-0",
+            "Dest"
+        ],
+        [
+            "5-0-8",
+            "5-0-5",
+            "I-part-of"
+        ],
+        [
+            "6-0-0",
+            "7-0-2",
+            "I-eq"
+        ],
+        [
+            "6-0-2",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-5",
+            "6-0-0",
+            "Dest"
+        ],
+        [
+            "6-0-8",
+            "6-0-5",
+            "I-part-of"
+        ],
+        [
+            "7-0-0",
+            "8-0-6",
+            "I-part-of"
+        ],
+        [
+            "7-0-0",
+            "8-0-10",
+            "I-eq"
+        ],
+        [
+            "7-0-11",
+            "7-0-7",
+            "Targ"
+        ],
+        [
+            "7-0-2",
+            "7-0-0",
+            "Targ"
+        ],
+        [
+            "7-0-5",
+            "7-0-0",
+            "Dest"
+        ],
+        [
+            "7-0-7",
+            "8-0-3",
+            "I-part-of"
+        ],
+        [
+            "7-0-9",
+            "7-0-7",
+            "Dest"
+        ],
+        [
+            "8-0-1",
+            "8-0-7",
+            "A-eq"
+        ],
+        [
+            "8-0-10",
+            "8-0-7",
+            "Targ"
+        ],
+        [
+            "8-0-3",
+            "8-0-1",
+            "Targ"
+        ],
+        [
+            "8-0-6",
+            "8-0-1",
+            "Dest"
+        ]
+    ]
+}

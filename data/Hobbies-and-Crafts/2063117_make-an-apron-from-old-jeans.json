@@ -1,1 +1,381 @@
-{"article_id": "2063117_make-an-apron-from-old-jeans", "url": "https://www.wikihow.com/Make-an-Apron-from-Old-Jeans", "steps": [[{"token_id": "0-0-0", "token": "Take", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "pair", "ne_tag": "Q-B"}, {"token_id": "0-0-3", "token": "of", "ne_tag": "O"}, {"token_id": "0-0-4", "token": "old", "ne_tag": "Si-B"}, {"token_id": "0-0-5", "token": "jeans", "ne_tag": "I-B"}, {"token_id": "0-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "jeans", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "1", "ne_tag": "Si-B"}, {"token_id": "1-0-4", "token": "inch", "ne_tag": "Si-I"}, {"token_id": "1-0-5", "token": "(", "ne_tag": "Si-I"}, {"token_id": "1-0-6", "token": "2.5", "ne_tag": "Si-B"}, {"token_id": "1-0-7", "token": "cm", "ne_tag": "Si-I"}, {"token_id": "1-0-8", "token": ")", "ne_tag": "Si-I"}, {"token_id": "1-0-9", "token": "below", "ne_tag": "Si-I"}, {"token_id": "1-0-10", "token": "the", "ne_tag": "Si-I"}, {"token_id": "1-0-11", "token": "pocket", "ne_tag": "I-B"}, {"token_id": "1-0-12", "token": "line", "ne_tag": "I-I"}, {"token_id": "1-0-13", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "right", "ne_tag": "Ae-I"}, {"token_id": "2-0-2", "token": "at", "ne_tag": "Ae-I"}, {"token_id": "2-0-3", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "2-0-4", "token": "zipper", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "along", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "front", "ne_tag": "I-B"}, {"token_id": "2-0-8", "token": "of", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": "your", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": "jeans", "ne_tag": "I-B"}, {"token_id": "2-0-11", "token": "until", "ne_tag": "I-B"}, {"token_id": "2-0-12", "token": "you", "ne_tag": "I-B"}, {"token_id": "2-0-13", "token": "reach", "ne_tag": "Ae-B"}, {"token_id": "2-0-14", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-15", "token": "side", "ne_tag": "I-B"}, {"token_id": "2-0-16", "token": "seam", "ne_tag": "I-I"}, {"token_id": "2-0-17", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Place", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "apron", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "around", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "your", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "waist", "ne_tag": "I-B"}, {"token_id": "3-0-6", "token": "so", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "that", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "the", "ne_tag": "I-B"}, {"token_id": "3-0-9", "token": "pockets", "ne_tag": "I-B"}, {"token_id": "3-0-10", "token": "are", "ne_tag": "I-B"}, {"token_id": "3-0-11", "token": "in", "ne_tag": "I-B"}, {"token_id": "3-0-12", "token": "front", "ne_tag": "I-B"}, {"token_id": "3-0-13", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "1-0-2", "I-eq"], ["0-0-2", "0-0-5", "other-mod"], ["0-0-4", "0-0-5", "other-mod"], ["0-0-5", "0-0-0", "Targ"], ["1-0-0", "2-0-15", "I-part-of"], ["1-0-0", "2-0-10", "I-eq"], ["1-0-11", "1-0-3", "other-mod"], ["1-0-11", "1-0-6", "other-mod"], ["1-0-2", "1-0-0", "Targ"], ["1-0-3", "1-0-0", "other-mod"], ["1-0-6", "1-0-0", "other-mod"], ["2-0-0", "3-0-2", "I-eq"], ["2-0-10", "2-0-7", "I-part-of"], ["2-0-10", "2-0-4", "I-part-of"], ["2-0-13", "2-0-15", "Agent"], ["2-0-15", "2-0-0", "V-tm"], ["2-0-4", "2-0-0", "Targ"], ["2-0-7", "2-0-0", "Dest"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "3-0-0", "Dest"]]}
+{
+    "article_id": "2063117_make-an-apron-from-old-jeans",
+    "url": "https://www.wikihow.com/Make-an-Apron-from-Old-Jeans",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Take",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "pair",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "old",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "jeans",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "jeans",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "1",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "inch",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "(",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "2.5",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "cm",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": ")",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "below",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "the",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "pocket",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "line",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "right",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "at",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "zipper",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "along",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "front",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "your",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "jeans",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": "until",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-12",
+                "token": "you",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-13",
+                "token": "reach",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-14",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-15",
+                "token": "side",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-16",
+                "token": "seam",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-17",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Place",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "apron",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "around",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "your",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "waist",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "so",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "that",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "pockets",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "are",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "front",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-4",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-5",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-15",
+            "I-part-of"
+        ],
+        [
+            "1-0-0",
+            "2-0-10",
+            "I-eq"
+        ],
+        [
+            "1-0-11",
+            "1-0-3",
+            "other-mod"
+        ],
+        [
+            "1-0-11",
+            "1-0-6",
+            "other-mod"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-3",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-6",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-10",
+            "2-0-7",
+            "I-part-of"
+        ],
+        [
+            "2-0-10",
+            "2-0-4",
+            "I-part-of"
+        ],
+        [
+            "2-0-13",
+            "2-0-15",
+            "Agent"
+        ],
+        [
+            "2-0-15",
+            "2-0-0",
+            "V-tm"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-7",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "3-0-0",
+            "Dest"
+        ]
+    ]
+}

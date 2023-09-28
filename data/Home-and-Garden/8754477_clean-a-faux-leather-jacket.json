@@ -1,1 +1,417 @@
-{"article_id": "8754477_clean-a-faux-leather-jacket", "url": "https://www.wikihow.com/Clean-a-Faux-Leather-Jacket", "steps": [[{"token_id": "0-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "any", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "crusty", "ne_tag": "Si-B"}, {"token_id": "0-0-3", "token": "spots", "ne_tag": "I-B"}, {"token_id": "0-0-4", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "mild", "ne_tag": "St-B"}, {"token_id": "1-0-2", "token": "laundry", "ne_tag": "T-B"}, {"token_id": "1-0-3", "token": "detergent", "ne_tag": "T-I"}, {"token_id": "1-0-4", "token": "into", "ne_tag": "O"}, {"token_id": "1-0-5", "token": "warm", "ne_tag": "St-B"}, {"token_id": "1-0-6", "token": "water", "ne_tag": "T-B"}, {"token_id": "1-0-7", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Dampen", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "soft", "ne_tag": "St-B"}, {"token_id": "2-0-3", "token": "cloth", "ne_tag": "T-B"}, {"token_id": "2-0-4", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Wipe", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "down", "ne_tag": "Ae-I"}, {"token_id": "3-0-2", "token": "your", "ne_tag": "Ae-I"}, {"token_id": "3-0-3", "token": "jacket", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": ".", "ne_tag": "I-B"}], [{"token_id": "4-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "clean", "ne_tag": "St-B"}, {"token_id": "4-0-3", "token": ",", "ne_tag": "O"}, {"token_id": "4-0-4", "token": "damp", "ne_tag": "St-B"}, {"token_id": "4-0-5", "token": "cloth", "ne_tag": "T-B"}, {"token_id": "4-0-6", "token": "to", "ne_tag": "O"}, {"token_id": "4-0-7", "token": "remove", "ne_tag": "Ae-B"}, {"token_id": "4-0-8", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-9", "token": "excess", "ne_tag": "Si-B"}, {"token_id": "4-0-10", "token": "soap", "ne_tag": "T-B"}, {"token_id": "4-0-11", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Dry", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "any", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "remaining", "ne_tag": "Q-B"}, {"token_id": "5-0-3", "token": "wetness", "ne_tag": "T-B"}, {"token_id": "5-0-4", "token": "with", "ne_tag": "O"}, {"token_id": "5-0-5", "token": "a", "ne_tag": "O"}, {"token_id": "5-0-6", "token": "soft", "ne_tag": "St-B"}, {"token_id": "5-0-7", "token": "cloth", "ne_tag": "T-B"}, {"token_id": "5-0-8", "token": ".", "ne_tag": "O"}], [{"token_id": "6-0-0", "token": "Apply", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "conditioner", "ne_tag": "T-B"}, {"token_id": "6-0-3", "token": "to", "ne_tag": "O"}, {"token_id": "6-0-4", "token": "your", "ne_tag": "O"}, {"token_id": "6-0-5", "token": "jacket", "ne_tag": "I-B"}, {"token_id": "6-0-6", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "3-0-3", "I-eq"], ["0-0-2", "0-0-3", "other-mod"], ["0-0-3", "0-0-0", "Targ"], ["1-0-0", "2-0-0", "Dest"], ["1-0-1", "1-0-2", "other-mod"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-6", "other-mod"], ["1-0-6", "1-0-0", "Dest"], ["2-0-0", "3-0-0", "T-comp"], ["2-0-0", "5-0-7", "T-comp"], ["2-0-2", "2-0-3", "other-mod"], ["2-0-3", "2-0-0", "Targ"], ["3-0-0", "4-0-10", "T-part-of"], ["3-0-3", "3-0-0", "Targ"], ["4-0-0", "4-0-7", "T-comp"], ["4-0-10", "4-0-7", "Targ"], ["4-0-2", "4-0-5", "other-mod"], ["4-0-4", "4-0-5", "other-mod"], ["4-0-5", "4-0-0", "Targ"], ["4-0-7", "5-0-3", "T-part-of"], ["4-0-9", "4-0-10", "other-mod"], ["5-0-0", "6-0-5", "I-eq"], ["5-0-2", "5-0-3", "other-mod"], ["5-0-3", "5-0-0", "Targ"], ["5-0-6", "5-0-7", "other-mod"], ["5-0-7", "5-0-0", "T-comp"], ["6-0-2", "6-0-0", "Targ"], ["6-0-5", "6-0-0", "Dest"]]}
+{
+    "article_id": "8754477_clean-a-faux-leather-jacket",
+    "url": "https://www.wikihow.com/Clean-a-Faux-Leather-Jacket",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "any",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "crusty",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "spots",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "mild",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "laundry",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "detergent",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "into",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "warm",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Dampen",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "soft",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "cloth",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Wipe",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "down",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "your",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "jacket",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "clean",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "damp",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "cloth",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "excess",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": "soap",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-11",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Dry",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "any",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "remaining",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "wetness",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "with",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": "soft",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "5-0-7",
+                "token": "cloth",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "5-0-8",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Apply",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "conditioner",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": "your",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "6-0-5",
+                "token": "jacket",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "3-0-3",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-3",
+            "other-mod"
+        ],
+        [
+            "0-0-3",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-1",
+            "1-0-2",
+            "other-mod"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-6",
+            "other-mod"
+        ],
+        [
+            "1-0-6",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-0",
+            "3-0-0",
+            "T-comp"
+        ],
+        [
+            "2-0-0",
+            "5-0-7",
+            "T-comp"
+        ],
+        [
+            "2-0-2",
+            "2-0-3",
+            "other-mod"
+        ],
+        [
+            "2-0-3",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-10",
+            "T-part-of"
+        ],
+        [
+            "3-0-3",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "4-0-7",
+            "T-comp"
+        ],
+        [
+            "4-0-10",
+            "4-0-7",
+            "Targ"
+        ],
+        [
+            "4-0-2",
+            "4-0-5",
+            "other-mod"
+        ],
+        [
+            "4-0-4",
+            "4-0-5",
+            "other-mod"
+        ],
+        [
+            "4-0-5",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-7",
+            "5-0-3",
+            "T-part-of"
+        ],
+        [
+            "4-0-9",
+            "4-0-10",
+            "other-mod"
+        ],
+        [
+            "5-0-0",
+            "6-0-5",
+            "I-eq"
+        ],
+        [
+            "5-0-2",
+            "5-0-3",
+            "other-mod"
+        ],
+        [
+            "5-0-3",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-6",
+            "5-0-7",
+            "other-mod"
+        ],
+        [
+            "5-0-7",
+            "5-0-0",
+            "T-comp"
+        ],
+        [
+            "6-0-2",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-5",
+            "6-0-0",
+            "Dest"
+        ]
+    ]
+}

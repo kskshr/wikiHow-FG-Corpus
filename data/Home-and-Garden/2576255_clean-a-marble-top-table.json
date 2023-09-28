@@ -1,1 +1,463 @@
-{"article_id": "2576255_clean-a-marble-top-table", "url": "https://www.wikihow.com/Clean-a-Marble-Top-Table", "steps": [[{"token_id": "0-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "dust", "ne_tag": "T-B"}, {"token_id": "0-0-3", "token": "mop", "ne_tag": "T-I"}, {"token_id": "0-0-4", "token": "to", "ne_tag": "O"}, {"token_id": "0-0-5", "token": "remove", "ne_tag": "Ae-B"}, {"token_id": "0-0-6", "token": "dust", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": ",", "ne_tag": "I-B"}, {"token_id": "0-0-8", "token": "dirt", "ne_tag": "I-B"}, {"token_id": "0-0-9", "token": ",", "ne_tag": "I-B"}, {"token_id": "0-0-10", "token": "and", "ne_tag": "I-B"}, {"token_id": "0-0-11", "token": "debris", "ne_tag": "I-B"}, {"token_id": "0-0-12", "token": "from", "ne_tag": "I-B"}, {"token_id": "0-0-13", "token": "the", "ne_tag": "I-B"}, {"token_id": "0-0-14", "token": "tabletop", "ne_tag": "I-B"}, {"token_id": "0-0-15", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "mild", "ne_tag": "Si-B"}, {"token_id": "1-0-2", "token": "dish", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "soap", "ne_tag": "I-I"}, {"token_id": "1-0-4", "token": "and", "ne_tag": "I-I"}, {"token_id": "1-0-5", "token": "warm", "ne_tag": "Si-B"}, {"token_id": "1-0-6", "token": "water", "ne_tag": "I-B"}, {"token_id": "1-0-7", "token": "in", "ne_tag": "I-B"}, {"token_id": "1-0-8", "token": "a", "ne_tag": "I-B"}, {"token_id": "1-0-9", "token": "spray", "ne_tag": "T-B"}, {"token_id": "1-0-10", "token": "bottle", "ne_tag": "T-I"}, {"token_id": "1-0-11", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Spray", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "this", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "cleaning", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "solution", "ne_tag": "I-I"}, {"token_id": "2-0-4", "token": "across", "ne_tag": "I-I"}, {"token_id": "2-0-5", "token": "the", "ne_tag": "I-I"}, {"token_id": "2-0-6", "token": "surface", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "of", "ne_tag": "I-B"}, {"token_id": "2-0-8", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": "tabletop", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Wipe", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "off", "ne_tag": "Ae-I"}, {"token_id": "3-0-2", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "3-0-3", "token": "cleaning", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "solution", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": "with", "ne_tag": "I-I"}, {"token_id": "3-0-6", "token": "a", "ne_tag": "I-I"}, {"token_id": "3-0-7", "token": "hot", "ne_tag": "St-B"}, {"token_id": "3-0-8", "token": ",", "ne_tag": "O"}, {"token_id": "3-0-9", "token": "wet", "ne_tag": "St-B"}, {"token_id": "3-0-10", "token": "cloth", "ne_tag": "T-B"}, {"token_id": "3-0-11", "token": ".", "ne_tag": "O"}], [{"token_id": "4-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "excess", "ne_tag": "Si-B"}, {"token_id": "4-0-3", "token": "liquid", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "from", "ne_tag": "I-B"}, {"token_id": "4-0-5", "token": "your", "ne_tag": "I-B"}, {"token_id": "4-0-6", "token": "tabletop", "ne_tag": "I-B"}, {"token_id": "4-0-7", "token": "with", "ne_tag": "I-B"}, {"token_id": "4-0-8", "token": "an", "ne_tag": "I-B"}, {"token_id": "4-0-9", "token": "absorbent", "ne_tag": "T-B"}, {"token_id": "4-0-10", "token": "towel", "ne_tag": "T-I"}, {"token_id": "4-0-11", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "0-0-5", "T-comp"], ["0-0-11", "0-0-5", "Targ"], ["0-0-14", "0-0-5", "other-mod"], ["0-0-2", "0-0-0", "Targ"], ["0-0-5", "2-0-9", "I-eq"], ["0-0-6", "0-0-5", "Targ"], ["0-0-8", "0-0-5", "Targ"], ["1-0-0", "2-0-2", "I-eq"], ["1-0-1", "1-0-2", "other-mod"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-6", "other-mod"], ["1-0-6", "1-0-0", "Targ"], ["1-0-9", "1-0-0", "Dest"], ["2-0-0", "3-0-3", "I-part-of"], ["2-0-2", "2-0-0", "Targ"], ["2-0-6", "2-0-0", "Dest"], ["2-0-9", "2-0-6", "I-part-of"], ["3-0-0", "4-0-6", "I-eq"], ["3-0-10", "3-0-0", "Dest"], ["3-0-3", "3-0-0", "Targ"], ["3-0-7", "3-0-10", "other-mod"], ["3-0-9", "3-0-10", "other-mod"], ["4-0-2", "4-0-3", "other-mod"], ["4-0-3", "4-0-0", "Targ"], ["4-0-6", "4-0-0", "other-mod"], ["4-0-9", "4-0-0", "T-comp"]]}
+{
+    "article_id": "2576255_clean-a-marble-top-table",
+    "url": "https://www.wikihow.com/Clean-a-Marble-Top-Table",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "dust",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "mop",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "dust",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "dirt",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "debris",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "from",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-14",
+                "token": "tabletop",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-15",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "mild",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "dish",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "soap",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "warm",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "water",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "spray",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "bottle",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Spray",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "this",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "cleaning",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "solution",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "across",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "surface",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "tabletop",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Wipe",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "off",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "cleaning",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "solution",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "with",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "a",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "hot",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "wet",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "cloth",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "excess",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "liquid",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "from",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "your",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "tabletop",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "an",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "absorbent",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": "towel",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "4-0-11",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "0-0-5",
+            "T-comp"
+        ],
+        [
+            "0-0-11",
+            "0-0-5",
+            "Targ"
+        ],
+        [
+            "0-0-14",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-5",
+            "2-0-9",
+            "I-eq"
+        ],
+        [
+            "0-0-6",
+            "0-0-5",
+            "Targ"
+        ],
+        [
+            "0-0-8",
+            "0-0-5",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "1-0-1",
+            "1-0-2",
+            "other-mod"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-6",
+            "other-mod"
+        ],
+        [
+            "1-0-6",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-9",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-0",
+            "3-0-3",
+            "I-part-of"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-6",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-9",
+            "2-0-6",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "4-0-6",
+            "I-eq"
+        ],
+        [
+            "3-0-10",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-3",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-7",
+            "3-0-10",
+            "other-mod"
+        ],
+        [
+            "3-0-9",
+            "3-0-10",
+            "other-mod"
+        ],
+        [
+            "4-0-2",
+            "4-0-3",
+            "other-mod"
+        ],
+        [
+            "4-0-3",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "other-mod"
+        ],
+        [
+            "4-0-9",
+            "4-0-0",
+            "T-comp"
+        ]
+    ]
+}

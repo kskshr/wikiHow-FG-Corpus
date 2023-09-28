@@ -1,1 +1,398 @@
-{"article_id": "11081924_clean-diesel-injectors", "url": "https://www.wikihow.com/Clean-Diesel-Injectors", "steps": [[{"token_id": "0-0-0", "token": "Purchase", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "diesel", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": "fuel", "ne_tag": "I-I"}, {"token_id": "0-0-4", "token": "additive", "ne_tag": "I-I"}, {"token_id": "0-0-5", "token": "that", "ne_tag": "I-I"}, {"token_id": "0-0-6", "token": "is", "ne_tag": "I-I"}, {"token_id": "0-0-7", "token": "compatible", "ne_tag": "I-I"}, {"token_id": "0-0-8", "token": "with", "ne_tag": "I-I"}, {"token_id": "0-0-9", "token": "your", "ne_tag": "I-I"}, {"token_id": "0-0-10", "token": "engine", "ne_tag": "I-I"}, {"token_id": "0-0-11", "token": ".", "ne_tag": "I-I"}], [{"token_id": "1-0-0", "token": "Make", "ne_tag": "I-I"}, {"token_id": "1-0-1", "token": "sure", "ne_tag": "I-I"}, {"token_id": "1-0-2", "token": "the", "ne_tag": "I-I"}, {"token_id": "1-0-3", "token": "engine", "ne_tag": "I-I"}, {"token_id": "1-0-4", "token": "is", "ne_tag": "I-I"}, {"token_id": "1-0-5", "token": "turned", "ne_tag": "I-I"}, {"token_id": "1-0-6", "token": "off", "ne_tag": "I-I"}, {"token_id": "1-0-7", "token": "and", "ne_tag": "I-I"}, {"token_id": "1-0-8", "token": "the", "ne_tag": "I-I"}, {"token_id": "1-0-9", "token": "fuel", "ne_tag": "I-I"}, {"token_id": "1-0-10", "token": "tank", "ne_tag": "I-I"}, {"token_id": "1-0-11", "token": "is", "ne_tag": "I-I"}, {"token_id": "1-0-12", "token": "almost", "ne_tag": "I-I"}, {"token_id": "1-0-13", "token": "empty", "ne_tag": "I-I"}, {"token_id": "1-0-14", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Locate", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "and", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "open", "ne_tag": "Ae-B"}, {"token_id": "2-0-3", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-4", "token": "vehicle", "ne_tag": "Ae-B"}, {"token_id": "2-0-5", "token": "\u2019s", "ne_tag": "Ae-B"}, {"token_id": "2-0-6", "token": "fuel", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "tank", "ne_tag": "I-I"}, {"token_id": "2-0-8", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Pour", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "recommended", "ne_tag": "Q-B"}, {"token_id": "3-0-3", "token": "amount", "ne_tag": "Q-I"}, {"token_id": "3-0-4", "token": "of", "ne_tag": "O"}, {"token_id": "3-0-5", "token": "additive", "ne_tag": "I-B"}, {"token_id": "3-0-6", "token": "into", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "the", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "fuel", "ne_tag": "I-B"}, {"token_id": "3-0-9", "token": "tank", "ne_tag": "I-I"}, {"token_id": "3-0-10", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Fill", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "fuel", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "tank", "ne_tag": "I-I"}, {"token_id": "4-0-4", "token": "with", "ne_tag": "I-I"}, {"token_id": "4-0-5", "token": "fuel", "ne_tag": "I-B"}, {"token_id": "4-0-6", "token": "and", "ne_tag": "I-B"}, {"token_id": "4-0-7", "token": "run", "ne_tag": "Ae-B"}, {"token_id": "4-0-8", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-9", "token": "engine", "ne_tag": "I-B"}, {"token_id": "4-0-10", "token": "for", "ne_tag": "I-B"}, {"token_id": "4-0-11", "token": "10", "ne_tag": "D-B"}, {"token_id": "4-0-12", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "4-0-13", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "4-0-5", "I-part-of"], ["0-0-0", "3-0-5", "I-eq"], ["0-0-2", "0-0-0", "Targ"], ["2-0-0", "2-0-2", "Targ"], ["2-0-2", "3-0-8", "I-eq"], ["2-0-6", "2-0-0", "Targ"], ["3-0-0", "4-0-2", "I-eq"], ["3-0-2", "3-0-5", "other-mod"], ["3-0-5", "3-0-0", "Targ"], ["3-0-8", "3-0-0", "Dest"], ["4-0-0", "4-0-9", "I-eq"], ["4-0-11", "4-0-7", "other-mod"], ["4-0-2", "4-0-0", "Targ"], ["4-0-5", "4-0-0", "I-comp"], ["4-0-9", "4-0-7", "Targ"]]}
+{
+    "article_id": "11081924_clean-diesel-injectors",
+    "url": "https://www.wikihow.com/Clean-Diesel-Injectors",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Purchase",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "diesel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "fuel",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "additive",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "that",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "is",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "compatible",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "with",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "your",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "engine",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Make",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "sure",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "engine",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "is",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "turned",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "off",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "fuel",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "tank",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "is",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "almost",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": "empty",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-14",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Locate",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "and",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "open",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "vehicle",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "\u2019s",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "fuel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "tank",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Pour",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "recommended",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "amount",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "additive",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "fuel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "tank",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Fill",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "fuel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "tank",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "with",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "fuel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "run",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "engine",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": "for",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-11",
+                "token": "10",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "4-0-12",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "4-0-13",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "4-0-5",
+            "I-part-of"
+        ],
+        [
+            "0-0-0",
+            "3-0-5",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "2-0-2",
+            "Targ"
+        ],
+        [
+            "2-0-2",
+            "3-0-8",
+            "I-eq"
+        ],
+        [
+            "2-0-6",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-eq"
+        ],
+        [
+            "3-0-2",
+            "3-0-5",
+            "other-mod"
+        ],
+        [
+            "3-0-5",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-8",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "4-0-0",
+            "4-0-9",
+            "I-eq"
+        ],
+        [
+            "4-0-11",
+            "4-0-7",
+            "other-mod"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-5",
+            "4-0-0",
+            "I-comp"
+        ],
+        [
+            "4-0-9",
+            "4-0-7",
+            "Targ"
+        ]
+    ]
+}

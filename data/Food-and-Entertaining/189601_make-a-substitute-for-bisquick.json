@@ -1,1 +1,460 @@
-{"article_id": "189601_make-a-substitute-for-bisquick", "url": "https://www.wikihow.com/Make-a-Substitute-for-Bisquick", "steps": [[{"token_id": "0-0-0", "token": "Sift", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "flour", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": ",", "ne_tag": "I-B"}, {"token_id": "0-0-4", "token": "baking", "ne_tag": "I-B"}, {"token_id": "0-0-5", "token": "powder", "ne_tag": "I-I"}, {"token_id": "0-0-6", "token": ",", "ne_tag": "I-I"}, {"token_id": "0-0-7", "token": "and", "ne_tag": "I-I"}, {"token_id": "0-0-8", "token": "salt", "ne_tag": "I-B"}, {"token_id": "0-0-9", "token": "into", "ne_tag": "I-B"}, {"token_id": "0-0-10", "token": "a", "ne_tag": "I-B"}, {"token_id": "0-0-11", "token": "large", "ne_tag": "St-B"}, {"token_id": "0-0-12", "token": "bowl", "ne_tag": "T-B"}, {"token_id": "0-0-13", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Repeat", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "sifting", "ne_tag": "Ae-B"}, {"token_id": "1-0-3", "token": "process", "ne_tag": "Ae-I"}, {"token_id": "1-0-4", "token": "2", "ne_tag": "D-B"}, {"token_id": "1-0-5", "token": "more", "ne_tag": "D-I"}, {"token_id": "1-0-6", "token": "times", "ne_tag": "D-I"}, {"token_id": "1-0-7", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "shortening", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "into", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "bowl", "ne_tag": "T-B"}, {"token_id": "2-0-6", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "shortening", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "into", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "mixture", "ne_tag": "I-B"}, {"token_id": "3-0-6", "token": "using", "ne_tag": "Ae-B"}, {"token_id": "3-0-7", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "3-0-8", "token": "pastry", "ne_tag": "T-B"}, {"token_id": "3-0-9", "token": "blender", "ne_tag": "T-I"}, {"token_id": "3-0-10", "token": ".", "ne_tag": "O"}], [{"token_id": "4-0-0", "token": "Store", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "mixture", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "an", "ne_tag": "I-B"}, {"token_id": "4-0-5", "token": "airtight", "ne_tag": "St-B"}, {"token_id": "4-0-6", "token": "container", "ne_tag": "T-B"}, {"token_id": "4-0-7", "token": ",", "ne_tag": "O"}, {"token_id": "4-0-8", "token": "in", "ne_tag": "O"}, {"token_id": "4-0-9", "token": "a", "ne_tag": "O"}, {"token_id": "4-0-10", "token": "cool", "ne_tag": "St-B"}, {"token_id": "4-0-11", "token": ",", "ne_tag": "O"}, {"token_id": "4-0-12", "token": "dark", "ne_tag": "St-B"}, {"token_id": "4-0-13", "token": "place", "ne_tag": "T-B"}, {"token_id": "4-0-14", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "Bisquick", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "within", "ne_tag": "I-B"}, {"token_id": "5-0-4", "token": "3", "ne_tag": "D-B"}, {"token_id": "5-0-5", "token": "months", "ne_tag": "D-I"}, {"token_id": "5-0-6", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "1-0-2", "A-eq"], ["0-0-11", "0-0-12", "other-mod"], ["0-0-12", "0-0-0", "Dest"], ["0-0-2", "0-0-0", "Targ"], ["0-0-4", "0-0-0", "Targ"], ["0-0-8", "0-0-0", "Targ"], ["1-0-0", "2-0-5", "Dest"], ["1-0-2", "1-0-0", "Targ"], ["1-0-4", "1-0-0", "other-mod"], ["2-0-0", "3-0-5", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "2-0-0", "Dest"], ["3-0-0", "4-0-2", "I-eq"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "3-0-0", "Dest"], ["3-0-6", "3-0-0", "other-mod"], ["3-0-8", "3-0-6", "Targ"], ["4-0-0", "5-0-2", "I-eq"], ["4-0-10", "4-0-13", "other-mod"], ["4-0-12", "4-0-13", "other-mod"], ["4-0-13", "4-0-0", "other-mod"], ["4-0-2", "4-0-0", "Targ"], ["4-0-5", "4-0-6", "other-mod"], ["4-0-6", "4-0-0", "Dest"], ["5-0-2", "5-0-0", "Targ"], ["5-0-4", "5-0-0", "other-mod"]]}
+{
+    "article_id": "189601_make-a-substitute-for-bisquick",
+    "url": "https://www.wikihow.com/Make-a-Substitute-for-Bisquick",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Sift",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "flour",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "baking",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "powder",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": ",",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "salt",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "large",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "bowl",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Repeat",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "sifting",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "process",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "2",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "more",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "times",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "shortening",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "bowl",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "shortening",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "mixture",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "using",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "pastry",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "blender",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Store",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "mixture",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "an",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "airtight",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "container",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "in",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": "cool",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-11",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-12",
+                "token": "dark",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-13",
+                "token": "place",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-14",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "Bisquick",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "within",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "3",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "months",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "A-eq"
+        ],
+        [
+            "0-0-11",
+            "0-0-12",
+            "other-mod"
+        ],
+        [
+            "0-0-12",
+            "0-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-4",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-8",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-5",
+            "Dest"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-4",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "3-0-5",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-eq"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-6",
+            "3-0-0",
+            "other-mod"
+        ],
+        [
+            "3-0-8",
+            "3-0-6",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-10",
+            "4-0-13",
+            "other-mod"
+        ],
+        [
+            "4-0-12",
+            "4-0-13",
+            "other-mod"
+        ],
+        [
+            "4-0-13",
+            "4-0-0",
+            "other-mod"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-5",
+            "4-0-6",
+            "other-mod"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-4",
+            "5-0-0",
+            "other-mod"
+        ]
+    ]
+}

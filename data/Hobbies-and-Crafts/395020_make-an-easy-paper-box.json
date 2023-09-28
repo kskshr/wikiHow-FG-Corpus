@@ -1,1 +1,536 @@
-{"article_id": "395020_make-an-easy-paper-box", "url": "https://www.wikihow.com/Make-an-Easy-Paper-Box", "steps": [[{"token_id": "0-0-0", "token": "Choose", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "paper", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "paper", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "vertically", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "in", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "half", "ne_tag": "Si-B"}, {"token_id": "1-0-6", "token": ".", "ne_tag": "Si-B"}], [{"token_id": "2-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "each", "ne_tag": "I-B"}, {"token_id": "2-0-2", "token": "side", "ne_tag": "I-I"}, {"token_id": "2-0-3", "token": "of", "ne_tag": "I-I"}, {"token_id": "2-0-4", "token": "the", "ne_tag": "I-I"}, {"token_id": "2-0-5", "token": "paper", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "to", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-8", "token": "center", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": "crease", "ne_tag": "I-I"}, {"token_id": "2-0-10", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "entire", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "paper", "ne_tag": "I-I"}, {"token_id": "3-0-4", "token": "in", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": "half", "ne_tag": "Si-B"}, {"token_id": "3-0-6", "token": "lengthwise", "ne_tag": "Si-I"}, {"token_id": "3-0-7", "token": ".", "ne_tag": "Si-I"}], [{"token_id": "4-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "each", "ne_tag": "I-B"}, {"token_id": "4-0-2", "token": "short", "ne_tag": "I-I"}, {"token_id": "4-0-3", "token": "side", "ne_tag": "I-I"}, {"token_id": "4-0-4", "token": "to", "ne_tag": "I-I"}, {"token_id": "4-0-5", "token": "the", "ne_tag": "I-I"}, {"token_id": "4-0-6", "token": "center", "ne_tag": "I-B"}, {"token_id": "4-0-7", "token": "crease", "ne_tag": "I-I"}, {"token_id": "4-0-8", "token": ".", "ne_tag": "I-I"}], [{"token_id": "5-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "each", "ne_tag": "I-B"}, {"token_id": "5-0-2", "token": "corner", "ne_tag": "I-I"}, {"token_id": "5-0-3", "token": ".", "ne_tag": "I-I"}], [{"token_id": "6-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "flaps", "ne_tag": "I-B"}, {"token_id": "6-0-3", "token": "from", "ne_tag": "I-B"}, {"token_id": "6-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "6-0-5", "token": "middle", "ne_tag": "I-B"}, {"token_id": "6-0-6", "token": "down", "ne_tag": "Ae2-B"}, {"token_id": "6-0-7", "token": "over", "ne_tag": "Ae2-B"}, {"token_id": "6-0-8", "token": "the", "ne_tag": "Ae2-B"}, {"token_id": "6-0-9", "token": "triangles", "ne_tag": "I-B"}, {"token_id": "6-0-10", "token": "made", "ne_tag": "I-B"}, {"token_id": "6-0-11", "token": "in", "ne_tag": "I-B"}, {"token_id": "6-0-12", "token": "the", "ne_tag": "I-B"}, {"token_id": "6-0-13", "token": "previous", "ne_tag": "I-B"}, {"token_id": "6-0-14", "token": "step", "ne_tag": "I-B"}, {"token_id": "6-0-15", "token": ".", "ne_tag": "I-B"}], [{"token_id": "7-0-0", "token": "Pull", "ne_tag": "Ae-B"}, {"token_id": "7-0-1", "token": "up", "ne_tag": "Ae-I"}, {"token_id": "7-0-2", "token": "on", "ne_tag": "Ae-I"}, {"token_id": "7-0-3", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "7-0-4", "token": "two", "ne_tag": "Q-B"}, {"token_id": "7-0-5", "token": "flaps", "ne_tag": "I-B"}, {"token_id": "7-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "8-0-0", "token": "Make", "ne_tag": "Ae-B"}, {"token_id": "8-0-1", "token": "any", "ne_tag": "Ae-B"}, {"token_id": "8-0-2", "token": "finishing", "ne_tag": "Si-B"}, {"token_id": "8-0-3", "token": "touches", "ne_tag": "I-B"}, {"token_id": "8-0-4", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "1-0-2", "I-eq"], ["0-0-2", "0-0-0", "Targ"], ["1-0-0", "2-0-5", "I-eq"], ["1-0-0", "2-0-8", "I-part-of"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "Dest"], ["2-0-0", "3-0-2", "I-eq"], ["2-0-1", "2-0-0", "Targ"], ["2-0-5", "2-0-1", "I-part-of"], ["2-0-8", "2-0-0", "Dest"], ["3-0-0", "4-0-6", "I-part-of"], ["3-0-0", "4-0-1", "I-part-of"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "3-0-0", "Dest"], ["4-0-0", "5-0-1", "I-part-of"], ["4-0-1", "4-0-0", "Targ"], ["4-0-6", "4-0-0", "Dest"], ["5-0-0", "6-0-5", "I-part-of"], ["5-0-0", "6-0-2", "I-part-of"], ["5-0-0", "6-0-9", "I-part-of"], ["5-0-1", "5-0-0", "Targ"], ["6-0-0", "6-0-6", "Agent"], ["6-0-2", "6-0-0", "Targ"], ["6-0-5", "6-0-0", "other-mod"], ["6-0-6", "7-0-5", "I-part-of"], ["6-0-9", "6-0-0", "other-mod"], ["7-0-0", "8-0-0", "Dest"], ["7-0-4", "7-0-5", "Targ"], ["7-0-5", "7-0-0", "Targ"], ["8-0-2", "8-0-3", "other-mod"], ["8-0-3", "8-0-0", "Targ"]]}
+{
+    "article_id": "395020_make-an-easy-paper-box",
+    "url": "https://www.wikihow.com/Make-an-Easy-Paper-Box",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Choose",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "paper",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "paper",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "vertically",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "half",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": ".",
+                "ne_tag": "Si-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "each",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "side",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "of",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "paper",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "center",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "crease",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "entire",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "paper",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "in",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "half",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "lengthwise",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": ".",
+                "ne_tag": "Si-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "each",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "short",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "side",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "center",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "crease",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "each",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "corner",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "flaps",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "from",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-5",
+                "token": "middle",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-6",
+                "token": "down",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "6-0-7",
+                "token": "over",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "6-0-8",
+                "token": "the",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "6-0-9",
+                "token": "triangles",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-10",
+                "token": "made",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-11",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-12",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-13",
+                "token": "previous",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-14",
+                "token": "step",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-15",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "7-0-0",
+                "token": "Pull",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-1",
+                "token": "up",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "7-0-2",
+                "token": "on",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "7-0-3",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "7-0-4",
+                "token": "two",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "7-0-5",
+                "token": "flaps",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "8-0-0",
+                "token": "Make",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-1",
+                "token": "any",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-2",
+                "token": "finishing",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "8-0-3",
+                "token": "touches",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "8-0-4",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-5",
+            "I-eq"
+        ],
+        [
+            "1-0-0",
+            "2-0-8",
+            "I-part-of"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-1",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-1",
+            "I-part-of"
+        ],
+        [
+            "2-0-8",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-0",
+            "4-0-6",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "4-0-1",
+            "I-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "4-0-0",
+            "5-0-1",
+            "I-part-of"
+        ],
+        [
+            "4-0-1",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "5-0-0",
+            "6-0-5",
+            "I-part-of"
+        ],
+        [
+            "5-0-0",
+            "6-0-2",
+            "I-part-of"
+        ],
+        [
+            "5-0-0",
+            "6-0-9",
+            "I-part-of"
+        ],
+        [
+            "5-0-1",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-0",
+            "6-0-6",
+            "Agent"
+        ],
+        [
+            "6-0-2",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-5",
+            "6-0-0",
+            "other-mod"
+        ],
+        [
+            "6-0-6",
+            "7-0-5",
+            "I-part-of"
+        ],
+        [
+            "6-0-9",
+            "6-0-0",
+            "other-mod"
+        ],
+        [
+            "7-0-0",
+            "8-0-0",
+            "Dest"
+        ],
+        [
+            "7-0-4",
+            "7-0-5",
+            "Targ"
+        ],
+        [
+            "7-0-5",
+            "7-0-0",
+            "Targ"
+        ],
+        [
+            "8-0-2",
+            "8-0-3",
+            "other-mod"
+        ],
+        [
+            "8-0-3",
+            "8-0-0",
+            "Targ"
+        ]
+    ]
+}

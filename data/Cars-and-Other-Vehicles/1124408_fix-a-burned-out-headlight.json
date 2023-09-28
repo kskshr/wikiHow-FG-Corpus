@@ -1,1 +1,263 @@
-{"article_id": "1124408_fix-a-burned-out-headlight", "url": "https://www.wikihow.com/Fix-a-Burned-Out-Headlight", "steps": [[{"token_id": "0-0-0", "token": "Open", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "hood", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Disconnect", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "battery", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "any", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "trim", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "components", "ne_tag": "I-I"}, {"token_id": "2-0-4", "token": "necessary", "ne_tag": "I-I"}, {"token_id": "2-0-5", "token": "to", "ne_tag": "I-I"}, {"token_id": "2-0-6", "token": "access", "ne_tag": "I-I"}, {"token_id": "2-0-7", "token": "the", "ne_tag": "I-I"}, {"token_id": "2-0-8", "token": "headlight", "ne_tag": "I-I"}, {"token_id": "2-0-9", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Unplug", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "headlight", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "wire", "ne_tag": "I-I"}, {"token_id": "3-0-4", "token": "pigtail", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Twist", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "headlight", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "and", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "pull", "ne_tag": "Ae-B"}, {"token_id": "4-0-5", "token": "it", "ne_tag": "I-B"}, {"token_id": "4-0-6", "token": "backward", "ne_tag": "Ae2-B"}, {"token_id": "4-0-7", "token": "to", "ne_tag": "Ae2-B"}, {"token_id": "4-0-8", "token": "remove", "ne_tag": "Ae-B"}, {"token_id": "4-0-9", "token": "it", "ne_tag": "I-B"}, {"token_id": "4-0-10", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "1-0-2", "I-part-of"], ["0-0-2", "0-0-0", "Targ"], ["1-0-0", "2-0-2", "I-part-of"], ["1-0-2", "1-0-0", "Targ"], ["2-0-0", "3-0-2", "I-part-of"], ["2-0-2", "2-0-0", "Targ"], ["3-0-0", "4-0-2", "I-part-of"], ["3-0-2", "3-0-0", "Targ"], ["4-0-0", "4-0-5", "I-eq"], ["4-0-2", "4-0-0", "Targ"], ["4-0-4", "4-0-6", "Agent"], ["4-0-5", "4-0-4", "Targ"], ["4-0-6", "4-0-9", "I-eq"], ["4-0-9", "4-0-8", "Targ"]]}
+{
+    "article_id": "1124408_fix-a-burned-out-headlight",
+    "url": "https://www.wikihow.com/Fix-a-Burned-Out-Headlight",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Open",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "hood",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Disconnect",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "battery",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "any",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "trim",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "components",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "necessary",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "access",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "headlight",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Unplug",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "headlight",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "wire",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "pigtail",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Twist",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "headlight",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "pull",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "it",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "backward",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "to",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "it",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "I-part-of"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-part-of"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-part-of"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "4-0-5",
+            "I-eq"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-4",
+            "4-0-6",
+            "Agent"
+        ],
+        [
+            "4-0-5",
+            "4-0-4",
+            "Targ"
+        ],
+        [
+            "4-0-6",
+            "4-0-9",
+            "I-eq"
+        ],
+        [
+            "4-0-9",
+            "4-0-8",
+            "Targ"
+        ]
+    ]
+}

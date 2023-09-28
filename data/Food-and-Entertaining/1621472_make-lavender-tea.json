@@ -1,1 +1,406 @@
-{"article_id": "1621472_make-lavender-tea", "url": "https://www.wikihow.com/Make-Lavender-Tea", "steps": [[{"token_id": "0-0-0", "token": "In", "ne_tag": "Si-B"}, {"token_id": "0-0-1", "token": "a", "ne_tag": "Si-B"}, {"token_id": "0-0-2", "token": "medium", "ne_tag": "St-B"}, {"token_id": "0-0-3", "token": "sized", "ne_tag": "St-I"}, {"token_id": "0-0-4", "token": "teapot", "ne_tag": "T-B"}, {"token_id": "0-0-5", "token": ",", "ne_tag": "O"}, {"token_id": "0-0-6", "token": "bring", "ne_tag": "Ae-B"}, {"token_id": "0-0-7", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-8", "token": "water", "ne_tag": "I-B"}, {"token_id": "0-0-9", "token": "to", "ne_tag": "Ae2-B"}, {"token_id": "0-0-10", "token": "a", "ne_tag": "Ae2-I"}, {"token_id": "0-0-11", "token": "boil", "ne_tag": "Ae2-I"}, {"token_id": "0-0-12", "token": "and", "ne_tag": "Ae2-I"}, {"token_id": "0-0-13", "token": "remove", "ne_tag": "Ae-B"}, {"token_id": "0-0-14", "token": "from", "ne_tag": "Ae-B"}, {"token_id": "0-0-15", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-16", "token": "heat", "ne_tag": "T-B"}, {"token_id": "0-0-17", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Using", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "tea", "ne_tag": "T-B"}, {"token_id": "1-0-3", "token": "ball", "ne_tag": "T-I"}, {"token_id": "1-0-4", "token": "or", "ne_tag": "O"}, {"token_id": "1-0-5", "token": "sachet", "ne_tag": "T-B"}, {"token_id": "1-0-6", "token": ",", "ne_tag": "O"}, {"token_id": "1-0-7", "token": "fill", "ne_tag": "Ae-B"}, {"token_id": "1-0-8", "token": "with", "ne_tag": "Ae-B"}, {"token_id": "1-0-9", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-10", "token": "lavender", "ne_tag": "I-B"}, {"token_id": "1-0-11", "token": "and", "ne_tag": "I-B"}, {"token_id": "1-0-12", "token": "secure", "ne_tag": "Ae-B"}, {"token_id": "1-0-13", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-14", "token": "lid", "ne_tag": "T-B"}, {"token_id": "1-0-15", "token": "or", "ne_tag": "O"}, {"token_id": "1-0-16", "token": "sachet", "ne_tag": "T-B"}, {"token_id": "1-0-17", "token": "opening", "ne_tag": "T-I"}, {"token_id": "1-0-18", "token": "well", "ne_tag": "O"}, {"token_id": "1-0-19", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Steep", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "lavender", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "teapot", "ne_tag": "T-B"}, {"token_id": "2-0-6", "token": "for", "ne_tag": "O"}, {"token_id": "2-0-7", "token": "10", "ne_tag": "D-B"}, {"token_id": "2-0-8", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "2-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Serve", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "among", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "tea", "ne_tag": "T-B"}, {"token_id": "3-0-3", "token": "cups", "ne_tag": "T-I"}, {"token_id": "3-0-4", "token": "and", "ne_tag": "O"}, {"token_id": "3-0-5", "token": "enjoy", "ne_tag": "Ae-B"}, {"token_id": "3-0-6", "token": ".", "ne_tag": "Ae-B"}]], "flows": [["0-0-13", "2-0-5", "T-eq"], ["0-0-16", "0-0-13", "other-mod"], ["0-0-2", "0-0-4", "other-mod"], ["0-0-4", "0-0-6", "Dest"], ["0-0-6", "0-0-9", "Targ"], ["0-0-8", "0-0-6", "Targ"], ["0-0-9", "0-0-13", "Targ"], ["1-0-0", "1-0-7", "other-mod"], ["1-0-10", "1-0-7", "Targ"], ["1-0-12", "2-0-2", "I-eq"], ["1-0-14", "1-0-12", "Targ"], ["1-0-16", "1-0-12", "Targ"], ["1-0-2", "1-0-0", "Targ"], ["1-0-2", "1-0-14", "T-part-of"], ["1-0-5", "1-0-0", "Targ"], ["1-0-5", "1-0-16", "T-part-of"], ["1-0-7", "1-0-12", "Dest"], ["2-0-0", "3-0-0", "Targ"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "2-0-0", "Dest"], ["2-0-7", "2-0-0", "other-mod"], ["3-0-0", "3-0-5", "Targ"], ["3-0-2", "3-0-0", "Dest"]]}
+{
+    "article_id": "1621472_make-lavender-tea",
+    "url": "https://www.wikihow.com/Make-Lavender-Tea",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "In",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "a",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "medium",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "sized",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "teapot",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "bring",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "water",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "to",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "a",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "boil",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "and",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": "remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-14",
+                "token": "from",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-15",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-16",
+                "token": "heat",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-17",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Using",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "tea",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "ball",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "sachet",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "fill",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "with",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "lavender",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "secure",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-14",
+                "token": "lid",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-15",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-16",
+                "token": "sachet",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-17",
+                "token": "opening",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-18",
+                "token": "well",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-19",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Steep",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "lavender",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "teapot",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "for",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "10",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Serve",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "among",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "tea",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "cups",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "enjoy",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": ".",
+                "ne_tag": "Ae-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-13",
+            "2-0-5",
+            "T-eq"
+        ],
+        [
+            "0-0-16",
+            "0-0-13",
+            "other-mod"
+        ],
+        [
+            "0-0-2",
+            "0-0-4",
+            "other-mod"
+        ],
+        [
+            "0-0-4",
+            "0-0-6",
+            "Dest"
+        ],
+        [
+            "0-0-6",
+            "0-0-9",
+            "Targ"
+        ],
+        [
+            "0-0-8",
+            "0-0-6",
+            "Targ"
+        ],
+        [
+            "0-0-9",
+            "0-0-13",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "1-0-7",
+            "other-mod"
+        ],
+        [
+            "1-0-10",
+            "1-0-7",
+            "Targ"
+        ],
+        [
+            "1-0-12",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "1-0-14",
+            "1-0-12",
+            "Targ"
+        ],
+        [
+            "1-0-16",
+            "1-0-12",
+            "Targ"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-2",
+            "1-0-14",
+            "T-part-of"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-16",
+            "T-part-of"
+        ],
+        [
+            "1-0-7",
+            "1-0-12",
+            "Dest"
+        ],
+        [
+            "2-0-0",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-7",
+            "2-0-0",
+            "other-mod"
+        ],
+        [
+            "3-0-0",
+            "3-0-5",
+            "Targ"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Dest"
+        ]
+    ]
+}

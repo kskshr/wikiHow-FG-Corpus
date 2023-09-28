@@ -1,1 +1,590 @@
-{"article_id": "9835360_cook-taba-ng-talangka", "url": "https://www.wikihow.com/Cook-Taba-Ng-Talangka", "steps": [[{"token_id": "0-0-0", "token": "Heat", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "up", "ne_tag": "Ae-I"}, {"token_id": "0-0-2", "token": "1", "ne_tag": "Q-B"}, {"token_id": "0-0-3", "token": "US", "ne_tag": "Q-I"}, {"token_id": "0-0-4", "token": "tbsp", "ne_tag": "Q-I"}, {"token_id": "0-0-5", "token": "(", "ne_tag": "O"}, {"token_id": "0-0-6", "token": "15", "ne_tag": "Q-B"}, {"token_id": "0-0-7", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "0-0-8", "token": ")", "ne_tag": "O"}, {"token_id": "0-0-9", "token": "of", "ne_tag": "O"}, {"token_id": "0-0-10", "token": "extra", "ne_tag": "I-B"}, {"token_id": "0-0-11", "token": "-", "ne_tag": "I-I"}, {"token_id": "0-0-12", "token": "virgin", "ne_tag": "I-I"}, {"token_id": "0-0-13", "token": "olive", "ne_tag": "I-I"}, {"token_id": "0-0-14", "token": "oil", "ne_tag": "I-I"}, {"token_id": "0-0-15", "token": "in", "ne_tag": "I-I"}, {"token_id": "0-0-16", "token": "a", "ne_tag": "I-I"}, {"token_id": "0-0-17", "token": "medium", "ne_tag": "St-B"}, {"token_id": "0-0-18", "token": "skillet", "ne_tag": "T-B"}, {"token_id": "0-0-19", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "minced", "ne_tag": "Ae-B"}, {"token_id": "1-0-3", "token": "garlic", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "and", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "taba", "ne_tag": "I-B"}, {"token_id": "1-0-6", "token": "ng", "ne_tag": "I-I"}, {"token_id": "1-0-7", "token": "talangka", "ne_tag": "I-I"}, {"token_id": "1-0-8", "token": "to", "ne_tag": "I-I"}, {"token_id": "1-0-9", "token": "the", "ne_tag": "I-I"}, {"token_id": "1-0-10", "token": "skillet", "ne_tag": "T-B"}, {"token_id": "1-0-11", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Saute", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "garlic", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "and", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "taba", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "ng", "ne_tag": "I-I"}, {"token_id": "2-0-6", "token": "talangka", "ne_tag": "I-I"}, {"token_id": "2-0-7", "token": "until", "ne_tag": "I-I"}, {"token_id": "2-0-8", "token": "the", "ne_tag": "I-I"}, {"token_id": "2-0-9", "token": "mixture", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": "bubbles", "ne_tag": "Ai-B"}, {"token_id": "2-0-11", "token": ".", "ne_tag": "Ai-B"}], [{"token_id": "3-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "3", "ne_tag": "Q-B"}, {"token_id": "3-0-2", "token": "US", "ne_tag": "Q-I"}, {"token_id": "3-0-3", "token": "tbsp", "ne_tag": "Q-I"}, {"token_id": "3-0-4", "token": "(", "ne_tag": "O"}, {"token_id": "3-0-5", "token": "44", "ne_tag": "Q-B"}, {"token_id": "3-0-6", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "3-0-7", "token": ")", "ne_tag": "O"}, {"token_id": "3-0-8", "token": "of", "ne_tag": "O"}, {"token_id": "3-0-9", "token": "achiote", "ne_tag": "I-B"}, {"token_id": "3-0-10", "token": "juice", "ne_tag": "I-I"}, {"token_id": "3-0-11", "token": "and", "ne_tag": "I-I"}, {"token_id": "3-0-12", "token": "cook", "ne_tag": "Ae-B"}, {"token_id": "3-0-13", "token": "for", "ne_tag": "Ae-B"}, {"token_id": "3-0-14", "token": "30", "ne_tag": "D-B"}, {"token_id": "3-0-15", "token": "seconds", "ne_tag": "D-I"}, {"token_id": "3-0-16", "token": ".", "ne_tag": "O"}], [{"token_id": "4-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "3", "ne_tag": "Q-B"}, {"token_id": "4-0-2", "token": "cups", "ne_tag": "Q-I"}, {"token_id": "4-0-3", "token": "(", "ne_tag": "O"}, {"token_id": "4-0-4", "token": "360", "ne_tag": "Q-B"}, {"token_id": "4-0-5", "token": "g", "ne_tag": "Q-I"}, {"token_id": "4-0-6", "token": ")", "ne_tag": "O"}, {"token_id": "4-0-7", "token": "of", "ne_tag": "O"}, {"token_id": "4-0-8", "token": "cooked", "ne_tag": "Ae-B"}, {"token_id": "4-0-9", "token": "rice", "ne_tag": "I-B"}, {"token_id": "4-0-10", "token": "and", "ne_tag": "I-B"}, {"token_id": "4-0-11", "token": "stir", "ne_tag": "Ae-B"}, {"token_id": "4-0-12", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-13", "token": "ingredients", "ne_tag": "I-B"}, {"token_id": "4-0-14", "token": "thoroughly", "ne_tag": "I-B"}, {"token_id": "4-0-15", "token": ".", "ne_tag": "I-B"}], [{"token_id": "5-0-0", "token": "Serve", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "rice", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "dish", "ne_tag": "I-I"}, {"token_id": "5-0-4", "token": "immediately", "ne_tag": "I-I"}, {"token_id": "5-0-5", "token": ".", "ne_tag": "I-I"}]], "flows": [["0-0-0", "1-0-10", "T-eq"], ["0-0-10", "0-0-0", "Targ"], ["0-0-17", "0-0-18", "other-mod"], ["0-0-18", "0-0-0", "Dest"], ["0-0-2", "0-0-10", "other-mod"], ["0-0-6", "0-0-10", "other-mod"], ["1-0-0", "2-0-2", "I-part-of"], ["1-0-0", "2-0-4", "I-part-of"], ["1-0-10", "1-0-0", "Dest"], ["1-0-2", "1-0-0", "Targ"], ["1-0-3", "1-0-2", "Targ"], ["1-0-5", "1-0-0", "Targ"], ["2-0-0", "3-0-0", "Dest"], ["2-0-10", "2-0-0", "V-tm"], ["2-0-2", "2-0-0", "Targ"], ["2-0-4", "2-0-0", "Targ"], ["2-0-9", "2-0-10", "Agent"], ["3-0-0", "3-0-12", "Targ"], ["3-0-1", "3-0-9", "other-mod"], ["3-0-12", "4-0-0", "Dest"], ["3-0-14", "3-0-12", "other-mod"], ["3-0-5", "3-0-9", "other-mod"], ["3-0-9", "3-0-0", "Targ"], ["4-0-0", "4-0-13", "I-eq"], ["4-0-1", "4-0-9", "other-mod"], ["4-0-11", "5-0-2", "I-eq"], ["4-0-13", "4-0-11", "Targ"], ["4-0-4", "4-0-9", "other-mod"], ["4-0-8", "4-0-0", "Targ"], ["4-0-9", "4-0-8", "Targ"], ["5-0-2", "5-0-0", "Targ"]]}
+{
+    "article_id": "9835360_cook-taba-ng-talangka",
+    "url": "https://www.wikihow.com/Cook-Taba-Ng-Talangka",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Heat",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "up",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "1",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "US",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "tbsp",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "15",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "extra",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "-",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "virgin",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": "olive",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-14",
+                "token": "oil",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-15",
+                "token": "in",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-16",
+                "token": "a",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-17",
+                "token": "medium",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-18",
+                "token": "skillet",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-19",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "minced",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "garlic",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "taba",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "ng",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "talangka",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "skillet",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Saute",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "garlic",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "taba",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "ng",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "talangka",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "until",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "mixture",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "bubbles",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": ".",
+                "ne_tag": "Ai-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "3",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "US",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "tbsp",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "44",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "achiote",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "juice",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "cook",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": "for",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-14",
+                "token": "30",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "3-0-15",
+                "token": "seconds",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "3-0-16",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "3",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "cups",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "360",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "g",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "cooked",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "rice",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-11",
+                "token": "stir",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-12",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-13",
+                "token": "ingredients",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-14",
+                "token": "thoroughly",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-15",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Serve",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "rice",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "dish",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "immediately",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-10",
+            "T-eq"
+        ],
+        [
+            "0-0-10",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-17",
+            "0-0-18",
+            "other-mod"
+        ],
+        [
+            "0-0-18",
+            "0-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-2",
+            "0-0-10",
+            "other-mod"
+        ],
+        [
+            "0-0-6",
+            "0-0-10",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-part-of"
+        ],
+        [
+            "1-0-0",
+            "2-0-4",
+            "I-part-of"
+        ],
+        [
+            "1-0-10",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-3",
+            "1-0-2",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-10",
+            "2-0-0",
+            "V-tm"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-9",
+            "2-0-10",
+            "Agent"
+        ],
+        [
+            "3-0-0",
+            "3-0-12",
+            "Targ"
+        ],
+        [
+            "3-0-1",
+            "3-0-9",
+            "other-mod"
+        ],
+        [
+            "3-0-12",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-14",
+            "3-0-12",
+            "other-mod"
+        ],
+        [
+            "3-0-5",
+            "3-0-9",
+            "other-mod"
+        ],
+        [
+            "3-0-9",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "4-0-13",
+            "I-eq"
+        ],
+        [
+            "4-0-1",
+            "4-0-9",
+            "other-mod"
+        ],
+        [
+            "4-0-11",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-13",
+            "4-0-11",
+            "Targ"
+        ],
+        [
+            "4-0-4",
+            "4-0-9",
+            "other-mod"
+        ],
+        [
+            "4-0-8",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-9",
+            "4-0-8",
+            "Targ"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ]
+    ]
+}

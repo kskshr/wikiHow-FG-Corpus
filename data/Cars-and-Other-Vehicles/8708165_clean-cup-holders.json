@@ -1,1 +1,320 @@
-{"article_id": "8708165_clean-cup-holders", "url": "https://www.wikihow.com/Clean-Cup-Holders", "steps": [[{"token_id": "0-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "any", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "items", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "0-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "0-0-5", "token": "cupholders", "ne_tag": "I-B"}, {"token_id": "0-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Wipe", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "cup", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "holders", "ne_tag": "I-I"}, {"token_id": "1-0-4", "token": "with", "ne_tag": "I-I"}, {"token_id": "1-0-5", "token": "a", "ne_tag": "I-I"}, {"token_id": "1-0-6", "token": "sponge", "ne_tag": "T-B"}, {"token_id": "1-0-7", "token": "or", "ne_tag": "O"}, {"token_id": "1-0-8", "token": "cloth", "ne_tag": "T-B"}, {"token_id": "1-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Soak", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "cup", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "holders", "ne_tag": "I-I"}, {"token_id": "2-0-4", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "solution", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "holders", "ne_tag": "I-B"}, {"token_id": "3-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "4-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "small", "ne_tag": "St-B"}, {"token_id": "4-0-3", "token": "detailing", "ne_tag": "T-B"}, {"token_id": "4-0-4", "token": "brush", "ne_tag": "T-I"}, {"token_id": "4-0-5", "token": "for", "ne_tag": "O"}, {"token_id": "4-0-6", "token": "hard", "ne_tag": "I-B"}, {"token_id": "4-0-7", "token": "stains", "ne_tag": "I-I"}, {"token_id": "4-0-8", "token": ".", "ne_tag": "I-I"}], [{"token_id": "5-0-0", "token": "Dry", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "cup", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "holders", "ne_tag": "I-I"}, {"token_id": "5-0-4", "token": ".", "ne_tag": "I-I"}]], "flows": [["0-0-0", "1-0-2", "I-eq"], ["0-0-2", "0-0-0", "Targ"], ["0-0-5", "0-0-2", "I-part-of"], ["1-0-0", "2-0-2", "I-eq"], ["1-0-2", "1-0-0", "Targ"], ["1-0-6", "1-0-0", "T-comp"], ["1-0-8", "1-0-0", "T-comp"], ["2-0-0", "3-0-5", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["3-0-0", "4-0-6", "I-part-of"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "3-0-2", "I-part-of"], ["4-0-0", "5-0-2", "I-part-of"], ["4-0-2", "4-0-3", "other-mod"], ["4-0-3", "4-0-0", "Targ"], ["4-0-6", "4-0-0", "Dest"], ["5-0-2", "5-0-0", "Targ"]]}
+{
+    "article_id": "8708165_clean-cup-holders",
+    "url": "https://www.wikihow.com/Clean-Cup-Holders",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "any",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "items",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "cupholders",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Wipe",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "cup",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "holders",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "with",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "a",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "sponge",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "cloth",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Soak",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "cup",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "holders",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "solution",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "holders",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "small",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "detailing",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "brush",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "for",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "hard",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "stains",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Dry",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "cup",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "holders",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-5",
+            "0-0-2",
+            "I-part-of"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-6",
+            "1-0-0",
+            "T-comp"
+        ],
+        [
+            "1-0-8",
+            "1-0-0",
+            "T-comp"
+        ],
+        [
+            "2-0-0",
+            "3-0-5",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-6",
+            "I-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "3-0-2",
+            "I-part-of"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-part-of"
+        ],
+        [
+            "4-0-2",
+            "4-0-3",
+            "other-mod"
+        ],
+        [
+            "4-0-3",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ]
+    ]
+}

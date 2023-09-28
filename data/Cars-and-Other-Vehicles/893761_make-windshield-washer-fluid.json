@@ -1,1 +1,264 @@
-{"article_id": "893761_make-windshield-washer-fluid", "url": "https://www.wikihow.com/Make-Windshield-Washer-Fluid", "steps": [[{"token_id": "0-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "one", "ne_tag": "Q-B"}, {"token_id": "0-0-2", "token": "gallon", "ne_tag": "Q-I"}, {"token_id": "0-0-3", "token": "of", "ne_tag": "O"}, {"token_id": "0-0-4", "token": "distilled", "ne_tag": "Si-B"}, {"token_id": "0-0-5", "token": "water", "ne_tag": "I-B"}, {"token_id": "0-0-6", "token": "to", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": "a", "ne_tag": "I-B"}, {"token_id": "0-0-8", "token": "clean", "ne_tag": "St-B"}, {"token_id": "0-0-9", "token": ",", "ne_tag": "O"}, {"token_id": "0-0-10", "token": "empty", "ne_tag": "St-B"}, {"token_id": "0-0-11", "token": "container", "ne_tag": "T-B"}, {"token_id": "0-0-12", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "one", "ne_tag": "Q-B"}, {"token_id": "1-0-2", "token": "cup", "ne_tag": "Q-I"}, {"token_id": "1-0-3", "token": "of", "ne_tag": "O"}, {"token_id": "1-0-4", "token": "glass", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "cleaner", "ne_tag": "I-I"}, {"token_id": "1-0-6", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "well", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "by", "ne_tag": "Ae-B"}, {"token_id": "2-0-3", "token": "shaking", "ne_tag": "Ae-B"}, {"token_id": "2-0-4", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-5", "token": "container", "ne_tag": "T-B"}, {"token_id": "2-0-6", "token": "and", "ne_tag": "O"}, {"token_id": "2-0-7", "token": "add", "ne_tag": "Ae-B"}, {"token_id": "2-0-8", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-9", "token": "solution", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": "to", "ne_tag": "I-B"}, {"token_id": "2-0-11", "token": "your", "ne_tag": "I-B"}, {"token_id": "2-0-12", "token": "car", "ne_tag": "I-B"}, {"token_id": "2-0-13", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "1-0-0", "Dest"], ["0-0-1", "0-0-5", "other-mod"], ["0-0-10", "0-0-11", "other-mod"], ["0-0-11", "0-0-0", "Dest"], ["0-0-4", "0-0-5", "other-mod"], ["0-0-5", "0-0-0", "other-mod"], ["0-0-8", "0-0-11", "other-mod"], ["1-0-0", "2-0-0", "Targ"], ["1-0-0", "2-0-5", "T-eq"], ["1-0-1", "1-0-4", "other-mod"], ["1-0-4", "1-0-0", "Targ"], ["2-0-0", "2-0-3", "A-eq"], ["2-0-12", "2-0-7", "Dest"], ["2-0-3", "2-0-9", "I-eq"], ["2-0-5", "2-0-3", "Targ"], ["2-0-9", "2-0-7", "Targ"]]}
+{
+    "article_id": "893761_make-windshield-washer-fluid",
+    "url": "https://www.wikihow.com/Make-Windshield-Washer-Fluid",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "one",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "gallon",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "distilled",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "water",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "clean",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "empty",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "container",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "one",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "cup",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "glass",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "cleaner",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "well",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "by",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "shaking",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "container",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "solution",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": "your",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-12",
+                "token": "car",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-13",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-1",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-10",
+            "0-0-11",
+            "other-mod"
+        ],
+        [
+            "0-0-11",
+            "0-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-4",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-5",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "0-0-8",
+            "0-0-11",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-5",
+            "T-eq"
+        ],
+        [
+            "1-0-1",
+            "1-0-4",
+            "other-mod"
+        ],
+        [
+            "1-0-4",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "2-0-3",
+            "A-eq"
+        ],
+        [
+            "2-0-12",
+            "2-0-7",
+            "Dest"
+        ],
+        [
+            "2-0-3",
+            "2-0-9",
+            "I-eq"
+        ],
+        [
+            "2-0-5",
+            "2-0-3",
+            "Targ"
+        ],
+        [
+            "2-0-9",
+            "2-0-7",
+            "Targ"
+        ]
+    ]
+}

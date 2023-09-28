@@ -1,1 +1,448 @@
-{"article_id": "8635220_make-mosquito-repellent", "url": "https://www.wikihow.com/Make-Mosquito-Repellent", "steps": [[{"token_id": "0-0-0", "token": "Choose", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "an", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "essential", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": "oil", "ne_tag": "I-I"}, {"token_id": "0-0-4", "token": "for", "ne_tag": "I-I"}, {"token_id": "0-0-5", "token": "your", "ne_tag": "I-I"}, {"token_id": "0-0-6", "token": "spray", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Fill", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "4", "ne_tag": "St-B"}, {"token_id": "1-0-3", "token": "oz", "ne_tag": "St-I"}, {"token_id": "1-0-4", "token": "(", "ne_tag": "O"}, {"token_id": "1-0-5", "token": "118.29", "ne_tag": "St-B"}, {"token_id": "1-0-6", "token": "ml", "ne_tag": "St-I"}, {"token_id": "1-0-7", "token": ")", "ne_tag": "O"}, {"token_id": "1-0-8", "token": "spray", "ne_tag": "T-B"}, {"token_id": "1-0-9", "token": "bottle", "ne_tag": "T-I"}, {"token_id": "1-0-10", "token": "with", "ne_tag": "O"}, {"token_id": "1-0-11", "token": "2", "ne_tag": "Q-B"}, {"token_id": "1-0-12", "token": "oz", "ne_tag": "Q-I"}, {"token_id": "1-0-13", "token": "(", "ne_tag": "O"}, {"token_id": "1-0-14", "token": "59.1471", "ne_tag": "Q-B"}, {"token_id": "1-0-15", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "1-0-16", "token": ")", "ne_tag": "O"}, {"token_id": "1-0-17", "token": "of", "ne_tag": "O"}, {"token_id": "1-0-18", "token": "distilled", "ne_tag": "Si-B"}, {"token_id": "1-0-19", "token": "water", "ne_tag": "I-B"}, {"token_id": "1-0-20", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "one", "ne_tag": "Q-B"}, {"token_id": "2-0-2", "token": "ounce", "ne_tag": "Q-I"}, {"token_id": "2-0-3", "token": "(", "ne_tag": "O"}, {"token_id": "2-0-4", "token": "29.57", "ne_tag": "Q-B"}, {"token_id": "2-0-5", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "2-0-6", "token": ")", "ne_tag": "O"}, {"token_id": "2-0-7", "token": "of", "ne_tag": "O"}, {"token_id": "2-0-8", "token": "vodka", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "50", "ne_tag": "Q-B"}, {"token_id": "3-0-2", "token": "-", "ne_tag": "Q-I"}, {"token_id": "3-0-3", "token": "75", "ne_tag": "Q-I"}, {"token_id": "3-0-4", "token": "drops", "ne_tag": "Q-I"}, {"token_id": "3-0-5", "token": "of", "ne_tag": "O"}, {"token_id": "3-0-6", "token": "essential", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "oils", "ne_tag": "I-I"}, {"token_id": "3-0-8", "token": "into", "ne_tag": "I-I"}, {"token_id": "3-0-9", "token": "the", "ne_tag": "I-I"}, {"token_id": "3-0-10", "token": "spray", "ne_tag": "T-B"}, {"token_id": "3-0-11", "token": "bottle", "ne_tag": "T-I"}, {"token_id": "3-0-12", "token": ".", "ne_tag": "O"}], [{"token_id": "4-0-0", "token": "Shake", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "solution", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "well", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "and", "ne_tag": "I-B"}, {"token_id": "4-0-5", "token": "apply", "ne_tag": "Ae-B"}, {"token_id": "4-0-6", "token": "it", "ne_tag": "I-B"}, {"token_id": "4-0-7", "token": "to", "ne_tag": "I-B"}, {"token_id": "4-0-8", "token": "your", "ne_tag": "I-B"}, {"token_id": "4-0-9", "token": "skin", "ne_tag": "I-B"}, {"token_id": "4-0-10", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "3-0-6", "I-eq"], ["0-0-2", "0-0-0", "Targ"], ["0-0-6", "0-0-0", "other-mod"], ["1-0-0", "2-0-0", "Dest"], ["1-0-11", "1-0-19", "other-mod"], ["1-0-14", "1-0-19", "other-mod"], ["1-0-18", "1-0-19", "other-mod"], ["1-0-19", "1-0-0", "I-comp"], ["1-0-2", "1-0-8", "other-mod"], ["1-0-5", "1-0-8", "other-mod"], ["1-0-8", "1-0-0", "Targ"], ["2-0-0", "3-0-0", "Targ"], ["2-0-1", "2-0-8", "other-mod"], ["2-0-4", "2-0-8", "other-mod"], ["2-0-8", "2-0-0", "Targ"], ["3-0-0", "4-0-2", "I-eq"], ["3-0-1", "3-0-6", "other-mod"], ["3-0-10", "3-0-0", "Dest"], ["3-0-6", "3-0-0", "Targ"], ["4-0-0", "4-0-6", "I-eq"], ["4-0-2", "4-0-0", "Targ"], ["4-0-6", "4-0-5", "Targ"], ["4-0-9", "4-0-5", "Dest"]]}
+{
+    "article_id": "8635220_make-mosquito-repellent",
+    "url": "https://www.wikihow.com/Make-Mosquito-Repellent",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Choose",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "an",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "essential",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "oil",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "for",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "your",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "spray",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Fill",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "4",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "oz",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "118.29",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "ml",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "spray",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "bottle",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "with",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "2",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "oz",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-14",
+                "token": "59.1471",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-15",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "1-0-16",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-17",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-18",
+                "token": "distilled",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-19",
+                "token": "water",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-20",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "one",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "ounce",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "29.57",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "vodka",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "50",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "-",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "75",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "drops",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "essential",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "oils",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "into",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "spray",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "bottle",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Shake",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "solution",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "well",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "apply",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "it",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "your",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "skin",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "3-0-6",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-6",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-11",
+            "1-0-19",
+            "other-mod"
+        ],
+        [
+            "1-0-14",
+            "1-0-19",
+            "other-mod"
+        ],
+        [
+            "1-0-18",
+            "1-0-19",
+            "other-mod"
+        ],
+        [
+            "1-0-19",
+            "1-0-0",
+            "I-comp"
+        ],
+        [
+            "1-0-2",
+            "1-0-8",
+            "other-mod"
+        ],
+        [
+            "1-0-5",
+            "1-0-8",
+            "other-mod"
+        ],
+        [
+            "1-0-8",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-1",
+            "2-0-8",
+            "other-mod"
+        ],
+        [
+            "2-0-4",
+            "2-0-8",
+            "other-mod"
+        ],
+        [
+            "2-0-8",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-eq"
+        ],
+        [
+            "3-0-1",
+            "3-0-6",
+            "other-mod"
+        ],
+        [
+            "3-0-10",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-6",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "4-0-6",
+            "I-eq"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-6",
+            "4-0-5",
+            "Targ"
+        ],
+        [
+            "4-0-9",
+            "4-0-5",
+            "Dest"
+        ]
+    ]
+}

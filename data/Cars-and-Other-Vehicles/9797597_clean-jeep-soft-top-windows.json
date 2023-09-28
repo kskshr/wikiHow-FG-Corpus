@@ -1,1 +1,340 @@
-{"article_id": "9797597_clean-jeep-soft-top-windows", "url": "https://www.wikihow.com/Clean-Jeep-Soft-Top-Windows", "steps": [[{"token_id": "0-0-0", "token": "Wipe", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "window", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": "down", "ne_tag": "Ae2-B"}, {"token_id": "0-0-4", "token": "with", "ne_tag": "Ae2-B"}, {"token_id": "0-0-5", "token": "water", "ne_tag": "T-B"}, {"token_id": "0-0-6", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Rub", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "plastic", "ne_tag": "T-B"}, {"token_id": "1-0-3", "token": "repairing", "ne_tag": "T-I"}, {"token_id": "1-0-4", "token": "solution", "ne_tag": "T-I"}, {"token_id": "1-0-5", "token": "into", "ne_tag": "O"}, {"token_id": "1-0-6", "token": "the", "ne_tag": "O"}, {"token_id": "1-0-7", "token": "window", "ne_tag": "I-B"}, {"token_id": "1-0-8", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Dry", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "window", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "with", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "a", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "microfiber", "ne_tag": "St-B"}, {"token_id": "2-0-6", "token": "towel", "ne_tag": "T-B"}, {"token_id": "2-0-7", "token": "if", "ne_tag": "O"}, {"token_id": "2-0-8", "token": "necessary", "ne_tag": "O"}, {"token_id": "2-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Cover", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "window", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "with", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "a", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "sealing", "ne_tag": "T-B"}, {"token_id": "3-0-6", "token": "spray", "ne_tag": "T-I"}, {"token_id": "3-0-7", "token": ".", "ne_tag": "O"}], [{"token_id": "4-0-0", "token": "Do", "ne_tag": "O"}, {"token_id": "4-0-1", "token": "not", "ne_tag": "O"}, {"token_id": "4-0-2", "token": "use", "ne_tag": "O"}, {"token_id": "4-0-3", "token": "window", "ne_tag": "O"}, {"token_id": "4-0-4", "token": "cleaners", "ne_tag": "O"}, {"token_id": "4-0-5", "token": "containing", "ne_tag": "O"}, {"token_id": "4-0-6", "token": "alcohol", "ne_tag": "O"}, {"token_id": "4-0-7", "token": "or", "ne_tag": "O"}, {"token_id": "4-0-8", "token": "ammonia", "ne_tag": "O"}, {"token_id": "4-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Avoid", "ne_tag": "O"}, {"token_id": "5-0-1", "token": "paper", "ne_tag": "O"}, {"token_id": "5-0-2", "token": "towels", "ne_tag": "O"}, {"token_id": "5-0-3", "token": "and", "ne_tag": "O"}, {"token_id": "5-0-4", "token": "terry", "ne_tag": "O"}, {"token_id": "5-0-5", "token": "towels", "ne_tag": "O"}, {"token_id": "5-0-6", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "0-0-3", "Targ"], ["0-0-0", "1-0-7", "I-eq"], ["0-0-2", "0-0-0", "Targ"], ["0-0-5", "0-0-0", "T-comp"], ["1-0-0", "2-0-2", "I-eq"], ["1-0-2", "1-0-0", "Targ"], ["1-0-7", "1-0-0", "Dest"], ["2-0-0", "3-0-2", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "2-0-6", "other-mod"], ["2-0-6", "2-0-0", "T-comp"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "3-0-0", "T-comp"]]}
+{
+    "article_id": "9797597_clean-jeep-soft-top-windows",
+    "url": "https://www.wikihow.com/Clean-Jeep-Soft-Top-Windows",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Wipe",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "window",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "down",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "with",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Rub",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "plastic",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "repairing",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "solution",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "into",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "the",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "window",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Dry",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "window",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "microfiber",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "towel",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "if",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "necessary",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Cover",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "window",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "sealing",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "spray",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Do",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "not",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "use",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "window",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "cleaners",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "containing",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "alcohol",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "ammonia",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Avoid",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "paper",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "towels",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "terry",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "towels",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "0-0-3",
+            "Targ"
+        ],
+        [
+            "0-0-0",
+            "1-0-7",
+            "I-eq"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-5",
+            "0-0-0",
+            "T-comp"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-7",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-6",
+            "other-mod"
+        ],
+        [
+            "2-0-6",
+            "2-0-0",
+            "T-comp"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "3-0-0",
+            "T-comp"
+        ]
+    ]
+}

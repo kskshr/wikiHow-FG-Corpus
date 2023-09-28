@@ -1,1 +1,390 @@
-{"article_id": "3432_remove-deep-stains-from-dishes", "url": "https://www.wikihow.com/Remove-Deep-Stains-from-Dishes", "steps": [[{"token_id": "0-0-0", "token": "Wash", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "dishes", "ne_tag": "I-B"}, {"token_id": "0-0-2", "token": "thoroughly", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Spot", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "-", "ne_tag": "Ae-I"}, {"token_id": "1-0-2", "token": "clean", "ne_tag": "Ae-I"}, {"token_id": "1-0-3", "token": "stained", "ne_tag": "Si-B"}, {"token_id": "1-0-4", "token": "dishes", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "using", "ne_tag": "Ae-B"}, {"token_id": "1-0-6", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "1-0-7", "token": "baking", "ne_tag": "T-B"}, {"token_id": "1-0-8", "token": "soda", "ne_tag": "T-I"}, {"token_id": "1-0-9", "token": "paste", "ne_tag": "T-I"}, {"token_id": "1-0-10", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "soaking", "ne_tag": "T-B"}, {"token_id": "2-0-3", "token": "solution", "ne_tag": "T-I"}, {"token_id": "2-0-4", "token": "of", "ne_tag": "O"}, {"token_id": "2-0-5", "token": "baking", "ne_tag": "T-B"}, {"token_id": "2-0-6", "token": "soda", "ne_tag": "T-I"}, {"token_id": "2-0-7", "token": "and", "ne_tag": "O"}, {"token_id": "2-0-8", "token": "vinegar", "ne_tag": "T-B"}, {"token_id": "2-0-9", "token": "to", "ne_tag": "O"}, {"token_id": "2-0-10", "token": "remove", "ne_tag": "Ae-B"}, {"token_id": "2-0-11", "token": "deeper", "ne_tag": "Si-B"}, {"token_id": "2-0-12", "token": "stains", "ne_tag": "I-B"}, {"token_id": "2-0-13", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Rinse", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "dishes", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": ",", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "and", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "evaluate", "ne_tag": "Ae-B"}, {"token_id": "3-0-6", "token": "any", "ne_tag": "Q-B"}, {"token_id": "3-0-7", "token": "remaining", "ne_tag": "Si-B"}, {"token_id": "3-0-8", "token": "stains", "ne_tag": "I-B"}, {"token_id": "3-0-9", "token": ".", "ne_tag": "I-B"}], [{"token_id": "4-0-0", "token": "Try", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "more", "ne_tag": "Ae-B"}, {"token_id": "4-0-3", "token": "powerful", "ne_tag": "St-B"}, {"token_id": "4-0-4", "token": "solvent", "ne_tag": "T-B"}, {"token_id": "4-0-5", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Use", "ne_tag": "O"}, {"token_id": "5-0-1", "token": "care", "ne_tag": "O"}, {"token_id": "5-0-2", "token": "when", "ne_tag": "O"}, {"token_id": "5-0-3", "token": "bleaching", "ne_tag": "O"}, {"token_id": "5-0-4", "token": "ceramics", "ne_tag": "O"}, {"token_id": "5-0-5", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "1-0-4", "I-eq"], ["0-0-1", "0-0-0", "Targ"], ["1-0-0", "2-0-12", "I-part-of"], ["1-0-3", "1-0-4", "other-mod"], ["1-0-4", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "T-comp"], ["1-0-7", "1-0-5", "Targ"], ["2-0-0", "2-0-10", "T-comp"], ["2-0-10", "3-0-2", "I-eq"], ["2-0-11", "2-0-12", "other-mod"], ["2-0-12", "2-0-10", "Targ"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "2-0-2", "other-mod"], ["2-0-8", "2-0-2", "other-mod"], ["3-0-0", "3-0-5", "Dest"], ["3-0-0", "3-0-8", "I-part-of"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "4-0-0", "Dest"], ["3-0-6", "3-0-8", "other-mod"], ["3-0-7", "3-0-8", "other-mod"], ["3-0-8", "3-0-5", "Targ"], ["4-0-3", "4-0-4", "other-mod"], ["4-0-4", "4-0-0", "Targ"]]}
+{
+    "article_id": "3432_remove-deep-stains-from-dishes",
+    "url": "https://www.wikihow.com/Remove-Deep-Stains-from-Dishes",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Wash",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "dishes",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "thoroughly",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Spot",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "-",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "clean",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "stained",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "dishes",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "using",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "baking",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "soda",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "paste",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "soaking",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "solution",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "baking",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "soda",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "vinegar",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": "deeper",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "2-0-12",
+                "token": "stains",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-13",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Rinse",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "dishes",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "evaluate",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "any",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "remaining",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "stains",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Try",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "more",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "powerful",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "solvent",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Use",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "care",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "when",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "bleaching",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "ceramics",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-4",
+            "I-eq"
+        ],
+        [
+            "0-0-1",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-12",
+            "I-part-of"
+        ],
+        [
+            "1-0-3",
+            "1-0-4",
+            "other-mod"
+        ],
+        [
+            "1-0-4",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "T-comp"
+        ],
+        [
+            "1-0-7",
+            "1-0-5",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "2-0-10",
+            "T-comp"
+        ],
+        [
+            "2-0-10",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-11",
+            "2-0-12",
+            "other-mod"
+        ],
+        [
+            "2-0-12",
+            "2-0-10",
+            "Targ"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "2-0-2",
+            "other-mod"
+        ],
+        [
+            "2-0-8",
+            "2-0-2",
+            "other-mod"
+        ],
+        [
+            "3-0-0",
+            "3-0-5",
+            "Dest"
+        ],
+        [
+            "3-0-0",
+            "3-0-8",
+            "I-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-6",
+            "3-0-8",
+            "other-mod"
+        ],
+        [
+            "3-0-7",
+            "3-0-8",
+            "other-mod"
+        ],
+        [
+            "3-0-8",
+            "3-0-5",
+            "Targ"
+        ],
+        [
+            "4-0-3",
+            "4-0-4",
+            "other-mod"
+        ],
+        [
+            "4-0-4",
+            "4-0-0",
+            "Targ"
+        ]
+    ]
+}

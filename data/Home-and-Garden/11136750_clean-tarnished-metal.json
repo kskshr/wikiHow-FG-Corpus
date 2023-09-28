@@ -1,1 +1,411 @@
-{"article_id": "11136750_clean-tarnished-metal", "url": "https://www.wikihow.com/Clean-Tarnished-Metal", "steps": [[{"token_id": "0-0-0", "token": "Squeeze", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "few", "ne_tag": "Q-B"}, {"token_id": "0-0-3", "token": "drops", "ne_tag": "Q-I"}, {"token_id": "0-0-4", "token": "of", "ne_tag": "O"}, {"token_id": "0-0-5", "token": "mild", "ne_tag": "St-B"}, {"token_id": "0-0-6", "token": "liquid", "ne_tag": "St-B"}, {"token_id": "0-0-7", "token": "dish", "ne_tag": "T-B"}, {"token_id": "0-0-8", "token": "soap", "ne_tag": "T-I"}, {"token_id": "0-0-9", "token": "into", "ne_tag": "O"}, {"token_id": "0-0-10", "token": "a", "ne_tag": "O"}, {"token_id": "0-0-11", "token": "bowl", "ne_tag": "T-B"}, {"token_id": "0-0-12", "token": "of", "ne_tag": "O"}, {"token_id": "0-0-13", "token": "warm", "ne_tag": "St-B"}, {"token_id": "0-0-14", "token": "water", "ne_tag": "T-B"}, {"token_id": "0-0-15", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Soak", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "item", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "soapy", "ne_tag": "St-B"}, {"token_id": "1-0-6", "token": "water", "ne_tag": "T-B"}, {"token_id": "1-0-7", "token": "bath", "ne_tag": "T-I"}, {"token_id": "1-0-8", "token": "for", "ne_tag": "O"}, {"token_id": "1-0-9", "token": "up", "ne_tag": "D-B"}, {"token_id": "1-0-10", "token": "to", "ne_tag": "D-I"}, {"token_id": "1-0-11", "token": "15", "ne_tag": "D-I"}, {"token_id": "1-0-12", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "1-0-13", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Wipe", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "item", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "lightly", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "with", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "a", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "soft", "ne_tag": "St-B"}, {"token_id": "2-0-7", "token": "cloth", "ne_tag": "T-B"}, {"token_id": "2-0-8", "token": "or", "ne_tag": "O"}, {"token_id": "2-0-9", "token": "sponge", "ne_tag": "T-B"}, {"token_id": "2-0-10", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Rinse", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "item", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "and", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "dry", "ne_tag": "Ae-B"}, {"token_id": "3-0-5", "token": "it", "ne_tag": "I-B"}, {"token_id": "3-0-6", "token": "with", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "a", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "microfiber", "ne_tag": "T-B"}, {"token_id": "3-0-9", "token": "cloth", "ne_tag": "T-I"}, {"token_id": "3-0-10", "token": "or", "ne_tag": "O"}, {"token_id": "3-0-11", "token": "clean", "ne_tag": "St-B"}, {"token_id": "3-0-12", "token": "towel", "ne_tag": "T-B"}, {"token_id": "3-0-13", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "1-0-6", "T-eq"], ["0-0-11", "0-0-0", "Dest"], ["0-0-13", "0-0-14", "other-mod"], ["0-0-14", "0-0-11", "other-mod"], ["0-0-2", "0-0-7", "other-mod"], ["0-0-5", "0-0-7", "other-mod"], ["0-0-6", "0-0-7", "other-mod"], ["0-0-7", "0-0-0", "Targ"], ["1-0-0", "2-0-2", "I-eq"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-6", "other-mod"], ["1-0-6", "1-0-0", "Dest"], ["1-0-9", "1-0-0", "other-mod"], ["2-0-0", "3-0-2", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["2-0-6", "2-0-7", "other-mod"], ["2-0-7", "2-0-0", "T-comp"], ["2-0-9", "2-0-0", "T-comp"], ["3-0-0", "3-0-5", "I-eq"], ["3-0-11", "3-0-12", "other-mod"], ["3-0-12", "3-0-4", "T-comp"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "3-0-4", "Targ"], ["3-0-8", "3-0-4", "T-comp"]]}
+{
+    "article_id": "11136750_clean-tarnished-metal",
+    "url": "https://www.wikihow.com/Clean-Tarnished-Metal",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Squeeze",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "few",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "drops",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "mild",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "liquid",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "dish",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "soap",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "into",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "bowl",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": "warm",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-14",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-15",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Soak",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "item",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "soapy",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "bath",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "for",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "up",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "to",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "15",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Wipe",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "item",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "lightly",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "soft",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "cloth",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "sponge",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Rinse",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "item",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "dry",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "it",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "microfiber",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "cloth",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "clean",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "towel",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-6",
+            "T-eq"
+        ],
+        [
+            "0-0-11",
+            "0-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-13",
+            "0-0-14",
+            "other-mod"
+        ],
+        [
+            "0-0-14",
+            "0-0-11",
+            "other-mod"
+        ],
+        [
+            "0-0-2",
+            "0-0-7",
+            "other-mod"
+        ],
+        [
+            "0-0-5",
+            "0-0-7",
+            "other-mod"
+        ],
+        [
+            "0-0-6",
+            "0-0-7",
+            "other-mod"
+        ],
+        [
+            "0-0-7",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-6",
+            "other-mod"
+        ],
+        [
+            "1-0-6",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-9",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-6",
+            "2-0-7",
+            "other-mod"
+        ],
+        [
+            "2-0-7",
+            "2-0-0",
+            "T-comp"
+        ],
+        [
+            "2-0-9",
+            "2-0-0",
+            "T-comp"
+        ],
+        [
+            "3-0-0",
+            "3-0-5",
+            "I-eq"
+        ],
+        [
+            "3-0-11",
+            "3-0-12",
+            "other-mod"
+        ],
+        [
+            "3-0-12",
+            "3-0-4",
+            "T-comp"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "3-0-4",
+            "Targ"
+        ],
+        [
+            "3-0-8",
+            "3-0-4",
+            "T-comp"
+        ]
+    ]
+}

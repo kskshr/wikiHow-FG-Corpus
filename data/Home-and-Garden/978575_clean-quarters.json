@@ -1,1 +1,467 @@
-{"article_id": "978575_clean-quarters", "url": "https://www.wikihow.com/Clean-Quarters", "steps": [[{"token_id": "0-0-0", "token": "Make", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "sure", "ne_tag": "Ae-I"}, {"token_id": "0-0-2", "token": "your", "ne_tag": "Ae-I"}, {"token_id": "0-0-3", "token": "quarter", "ne_tag": "I-B"}, {"token_id": "0-0-4", "token": "is", "ne_tag": "I-B"}, {"token_id": "0-0-5", "token": "not", "ne_tag": "I-B"}, {"token_id": "0-0-6", "token": "valued", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": "by", "ne_tag": "I-B"}, {"token_id": "0-0-8", "token": "collectors", "ne_tag": "I-B"}, {"token_id": "0-0-9", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Wash", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "hands", "ne_tag": "T-B"}, {"token_id": "1-0-3", "token": "with", "ne_tag": "O"}, {"token_id": "1-0-4", "token": "soap", "ne_tag": "T-B"}, {"token_id": "1-0-5", "token": "and", "ne_tag": "O"}, {"token_id": "1-0-6", "token": "warm", "ne_tag": "St-B"}, {"token_id": "1-0-7", "token": "water", "ne_tag": "T-B"}, {"token_id": "1-0-8", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Soak", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "quarter", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "very", "ne_tag": "St-B"}, {"token_id": "2-0-5", "token": "hot", "ne_tag": "St-I"}, {"token_id": "2-0-6", "token": "water", "ne_tag": "T-B"}, {"token_id": "2-0-7", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Soak", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "quarter", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "a", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "plastic", "ne_tag": "St-B"}, {"token_id": "3-0-6", "token": "container", "ne_tag": "T-B"}, {"token_id": "3-0-7", "token": "filled", "ne_tag": "Ae-B"}, {"token_id": "3-0-8", "token": "with", "ne_tag": "Ae-B"}, {"token_id": "3-0-9", "token": "warm", "ne_tag": "St-B"}, {"token_id": "3-0-10", "token": ",", "ne_tag": "O"}, {"token_id": "3-0-11", "token": "soapy", "ne_tag": "St-B"}, {"token_id": "3-0-12", "token": "water", "ne_tag": "T-B"}, {"token_id": "3-0-13", "token": ".", "ne_tag": "O"}], [{"token_id": "4-0-0", "token": "Rinse", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "coin", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "with", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "warm", "ne_tag": "St-B"}, {"token_id": "4-0-5", "token": "running", "ne_tag": "St-B"}, {"token_id": "4-0-6", "token": "water", "ne_tag": "T-B"}, {"token_id": "4-0-7", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Rinse", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "quarter", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "with", "ne_tag": "I-B"}, {"token_id": "5-0-4", "token": "distilled", "ne_tag": "St-B"}, {"token_id": "5-0-5", "token": "water", "ne_tag": "T-B"}, {"token_id": "5-0-6", "token": ".", "ne_tag": "O"}], [{"token_id": "6-0-0", "token": "Dry", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "quarter", "ne_tag": "I-B"}, {"token_id": "6-0-3", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "2-0-2", "I-eq"], ["0-0-3", "0-0-0", "Targ"], ["1-0-0", "2-0-0", "T-comp"], ["1-0-2", "1-0-0", "Targ"], ["1-0-4", "1-0-0", "T-comp"], ["1-0-6", "1-0-7", "other-mod"], ["1-0-7", "1-0-0", "T-comp"], ["2-0-0", "3-0-2", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["2-0-4", "2-0-6", "other-mod"], ["2-0-6", "2-0-0", "Dest"], ["3-0-0", "4-0-2", "I-eq"], ["3-0-11", "3-0-12", "other-mod"], ["3-0-12", "3-0-7", "T-comp"], ["3-0-2", "3-0-0", "Targ"], ["3-0-5", "3-0-6", "other-mod"], ["3-0-6", "3-0-7", "Targ"], ["3-0-7", "3-0-0", "Dest"], ["3-0-9", "3-0-12", "other-mod"], ["4-0-0", "5-0-2", "I-eq"], ["4-0-2", "4-0-0", "Targ"], ["4-0-4", "4-0-6", "other-mod"], ["4-0-5", "4-0-6", "other-mod"], ["4-0-6", "4-0-0", "T-comp"], ["5-0-0", "6-0-2", "I-eq"], ["5-0-2", "5-0-0", "Targ"], ["5-0-4", "5-0-5", "other-mod"], ["5-0-5", "5-0-0", "T-comp"], ["6-0-2", "6-0-0", "Targ"]]}
+{
+    "article_id": "978575_clean-quarters",
+    "url": "https://www.wikihow.com/Clean-Quarters",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Make",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "sure",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "your",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "quarter",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "is",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "not",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "valued",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "by",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "collectors",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Wash",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "hands",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "with",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "soap",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "warm",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Soak",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "quarter",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "very",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "hot",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Soak",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "quarter",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "plastic",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "container",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "filled",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "with",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "warm",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": ",",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "soapy",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Rinse",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "coin",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "warm",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "running",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Rinse",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "quarter",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "distilled",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Dry",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "quarter",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-3",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-0",
+            "T-comp"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-4",
+            "1-0-0",
+            "T-comp"
+        ],
+        [
+            "1-0-6",
+            "1-0-7",
+            "other-mod"
+        ],
+        [
+            "1-0-7",
+            "1-0-0",
+            "T-comp"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-6",
+            "other-mod"
+        ],
+        [
+            "2-0-6",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-eq"
+        ],
+        [
+            "3-0-11",
+            "3-0-12",
+            "other-mod"
+        ],
+        [
+            "3-0-12",
+            "3-0-7",
+            "T-comp"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-5",
+            "3-0-6",
+            "other-mod"
+        ],
+        [
+            "3-0-6",
+            "3-0-7",
+            "Targ"
+        ],
+        [
+            "3-0-7",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-9",
+            "3-0-12",
+            "other-mod"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-4",
+            "4-0-6",
+            "other-mod"
+        ],
+        [
+            "4-0-5",
+            "4-0-6",
+            "other-mod"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "T-comp"
+        ],
+        [
+            "5-0-0",
+            "6-0-2",
+            "I-eq"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-4",
+            "5-0-5",
+            "other-mod"
+        ],
+        [
+            "5-0-5",
+            "5-0-0",
+            "T-comp"
+        ],
+        [
+            "6-0-2",
+            "6-0-0",
+            "Targ"
+        ]
+    ]
+}

@@ -1,1 +1,412 @@
-{"article_id": "120264_make-potato-soup", "url": "https://www.wikihow.com/Make-Potato-Soup", "steps": [[{"token_id": "0-0-0", "token": "Boil", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "6", "ne_tag": "Q-B"}, {"token_id": "0-0-2", "token": "medium", "ne_tag": "Si-B"}, {"token_id": "0-0-3", "token": "-", "ne_tag": "Si-I"}, {"token_id": "0-0-4", "token": "sized", "ne_tag": "Si-I"}, {"token_id": "0-0-5", "token": "russet", "ne_tag": "I-B"}, {"token_id": "0-0-6", "token": "potatoes", "ne_tag": "I-I"}, {"token_id": "0-0-7", "token": ".", "ne_tag": "I-I"}], [{"token_id": "1-0-0", "token": "Place", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "several", "ne_tag": "Q-B"}, {"token_id": "1-0-2", "token": "ingredients", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "a", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "pot", "ne_tag": "T-B"}, {"token_id": "1-0-6", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Combine", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "chicken", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": "soup", "ne_tag": "I-I"}, {"token_id": "2-0-4", "token": "and", "ne_tag": "I-I"}, {"token_id": "2-0-5", "token": "mix", "ne_tag": "Ae-B"}, {"token_id": "2-0-6", "token": "in", "ne_tag": "Ae-B"}, {"token_id": "2-0-7", "token": "another", "ne_tag": "Ae-B"}, {"token_id": "2-0-8", "token": "pot", "ne_tag": "T-B"}, {"token_id": "2-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "potatoes", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": ",", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "ham", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": ",", "ne_tag": "I-B"}, {"token_id": "3-0-6", "token": "and", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": "garlic", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "salt", "ne_tag": "I-I"}, {"token_id": "3-0-9", "token": "to", "ne_tag": "I-I"}, {"token_id": "3-0-10", "token": "the", "ne_tag": "I-I"}, {"token_id": "3-0-11", "token": "soup", "ne_tag": "I-B"}, {"token_id": "3-0-12", "token": ".", "ne_tag": "I-B"}], [{"token_id": "4-0-0", "token": "Heat", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "soup", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "on", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "low", "ne_tag": "T-B"}, {"token_id": "4-0-5", "token": "for", "ne_tag": "O"}, {"token_id": "4-0-6", "token": "10", "ne_tag": "D-B"}, {"token_id": "4-0-7", "token": "-", "ne_tag": "D-I"}, {"token_id": "4-0-8", "token": "15", "ne_tag": "D-I"}, {"token_id": "4-0-9", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "4-0-10", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Garnish", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "soup", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "6-0-0", "token": "Serve", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": ".", "ne_tag": "Ae-B"}]], "flows": [["0-0-0", "3-0-2", "I-eq"], ["0-0-1", "0-0-5", "other-mod"], ["0-0-2", "0-0-5", "other-mod"], ["0-0-5", "0-0-0", "Targ"], ["1-0-0", "2-0-2", "I-eq"], ["1-0-1", "1-0-2", "other-mod"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "Dest"], ["2-0-0", "2-0-5", "Targ"], ["2-0-0", "3-0-11", "I-eq"], ["2-0-2", "2-0-0", "Targ"], ["2-0-8", "2-0-5", "Dest"], ["3-0-0", "4-0-2", "I-eq"], ["3-0-11", "3-0-0", "Dest"], ["3-0-2", "3-0-0", "Targ"], ["3-0-4", "3-0-0", "Targ"], ["3-0-7", "3-0-0", "Targ"], ["4-0-0", "5-0-2", "I-eq"], ["4-0-2", "4-0-0", "Targ"], ["4-0-4", "4-0-0", "T-comp"], ["4-0-6", "4-0-0", "other-mod"], ["5-0-0", "6-0-0", "Targ"], ["5-0-2", "5-0-0", "Targ"]]}
+{
+    "article_id": "120264_make-potato-soup",
+    "url": "https://www.wikihow.com/Make-Potato-Soup",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Boil",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "6",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "medium",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "-",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "sized",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "russet",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "potatoes",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Place",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "several",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "ingredients",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "pot",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Combine",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "chicken",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "soup",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "in",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "another",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "pot",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "potatoes",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "ham",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "and",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "garlic",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "salt",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "soup",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Heat",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "soup",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "on",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "low",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "for",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "10",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "-",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "15",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Garnish",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "soup",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Serve",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": ".",
+                "ne_tag": "Ae-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-1",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-2",
+            "0-0-5",
+            "other-mod"
+        ],
+        [
+            "0-0-5",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-eq"
+        ],
+        [
+            "1-0-1",
+            "1-0-2",
+            "other-mod"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-0",
+            "2-0-5",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "3-0-11",
+            "I-eq"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-8",
+            "2-0-5",
+            "Dest"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-eq"
+        ],
+        [
+            "3-0-11",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-4",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-7",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-4",
+            "4-0-0",
+            "T-comp"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "other-mod"
+        ],
+        [
+            "5-0-0",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ]
+    ]
+}

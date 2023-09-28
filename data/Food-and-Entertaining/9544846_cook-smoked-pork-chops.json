@@ -1,1 +1,381 @@
-{"article_id": "9544846_cook-smoked-pork-chops", "url": "https://www.wikihow.com/Cook-Smoked-Pork-Chops", "steps": [[{"token_id": "0-0-0", "token": "Heat", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "1", "ne_tag": "Q-B"}, {"token_id": "0-0-2", "token": "tablespoon", "ne_tag": "Q-I"}, {"token_id": "0-0-3", "token": "(", "ne_tag": "O"}, {"token_id": "0-0-4", "token": "15", "ne_tag": "Q-B"}, {"token_id": "0-0-5", "token": "mL", "ne_tag": "Q-I"}, {"token_id": "0-0-6", "token": ")", "ne_tag": "O"}, {"token_id": "0-0-7", "token": "of", "ne_tag": "O"}, {"token_id": "0-0-8", "token": "cooking", "ne_tag": "I-B"}, {"token_id": "0-0-9", "token": "oil", "ne_tag": "I-I"}, {"token_id": "0-0-10", "token": "in", "ne_tag": "I-I"}, {"token_id": "0-0-11", "token": "a", "ne_tag": "I-I"}, {"token_id": "0-0-12", "token": "large", "ne_tag": "St-B"}, {"token_id": "0-0-13", "token": "pan", "ne_tag": "T-B"}, {"token_id": "0-0-14", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Cook", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "smoked", "ne_tag": "Si-B"}, {"token_id": "1-0-3", "token": "pork", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "chops", "ne_tag": "I-I"}, {"token_id": "1-0-5", "token": "in", "ne_tag": "I-I"}, {"token_id": "1-0-6", "token": "the", "ne_tag": "I-I"}, {"token_id": "1-0-7", "token": "pan", "ne_tag": "T-B"}, {"token_id": "1-0-8", "token": "for", "ne_tag": "O"}, {"token_id": "1-0-9", "token": "2", "ne_tag": "D-B"}, {"token_id": "1-0-10", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "1-0-11", "token": "on", "ne_tag": "O"}, {"token_id": "1-0-12", "token": "each", "ne_tag": "I-B"}, {"token_id": "1-0-13", "token": "side", "ne_tag": "I-I"}, {"token_id": "1-0-14", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Lower", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "heat", "ne_tag": "T-B"}, {"token_id": "2-0-3", "token": "and", "ne_tag": "O"}, {"token_id": "2-0-4", "token": "cook", "ne_tag": "Ae-B"}, {"token_id": "2-0-5", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-6", "token": "pork", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "chops", "ne_tag": "I-I"}, {"token_id": "2-0-8", "token": "for", "ne_tag": "I-I"}, {"token_id": "2-0-9", "token": "1", "ne_tag": "D-B"}, {"token_id": "2-0-10", "token": "minute", "ne_tag": "D-I"}, {"token_id": "2-0-11", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Transfer", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "pork", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "chops", "ne_tag": "I-I"}, {"token_id": "3-0-4", "token": "to", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": "a", "ne_tag": "I-I"}, {"token_id": "3-0-6", "token": "plate", "ne_tag": "T-B"}, {"token_id": "3-0-7", "token": "and", "ne_tag": "O"}, {"token_id": "3-0-8", "token": "serve", "ne_tag": "Ae-B"}, {"token_id": "3-0-9", "token": ".", "ne_tag": "Ae-B"}]], "flows": [["0-0-0", "1-0-7", "T-eq"], ["0-0-1", "0-0-8", "other-mod"], ["0-0-12", "0-0-13", "other-mod"], ["0-0-13", "0-0-0", "Targ"], ["0-0-4", "0-0-8", "other-mod"], ["0-0-8", "0-0-0", "Targ"], ["1-0-0", "2-0-6", "I-eq"], ["1-0-0", "2-0-2", "T-part-of"], ["1-0-12", "1-0-0", "Targ"], ["1-0-2", "1-0-3", "other-mod"], ["1-0-3", "1-0-0", "Targ"], ["1-0-7", "1-0-0", "Dest"], ["1-0-9", "1-0-0", "other-mod"], ["2-0-0", "2-0-4", "Targ"], ["2-0-2", "2-0-0", "Targ"], ["2-0-4", "3-0-2", "I-eq"], ["2-0-6", "2-0-4", "Targ"], ["2-0-9", "2-0-4", "other-mod"], ["3-0-0", "3-0-8", "Targ"], ["3-0-2", "3-0-0", "Targ"], ["3-0-6", "3-0-0", "Targ"]]}
+{
+    "article_id": "9544846_cook-smoked-pork-chops",
+    "url": "https://www.wikihow.com/Cook-Smoked-Pork-Chops",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Heat",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "1",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "tablespoon",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "15",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "mL",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "cooking",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "oil",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "in",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "a",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "large",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": "pan",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-14",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Cook",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "smoked",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "pork",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "chops",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "in",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "pan",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "for",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "2",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "on",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "each",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": "side",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-14",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Lower",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "heat",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "cook",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "pork",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "chops",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "for",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "1",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "minute",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Transfer",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "pork",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "chops",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "a",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "plate",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "serve",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": ".",
+                "ne_tag": "Ae-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-7",
+            "T-eq"
+        ],
+        [
+            "0-0-1",
+            "0-0-8",
+            "other-mod"
+        ],
+        [
+            "0-0-12",
+            "0-0-13",
+            "other-mod"
+        ],
+        [
+            "0-0-13",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-4",
+            "0-0-8",
+            "other-mod"
+        ],
+        [
+            "0-0-8",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-0",
+            "2-0-6",
+            "I-eq"
+        ],
+        [
+            "1-0-0",
+            "2-0-2",
+            "T-part-of"
+        ],
+        [
+            "1-0-12",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-2",
+            "1-0-3",
+            "other-mod"
+        ],
+        [
+            "1-0-3",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-7",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-9",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "2-0-4",
+            "Targ"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-6",
+            "2-0-4",
+            "Targ"
+        ],
+        [
+            "2-0-9",
+            "2-0-4",
+            "other-mod"
+        ],
+        [
+            "3-0-0",
+            "3-0-8",
+            "Targ"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-6",
+            "3-0-0",
+            "Targ"
+        ]
+    ]
+}

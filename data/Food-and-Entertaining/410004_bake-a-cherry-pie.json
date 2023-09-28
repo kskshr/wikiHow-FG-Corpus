@@ -1,1 +1,583 @@
-{"article_id": "410004_bake-a-cherry-pie", "url": "https://www.wikihow.com/Bake-a-Cherry-Pie", "steps": [[{"token_id": "0-0-0", "token": "Preheat", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "oven", "ne_tag": "T-B"}, {"token_id": "0-0-2", "token": "to", "ne_tag": "O"}, {"token_id": "0-0-3", "token": "400", "ne_tag": "St-B"}, {"token_id": "0-0-4", "token": "\u00b0F", "ne_tag": "St-I"}, {"token_id": "0-0-5", "token": "(", "ne_tag": "O"}, {"token_id": "0-0-6", "token": "204", "ne_tag": "St-B"}, {"token_id": "0-0-7", "token": "\u00b0C", "ne_tag": "St-I"}, {"token_id": "0-0-8", "token": ")", "ne_tag": "O"}, {"token_id": "0-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Prepare", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "double", "ne_tag": "I-B"}, {"token_id": "1-0-2", "token": "pie", "ne_tag": "I-I"}, {"token_id": "1-0-3", "token": "crust", "ne_tag": "I-I"}, {"token_id": "1-0-4", "token": "for", "ne_tag": "I-I"}, {"token_id": "1-0-5", "token": "an", "ne_tag": "I-I"}, {"token_id": "1-0-6", "token": "8", "ne_tag": "Si-B"}, {"token_id": "1-0-7", "token": "-", "ne_tag": "Si-I"}, {"token_id": "1-0-8", "token": "inch", "ne_tag": "Si-I"}, {"token_id": "1-0-9", "token": "pie", "ne_tag": "I-B"}, {"token_id": "1-0-10", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "together", "ne_tag": "Ae-I"}, {"token_id": "2-0-2", "token": "cherries", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": ",", "ne_tag": "I-B"}, {"token_id": "2-0-4", "token": "sugar", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": ",", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "cornstarch", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": ",", "ne_tag": "I-B"}, {"token_id": "2-0-8", "token": "almond", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": "extract", "ne_tag": "I-I"}, {"token_id": "2-0-10", "token": "and", "ne_tag": "I-I"}, {"token_id": "2-0-11", "token": "red", "ne_tag": "I-B"}, {"token_id": "2-0-12", "token": "food", "ne_tag": "I-I"}, {"token_id": "2-0-13", "token": "coloring", "ne_tag": "I-I"}, {"token_id": "2-0-14", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Pour", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "into", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-3", "token": "prepared", "ne_tag": "Si-B"}, {"token_id": "3-0-4", "token": "pie", "ne_tag": "I-B"}, {"token_id": "3-0-5", "token": "crust", "ne_tag": "I-I"}, {"token_id": "3-0-6", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Dot", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "with", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "butter", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "or", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "margarine", "ne_tag": "I-B"}, {"token_id": "4-0-5", "token": ".", "ne_tag": "I-B"}], [{"token_id": "5-0-0", "token": "Top", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "with", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "pie", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "crust", "ne_tag": "I-I"}, {"token_id": "5-0-4", "token": ".", "ne_tag": "I-I"}], [{"token_id": "6-0-0", "token": "Crimp", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "and", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "seal", "ne_tag": "Ae-B"}, {"token_id": "6-0-3", "token": ".", "ne_tag": "Ae-B"}], [{"token_id": "7-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "7-0-1", "token": "slits", "ne_tag": "Si-B"}, {"token_id": "7-0-2", "token": "in", "ne_tag": "Si-B"}, {"token_id": "7-0-3", "token": "top", "ne_tag": "I-B"}, {"token_id": "7-0-4", "token": "of", "ne_tag": "I-B"}, {"token_id": "7-0-5", "token": "pie", "ne_tag": "I-B"}, {"token_id": "7-0-6", "token": "crust", "ne_tag": "I-I"}, {"token_id": "7-0-7", "token": ".", "ne_tag": "I-I"}], [{"token_id": "8-0-0", "token": "Bake", "ne_tag": "Ae-B"}, {"token_id": "8-0-1", "token": "for", "ne_tag": "Ae-B"}, {"token_id": "8-0-2", "token": "40", "ne_tag": "D-B"}, {"token_id": "8-0-3", "token": "to", "ne_tag": "D-I"}, {"token_id": "8-0-4", "token": "60", "ne_tag": "D-I"}, {"token_id": "8-0-5", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "8-0-6", "token": "or", "ne_tag": "O"}, {"token_id": "8-0-7", "token": "until", "ne_tag": "O"}, {"token_id": "8-0-8", "token": "light", "ne_tag": "Si-B"}, {"token_id": "8-0-9", "token": "brown", "ne_tag": "Si-I"}, {"token_id": "8-0-10", "token": ".", "ne_tag": "Si-I"}], [{"token_id": "9-0-0", "token": "Finished", "ne_tag": "Ai-B"}, {"token_id": "9-0-1", "token": ".", "ne_tag": "Ai-B"}]], "flows": [["0-0-0", "8-0-0", "T-comp"], ["0-0-1", "0-0-0", "Targ"], ["0-0-3", "0-0-0", "other-mod"], ["0-0-6", "0-0-0", "other-mod"], ["1-0-0", "3-0-4", "I-part-of"], ["1-0-0", "5-0-2", "I-part-of"], ["1-0-1", "1-0-0", "Targ"], ["1-0-6", "1-0-9", "other-mod"], ["1-0-9", "1-0-0", "other-mod"], ["2-0-0", "3-0-0", "Targ"], ["2-0-11", "2-0-0", "Targ"], ["2-0-2", "2-0-0", "Targ"], ["2-0-4", "2-0-0", "Targ"], ["2-0-6", "2-0-0", "Targ"], ["2-0-8", "2-0-0", "Targ"], ["3-0-0", "4-0-0", "Dest"], ["3-0-3", "3-0-4", "other-mod"], ["3-0-4", "3-0-0", "Dest"], ["4-0-0", "5-0-0", "Dest"], ["4-0-2", "4-0-0", "Targ"], ["4-0-4", "4-0-0", "Targ"], ["5-0-0", "6-0-0", "Targ"], ["5-0-2", "5-0-0", "Targ"], ["6-0-0", "6-0-2", "Targ"], ["6-0-2", "7-0-5", "Targ"], ["7-0-0", "8-0-0", "Targ"], ["7-0-1", "7-0-0", "Targ"], ["7-0-3", "7-0-0", "Dest"], ["7-0-5", "7-0-3", "I-part-of"], ["8-0-0", "9-0-0", "Agent"], ["8-0-2", "8-0-0", "other-mod"], ["8-0-8", "8-0-0", "V-tm"]]}
+{
+    "article_id": "410004_bake-a-cherry-pie",
+    "url": "https://www.wikihow.com/Bake-a-Cherry-Pie",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Preheat",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "oven",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "400",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "\u00b0F",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "204",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "\u00b0C",
+                "ne_tag": "St-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Prepare",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "double",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "pie",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "crust",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "for",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "an",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "8",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "-",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "inch",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "pie",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "together",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "cherries",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "sugar",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "cornstarch",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": ",",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "almond",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "extract",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "and",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": "red",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-12",
+                "token": "food",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-13",
+                "token": "coloring",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-14",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Pour",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "into",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "prepared",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "pie",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "crust",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Dot",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "with",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "butter",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "or",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "margarine",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Top",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "with",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "pie",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "crust",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Crimp",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "and",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "seal",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": ".",
+                "ne_tag": "Ae-B"
+            }
+        ],
+        [
+            {
+                "token_id": "7-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-1",
+                "token": "slits",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "7-0-2",
+                "token": "in",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "7-0-3",
+                "token": "top",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-4",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-5",
+                "token": "pie",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-6",
+                "token": "crust",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "7-0-7",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "8-0-0",
+                "token": "Bake",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-1",
+                "token": "for",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "8-0-2",
+                "token": "40",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "8-0-3",
+                "token": "to",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "8-0-4",
+                "token": "60",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "8-0-5",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "8-0-6",
+                "token": "or",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "8-0-7",
+                "token": "until",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "8-0-8",
+                "token": "light",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "8-0-9",
+                "token": "brown",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "8-0-10",
+                "token": ".",
+                "ne_tag": "Si-I"
+            }
+        ],
+        [
+            {
+                "token_id": "9-0-0",
+                "token": "Finished",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "9-0-1",
+                "token": ".",
+                "ne_tag": "Ai-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "8-0-0",
+            "T-comp"
+        ],
+        [
+            "0-0-1",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-3",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "0-0-6",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "3-0-4",
+            "I-part-of"
+        ],
+        [
+            "1-0-0",
+            "5-0-2",
+            "I-part-of"
+        ],
+        [
+            "1-0-1",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-6",
+            "1-0-9",
+            "other-mod"
+        ],
+        [
+            "1-0-9",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-11",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-6",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-8",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-3",
+            "3-0-4",
+            "other-mod"
+        ],
+        [
+            "3-0-4",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "4-0-0",
+            "5-0-0",
+            "Dest"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-4",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-0",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-0",
+            "6-0-2",
+            "Targ"
+        ],
+        [
+            "6-0-2",
+            "7-0-5",
+            "Targ"
+        ],
+        [
+            "7-0-0",
+            "8-0-0",
+            "Targ"
+        ],
+        [
+            "7-0-1",
+            "7-0-0",
+            "Targ"
+        ],
+        [
+            "7-0-3",
+            "7-0-0",
+            "Dest"
+        ],
+        [
+            "7-0-5",
+            "7-0-3",
+            "I-part-of"
+        ],
+        [
+            "8-0-0",
+            "9-0-0",
+            "Agent"
+        ],
+        [
+            "8-0-2",
+            "8-0-0",
+            "other-mod"
+        ],
+        [
+            "8-0-8",
+            "8-0-0",
+            "V-tm"
+        ]
+    ]
+}

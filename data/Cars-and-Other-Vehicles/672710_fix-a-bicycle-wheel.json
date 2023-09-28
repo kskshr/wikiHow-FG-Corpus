@@ -1,1 +1,348 @@
-{"article_id": "672710_fix-a-bicycle-wheel", "url": "https://www.wikihow.com/Fix-a-Bicycle-Wheel", "steps": [[{"token_id": "0-0-0", "token": "Take", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "wheel", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": "off", "ne_tag": "Ae2-B"}, {"token_id": "0-0-4", "token": "of", "ne_tag": "Ae2-B"}, {"token_id": "0-0-5", "token": "the", "ne_tag": "Ae2-B"}, {"token_id": "0-0-6", "token": "frame", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Loosen", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "locknut", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "from", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "1-0-5", "token": "wheel", "ne_tag": "I-B"}, {"token_id": "1-0-6", "token": "\u2019s", "ne_tag": "I-B"}, {"token_id": "1-0-7", "token": "axle", "ne_tag": "I-B"}, {"token_id": "1-0-8", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "cone", "ne_tag": "T-B"}, {"token_id": "2-0-3", "token": "wrench", "ne_tag": "T-I"}, {"token_id": "2-0-4", "token": "to", "ne_tag": "O"}, {"token_id": "2-0-5", "token": "tighten", "ne_tag": "Ae-B"}, {"token_id": "2-0-6", "token": "or", "ne_tag": "Ae-B"}, {"token_id": "2-0-7", "token": "loosen", "ne_tag": "Ae-B"}, {"token_id": "2-0-8", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-9", "token": "cone", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Check", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "if", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-3", "token": "wheel", "ne_tag": "I-B"}, {"token_id": "3-0-4", "token": "spins", "ne_tag": "Ai-B"}, {"token_id": "3-0-5", "token": "smoothly", "ne_tag": "Ai-B"}, {"token_id": "3-0-6", "token": ".", "ne_tag": "Ai-B"}], [{"token_id": "4-0-0", "token": "Tighten", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "locknut", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "back", "ne_tag": "Ae2-B"}, {"token_id": "4-0-4", "token": "against", "ne_tag": "Ae2-B"}, {"token_id": "4-0-5", "token": "the", "ne_tag": "Ae2-B"}, {"token_id": "4-0-6", "token": "cone", "ne_tag": "I-B"}, {"token_id": "4-0-7", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "0-0-3", "Agent"], ["0-0-2", "0-0-0", "Targ"], ["0-0-3", "1-0-7", "I-part-of"], ["0-0-3", "1-0-2", "I-part-of"], ["0-0-6", "0-0-0", "other-mod"], ["1-0-0", "2-0-9", "I-part-of"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-7", "other-mod"], ["1-0-7", "1-0-0", "other-mod"], ["2-0-0", "2-0-5", "T-comp"], ["2-0-0", "2-0-7", "T-comp"], ["2-0-2", "2-0-0", "Targ"], ["2-0-5", "3-0-3", "I-eq"], ["2-0-7", "3-0-3", "I-eq"], ["2-0-9", "2-0-5", "Targ"], ["2-0-9", "2-0-7", "Targ"], ["3-0-0", "4-0-6", "I-part-of"], ["3-0-0", "4-0-2", "I-part-of"], ["3-0-3", "3-0-4", "Agent"], ["3-0-4", "3-0-0", "Targ"], ["4-0-0", "4-0-3", "Agent"], ["4-0-2", "4-0-0", "Targ"], ["4-0-6", "4-0-0", "Dest"]]}
+{
+    "article_id": "672710_fix-a-bicycle-wheel",
+    "url": "https://www.wikihow.com/Fix-a-Bicycle-Wheel",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Take",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "wheel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "off",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "of",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "the",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "frame",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Loosen",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "locknut",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "from",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "wheel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "\u2019s",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "axle",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "cone",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "wrench",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "tighten",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "or",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "loosen",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "cone",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Check",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "if",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "wheel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "spins",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "smoothly",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": ".",
+                "ne_tag": "Ai-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Tighten",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "locknut",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "back",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "against",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "the",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "cone",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "0-0-3",
+            "Agent"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-3",
+            "1-0-7",
+            "I-part-of"
+        ],
+        [
+            "0-0-3",
+            "1-0-2",
+            "I-part-of"
+        ],
+        [
+            "0-0-6",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-9",
+            "I-part-of"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-7",
+            "other-mod"
+        ],
+        [
+            "1-0-7",
+            "1-0-0",
+            "other-mod"
+        ],
+        [
+            "2-0-0",
+            "2-0-5",
+            "T-comp"
+        ],
+        [
+            "2-0-0",
+            "2-0-7",
+            "T-comp"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-5",
+            "3-0-3",
+            "I-eq"
+        ],
+        [
+            "2-0-7",
+            "3-0-3",
+            "I-eq"
+        ],
+        [
+            "2-0-9",
+            "2-0-5",
+            "Targ"
+        ],
+        [
+            "2-0-9",
+            "2-0-7",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-6",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-3",
+            "3-0-4",
+            "Agent"
+        ],
+        [
+            "3-0-4",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "4-0-3",
+            "Agent"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "Dest"
+        ]
+    ]
+}

@@ -1,1 +1,677 @@
-{"article_id": "9267075_make-fluffy-slime-without-glue", "url": "https://www.wikihow.com/Make-Fluffy-Slime-Without-Glue", "steps": [[{"token_id": "0-0-0", "token": "Squeeze", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "around", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "\u2044", "ne_tag": "Q-B"}, {"token_id": "0-0-3", "token": "2", "ne_tag": "Q-I"}, {"token_id": "0-0-4", "token": "cup", "ne_tag": "Q-I"}, {"token_id": "0-0-5", "token": "(", "ne_tag": "O"}, {"token_id": "0-0-6", "token": "120", "ne_tag": "Q-B"}, {"token_id": "0-0-7", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "0-0-8", "token": ")", "ne_tag": "O"}, {"token_id": "0-0-9", "token": "of", "ne_tag": "O"}, {"token_id": "0-0-10", "token": "shampoo", "ne_tag": "I-B"}, {"token_id": "0-0-11", "token": "into", "ne_tag": "I-B"}, {"token_id": "0-0-12", "token": "a", "ne_tag": "I-B"}, {"token_id": "0-0-13", "token": "mixing", "ne_tag": "T-B"}, {"token_id": "0-0-14", "token": "bowl", "ne_tag": "T-I"}, {"token_id": "0-0-15", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Add", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "1", "ne_tag": "Q-B"}, {"token_id": "1-0-2", "token": "cup", "ne_tag": "Q-I"}, {"token_id": "1-0-3", "token": "(", "ne_tag": "O"}, {"token_id": "1-0-4", "token": "240", "ne_tag": "Q-B"}, {"token_id": "1-0-5", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "1-0-6", "token": ")", "ne_tag": "O"}, {"token_id": "1-0-7", "token": "of", "ne_tag": "O"}, {"token_id": "1-0-8", "token": "shaving", "ne_tag": "I-B"}, {"token_id": "1-0-9", "token": "foam", "ne_tag": "I-I"}, {"token_id": "1-0-10", "token": "to", "ne_tag": "I-I"}, {"token_id": "1-0-11", "token": "the", "ne_tag": "I-I"}, {"token_id": "1-0-12", "token": "shampoo", "ne_tag": "I-B"}, {"token_id": "1-0-13", "token": ".", "ne_tag": "I-B"}], [{"token_id": "2-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "food", "ne_tag": "I-B"}, {"token_id": "2-0-2", "token": "coloring", "ne_tag": "I-I"}, {"token_id": "2-0-3", "token": "or", "ne_tag": "I-I"}, {"token_id": "2-0-4", "token": "essential", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "oils", "ne_tag": "I-I"}, {"token_id": "2-0-6", "token": "to", "ne_tag": "I-I"}, {"token_id": "2-0-7", "token": "customize", "ne_tag": "Ae-B"}, {"token_id": "2-0-8", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "2-0-9", "token": "slime", "ne_tag": "I-B"}, {"token_id": "2-0-10", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "in", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "1/4", "ne_tag": "Q-B"}, {"token_id": "3-0-3", "token": "cup", "ne_tag": "Q-I"}, {"token_id": "3-0-4", "token": "(", "ne_tag": "O"}, {"token_id": "3-0-5", "token": "31", "ne_tag": "Q-B"}, {"token_id": "3-0-6", "token": "g", "ne_tag": "Q-I"}, {"token_id": "3-0-7", "token": ")", "ne_tag": "O"}, {"token_id": "3-0-8", "token": "of", "ne_tag": "O"}, {"token_id": "3-0-9", "token": "cornstarch", "ne_tag": "I-B"}, {"token_id": "3-0-10", "token": "to", "ne_tag": "I-B"}, {"token_id": "3-0-11", "token": "thicken", "ne_tag": "Ae-B"}, {"token_id": "3-0-12", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "3-0-13", "token": "slime", "ne_tag": "I-B"}, {"token_id": "3-0-14", "token": ".", "ne_tag": "I-B"}], [{"token_id": "4-0-0", "token": "Stir", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "in", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "\u2044", "ne_tag": "Q-B"}, {"token_id": "4-0-3", "token": "3", "ne_tag": "Q-I"}, {"token_id": "4-0-4", "token": "cup", "ne_tag": "Q-I"}, {"token_id": "4-0-5", "token": "(", "ne_tag": "O"}, {"token_id": "4-0-6", "token": "79", "ne_tag": "Q-B"}, {"token_id": "4-0-7", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "4-0-8", "token": ")", "ne_tag": "O"}, {"token_id": "4-0-9", "token": "of", "ne_tag": "O"}, {"token_id": "4-0-10", "token": "water", "ne_tag": "I-B"}, {"token_id": "4-0-11", "token": "1", "ne_tag": "Q-B"}, {"token_id": "4-0-12", "token": "tablespoon", "ne_tag": "Q-I"}, {"token_id": "4-0-13", "token": "(", "ne_tag": "O"}, {"token_id": "4-0-14", "token": "15", "ne_tag": "Q-B"}, {"token_id": "4-0-15", "token": "ml", "ne_tag": "Q-I"}, {"token_id": "4-0-16", "token": ")", "ne_tag": "O"}, {"token_id": "4-0-17", "token": "at", "ne_tag": "O"}, {"token_id": "4-0-18", "token": "a", "ne_tag": "O"}, {"token_id": "4-0-19", "token": "time", "ne_tag": "O"}, {"token_id": "4-0-20", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Knead", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "slime", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": "for", "ne_tag": "I-B"}, {"token_id": "5-0-4", "token": "around", "ne_tag": "I-B"}, {"token_id": "5-0-5", "token": "5", "ne_tag": "D-B"}, {"token_id": "5-0-6", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "5-0-7", "token": ".", "ne_tag": "O"}], [{"token_id": "6-0-0", "token": "Store", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "slime", "ne_tag": "I-B"}, {"token_id": "6-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "6-0-4", "token": "an", "ne_tag": "I-B"}, {"token_id": "6-0-5", "token": "airtight", "ne_tag": "T-B"}, {"token_id": "6-0-6", "token": "container", "ne_tag": "T-I"}, {"token_id": "6-0-7", "token": "for", "ne_tag": "O"}, {"token_id": "6-0-8", "token": "2", "ne_tag": "D-B"}, {"token_id": "6-0-9", "token": "to", "ne_tag": "D-I"}, {"token_id": "6-0-10", "token": "3", "ne_tag": "D-I"}, {"token_id": "6-0-11", "token": "days", "ne_tag": "D-I"}, {"token_id": "6-0-12", "token": ".", "ne_tag": "O"}]], "flows": [["0-0-0", "1-0-12", "I-eq"], ["0-0-10", "0-0-0", "Targ"], ["0-0-13", "0-0-0", "Dest"], ["0-0-2", "0-0-10", "other-mod"], ["0-0-6", "0-0-10", "other-mod"], ["1-0-0", "2-0-9", "I-eq"], ["1-0-1", "1-0-8", "other-mod"], ["1-0-12", "1-0-0", "Dest"], ["1-0-4", "1-0-8", "other-mod"], ["1-0-8", "1-0-0", "Targ"], ["2-0-0", "2-0-7", "T-comp"], ["2-0-1", "2-0-0", "Targ"], ["2-0-4", "2-0-0", "Targ"], ["2-0-7", "3-0-13", "I-eq"], ["2-0-9", "2-0-7", "Targ"], ["3-0-0", "3-0-11", "A-eq"], ["3-0-11", "4-0-0", "Dest"], ["3-0-13", "3-0-11", "Targ"], ["3-0-2", "3-0-9", "other-mod"], ["3-0-5", "3-0-9", "other-mod"], ["3-0-9", "3-0-0", "Targ"], ["4-0-0", "5-0-2", "I-eq"], ["4-0-10", "4-0-0", "Targ"], ["4-0-11", "4-0-0", "other-mod"], ["4-0-14", "4-0-0", "other-mod"], ["4-0-2", "4-0-10", "other-mod"], ["4-0-6", "4-0-10", "other-mod"], ["5-0-0", "6-0-2", "I-eq"], ["5-0-2", "5-0-0", "Targ"], ["5-0-5", "5-0-0", "other-mod"], ["6-0-2", "6-0-0", "Targ"], ["6-0-5", "6-0-0", "Dest"], ["6-0-8", "6-0-0", "other-mod"]]}
+{
+    "article_id": "9267075_make-fluffy-slime-without-glue",
+    "url": "https://www.wikihow.com/Make-Fluffy-Slime-Without-Glue",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Squeeze",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "around",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "\u2044",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "2",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "cup",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "120",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": "shampoo",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-11",
+                "token": "into",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-12",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-13",
+                "token": "mixing",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-14",
+                "token": "bowl",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-15",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Add",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "1",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "cup",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "240",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "shaving",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": "foam",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-10",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-11",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-12",
+                "token": "shampoo",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-13",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "food",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "coloring",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "or",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "essential",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "oils",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "customize",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "slime",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "in",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "1/4",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "cup",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "31",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "g",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "cornstarch",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "thicken",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-13",
+                "token": "slime",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-14",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Stir",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "in",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "\u2044",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "3",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "cup",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "79",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": "water",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-11",
+                "token": "1",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "4-0-12",
+                "token": "tablespoon",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "4-0-13",
+                "token": "(",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-14",
+                "token": "15",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "4-0-15",
+                "token": "ml",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "4-0-16",
+                "token": ")",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-17",
+                "token": "at",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-18",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-19",
+                "token": "time",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-20",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Knead",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "slime",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "for",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "around",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "5",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "5-0-7",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Store",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "slime",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": "an",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-5",
+                "token": "airtight",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "6-0-6",
+                "token": "container",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "6-0-7",
+                "token": "for",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "6-0-8",
+                "token": "2",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "6-0-9",
+                "token": "to",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "6-0-10",
+                "token": "3",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "6-0-11",
+                "token": "days",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "6-0-12",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-12",
+            "I-eq"
+        ],
+        [
+            "0-0-10",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-13",
+            "0-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-2",
+            "0-0-10",
+            "other-mod"
+        ],
+        [
+            "0-0-6",
+            "0-0-10",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-9",
+            "I-eq"
+        ],
+        [
+            "1-0-1",
+            "1-0-8",
+            "other-mod"
+        ],
+        [
+            "1-0-12",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-4",
+            "1-0-8",
+            "other-mod"
+        ],
+        [
+            "1-0-8",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "2-0-7",
+            "T-comp"
+        ],
+        [
+            "2-0-1",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-7",
+            "3-0-13",
+            "I-eq"
+        ],
+        [
+            "2-0-9",
+            "2-0-7",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "3-0-11",
+            "A-eq"
+        ],
+        [
+            "3-0-11",
+            "4-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-13",
+            "3-0-11",
+            "Targ"
+        ],
+        [
+            "3-0-2",
+            "3-0-9",
+            "other-mod"
+        ],
+        [
+            "3-0-5",
+            "3-0-9",
+            "other-mod"
+        ],
+        [
+            "3-0-9",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-10",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-11",
+            "4-0-0",
+            "other-mod"
+        ],
+        [
+            "4-0-14",
+            "4-0-0",
+            "other-mod"
+        ],
+        [
+            "4-0-2",
+            "4-0-10",
+            "other-mod"
+        ],
+        [
+            "4-0-6",
+            "4-0-10",
+            "other-mod"
+        ],
+        [
+            "5-0-0",
+            "6-0-2",
+            "I-eq"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-5",
+            "5-0-0",
+            "other-mod"
+        ],
+        [
+            "6-0-2",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-5",
+            "6-0-0",
+            "Dest"
+        ],
+        [
+            "6-0-8",
+            "6-0-0",
+            "other-mod"
+        ]
+    ]
+}

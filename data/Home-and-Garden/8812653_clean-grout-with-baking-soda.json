@@ -1,1 +1,444 @@
-{"article_id": "8812653_clean-grout-with-baking-soda", "url": "https://www.wikihow.com/Clean-Grout-with-Baking-Soda", "steps": [[{"token_id": "0-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "baking", "ne_tag": "T-B"}, {"token_id": "0-0-2", "token": "soda", "ne_tag": "T-I"}, {"token_id": "0-0-3", "token": "and", "ne_tag": "O"}, {"token_id": "0-0-4", "token": "water", "ne_tag": "T-B"}, {"token_id": "0-0-5", "token": "into", "ne_tag": "O"}, {"token_id": "0-0-6", "token": "a", "ne_tag": "O"}, {"token_id": "0-0-7", "token": "paste", "ne_tag": "St-B"}, {"token_id": "0-0-8", "token": ".", "ne_tag": "O"}], [{"token_id": "1-0-0", "token": "Apply", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "paste", "ne_tag": "T-B"}, {"token_id": "1-0-3", "token": "to", "ne_tag": "O"}, {"token_id": "1-0-4", "token": "the", "ne_tag": "O"}, {"token_id": "1-0-5", "token": "grout", "ne_tag": "I-B"}, {"token_id": "1-0-6", "token": "with", "ne_tag": "I-B"}, {"token_id": "1-0-7", "token": "a", "ne_tag": "I-B"}, {"token_id": "1-0-8", "token": "brush", "ne_tag": "T-B"}, {"token_id": "1-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "2-0-0", "token": "Mix", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "vinegar", "ne_tag": "T-B"}, {"token_id": "2-0-2", "token": "and", "ne_tag": "O"}, {"token_id": "2-0-3", "token": "warm", "ne_tag": "St-B"}, {"token_id": "2-0-4", "token": "water", "ne_tag": "T-B"}, {"token_id": "2-0-5", "token": "in", "ne_tag": "O"}, {"token_id": "2-0-6", "token": "a", "ne_tag": "O"}, {"token_id": "2-0-7", "token": "spray", "ne_tag": "T-B"}, {"token_id": "2-0-8", "token": "bottle", "ne_tag": "T-I"}, {"token_id": "2-0-9", "token": ".", "ne_tag": "O"}], [{"token_id": "3-0-0", "token": "Spray", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "vinegar", "ne_tag": "T-B"}, {"token_id": "3-0-3", "token": "mixture", "ne_tag": "T-I"}, {"token_id": "3-0-4", "token": "onto", "ne_tag": "O"}, {"token_id": "3-0-5", "token": "the", "ne_tag": "O"}, {"token_id": "3-0-6", "token": "grout", "ne_tag": "I-B"}, {"token_id": "3-0-7", "token": ".", "ne_tag": "I-B"}], [{"token_id": "4-0-0", "token": "Let", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "baking", "ne_tag": "T-B"}, {"token_id": "4-0-3", "token": "soda", "ne_tag": "T-I"}, {"token_id": "4-0-4", "token": "rest", "ne_tag": "Ai-B"}, {"token_id": "4-0-5", "token": "for", "ne_tag": "Ai-B"}, {"token_id": "4-0-6", "token": "five", "ne_tag": "D-B"}, {"token_id": "4-0-7", "token": "minutes", "ne_tag": "D-I"}, {"token_id": "4-0-8", "token": ".", "ne_tag": "O"}], [{"token_id": "5-0-0", "token": "Scrub", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "grout", "ne_tag": "I-B"}, {"token_id": "5-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "6-0-0", "token": "Wipe", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "up", "ne_tag": "Ae-I"}, {"token_id": "6-0-2", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "6-0-3", "token": "cleaner", "ne_tag": "T-B"}, {"token_id": "6-0-4", "token": ".", "ne_tag": "O"}], [{"token_id": "7-0-0", "token": "Mop", "ne_tag": "Ae-B"}, {"token_id": "7-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "7-0-2", "token": "floor", "ne_tag": "I-B"}, {"token_id": "7-0-3", "token": ".", "ne_tag": "I-B"}]], "flows": [["0-0-0", "1-0-2", "I-eq"], ["0-0-1", "0-0-0", "Targ"], ["0-0-4", "0-0-0", "Targ"], ["0-0-7", "0-0-0", "other-mod"], ["1-0-0", "3-0-6", "I-eq"], ["1-0-2", "1-0-0", "Targ"], ["1-0-5", "1-0-0", "Dest"], ["1-0-8", "1-0-0", "T-comp"], ["2-0-0", "3-0-2", "I-eq"], ["2-0-1", "2-0-0", "Targ"], ["2-0-3", "2-0-4", "other-mod"], ["2-0-4", "2-0-0", "Targ"], ["2-0-7", "2-0-0", "Dest"], ["3-0-0", "4-0-2", "T-part-of"], ["3-0-2", "3-0-0", "Targ"], ["3-0-6", "3-0-0", "Dest"], ["4-0-0", "4-0-4", "Agent"], ["4-0-2", "4-0-0", "Targ"], ["4-0-4", "5-0-2", "I-eq"], ["4-0-6", "4-0-0", "other-mod"], ["5-0-0", "6-0-3", "T-part-of"], ["5-0-2", "5-0-0", "Targ"], ["6-0-0", "7-0-2", "I-eq"], ["6-0-3", "6-0-0", "Targ"], ["7-0-2", "7-0-0", "Targ"]]}
+{
+    "article_id": "8812653_clean-grout-with-baking-soda",
+    "url": "https://www.wikihow.com/Clean-Grout-with-Baking-Soda",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "baking",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "soda",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "into",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "paste",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Apply",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "paste",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "the",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": "grout",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-6",
+                "token": "with",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-7",
+                "token": "a",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-8",
+                "token": "brush",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "1-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Mix",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "vinegar",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "and",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "warm",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "water",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "in",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "a",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "spray",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "bottle",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Spray",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "vinegar",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "mixture",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "onto",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "the",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "grout",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Let",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "baking",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "soda",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "rest",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "for",
+                "ne_tag": "Ai-B"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "five",
+                "ne_tag": "D-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "minutes",
+                "ne_tag": "D-I"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Scrub",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "grout",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Wipe",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "up",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "cleaner",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": ".",
+                "ne_tag": "O"
+            }
+        ],
+        [
+            {
+                "token_id": "7-0-0",
+                "token": "Mop",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-2",
+                "token": "floor",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "I-eq"
+        ],
+        [
+            "0-0-1",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-4",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-7",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "3-0-6",
+            "I-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-5",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "1-0-8",
+            "1-0-0",
+            "T-comp"
+        ],
+        [
+            "2-0-0",
+            "3-0-2",
+            "I-eq"
+        ],
+        [
+            "2-0-1",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-3",
+            "2-0-4",
+            "other-mod"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-7",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "T-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-6",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "4-0-0",
+            "4-0-4",
+            "Agent"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-4",
+            "5-0-2",
+            "I-eq"
+        ],
+        [
+            "4-0-6",
+            "4-0-0",
+            "other-mod"
+        ],
+        [
+            "5-0-0",
+            "6-0-3",
+            "T-part-of"
+        ],
+        [
+            "5-0-2",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-0",
+            "7-0-2",
+            "I-eq"
+        ],
+        [
+            "6-0-3",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "7-0-2",
+            "7-0-0",
+            "Targ"
+        ]
+    ]
+}

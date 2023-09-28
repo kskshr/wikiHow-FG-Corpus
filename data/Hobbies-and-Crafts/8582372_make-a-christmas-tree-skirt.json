@@ -1,1 +1,509 @@
-{"article_id": "8582372_make-a-christmas-tree-skirt", "url": "https://www.wikihow.com/Make-a-Christmas-Tree-Skirt", "steps": [[{"token_id": "0-0-0", "token": "Decide", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "how", "ne_tag": "Si-B"}, {"token_id": "0-0-2", "token": "big", "ne_tag": "Si-I"}, {"token_id": "0-0-3", "token": "you", "ne_tag": "Si-I"}, {"token_id": "0-0-4", "token": "want", "ne_tag": "Si-I"}, {"token_id": "0-0-5", "token": "your", "ne_tag": "Si-I"}, {"token_id": "0-0-6", "token": "tree", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": "skirt", "ne_tag": "I-I"}, {"token_id": "0-0-8", "token": "to", "ne_tag": "I-I"}, {"token_id": "0-0-9", "token": "be", "ne_tag": "I-I"}, {"token_id": "0-0-10", "token": ".", "ne_tag": "I-I"}], [{"token_id": "1-0-0", "token": "Fold", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "your", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "fabric", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "in", "ne_tag": "I-B"}, {"token_id": "1-0-4", "token": "half", "ne_tag": "Si-B"}, {"token_id": "1-0-5", "token": ".", "ne_tag": "Si-B"}], [{"token_id": "2-0-0", "token": "Draw", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "semi-circle", "ne_tag": "Si-B"}, {"token_id": "2-0-2", "token": "on", "ne_tag": "Si-B"}, {"token_id": "2-0-3", "token": "the", "ne_tag": "Si-B"}, {"token_id": "2-0-4", "token": "fabric", "ne_tag": "I-B"}, {"token_id": "2-0-5", "token": "based", "ne_tag": "I-B"}, {"token_id": "2-0-6", "token": "on", "ne_tag": "I-B"}, {"token_id": "2-0-7", "token": "your", "ne_tag": "I-B"}, {"token_id": "2-0-8", "token": "measurement", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Draw", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "smaller", "ne_tag": "Si-B"}, {"token_id": "3-0-3", "token": "arch", "ne_tag": "Si-B"}, {"token_id": "3-0-4", "token": ".", "ne_tag": "Si-B"}], [{"token_id": "4-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "tree", "ne_tag": "I-B"}, {"token_id": "4-0-3", "token": "skirt", "ne_tag": "I-I"}, {"token_id": "4-0-4", "token": "out", "ne_tag": "Ae2-B"}, {"token_id": "4-0-5", "token": ".", "ne_tag": "Ae2-B"}], [{"token_id": "5-0-0", "token": "Cut", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "six", "ne_tag": "Q-B"}, {"token_id": "5-0-2", "token": "pieces", "ne_tag": "Q-I"}, {"token_id": "5-0-3", "token": "of", "ne_tag": "O"}, {"token_id": "5-0-4", "token": "6", "ne_tag": "Si-B"}, {"token_id": "5-0-5", "token": "-", "ne_tag": "Si-I"}, {"token_id": "5-0-6", "token": "inch", "ne_tag": "Si-I"}, {"token_id": "5-0-7", "token": "(", "ne_tag": "Si-I"}, {"token_id": "5-0-8", "token": "15.24", "ne_tag": "Si-B"}, {"token_id": "5-0-9", "token": "-", "ne_tag": "Si-I"}, {"token_id": "5-0-10", "token": "centimeter", "ne_tag": "Si-I"}, {"token_id": "5-0-11", "token": ")", "ne_tag": "Si-I"}, {"token_id": "5-0-12", "token": "long", "ne_tag": "Si-B"}, {"token_id": "5-0-13", "token": "ribbon", "ne_tag": "I-B"}, {"token_id": "5-0-14", "token": ".", "ne_tag": "I-B"}], [{"token_id": "6-0-0", "token": "Glue", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "6-0-2", "token": "ribbons", "ne_tag": "I-B"}, {"token_id": "6-0-3", "token": "to", "ne_tag": "I-B"}, {"token_id": "6-0-4", "token": "the", "ne_tag": "I-B"}, {"token_id": "6-0-5", "token": "underside", "ne_tag": "I-B"}, {"token_id": "6-0-6", "token": "of", "ne_tag": "I-B"}, {"token_id": "6-0-7", "token": "the", "ne_tag": "I-B"}, {"token_id": "6-0-8", "token": "skirt", "ne_tag": "I-B"}, {"token_id": "6-0-9", "token": ".", "ne_tag": "I-B"}], [{"token_id": "7-0-0", "token": "Decorate", "ne_tag": "Ae-B"}, {"token_id": "7-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "7-0-2", "token": "tree", "ne_tag": "I-B"}, {"token_id": "7-0-3", "token": "skirt", "ne_tag": "I-I"}, {"token_id": "7-0-4", "token": ",", "ne_tag": "I-I"}, {"token_id": "7-0-5", "token": "if", "ne_tag": "I-I"}, {"token_id": "7-0-6", "token": "desired", "ne_tag": "I-I"}, {"token_id": "7-0-7", "token": ".", "ne_tag": "I-I"}]], "flows": [["0-0-0", "1-0-2", "other-mod"], ["0-0-1", "0-0-0", "Targ"], ["0-0-6", "0-0-0", "other-mod"], ["1-0-0", "2-0-4", "I-eq"], ["1-0-2", "1-0-0", "Targ"], ["1-0-4", "1-0-0", "Dest"], ["2-0-0", "3-0-0", "Dest"], ["2-0-1", "2-0-0", "Targ"], ["2-0-4", "2-0-0", "Dest"], ["3-0-0", "4-0-2", "I-part-of"], ["3-0-2", "3-0-3", "other-mod"], ["3-0-3", "3-0-0", "Targ"], ["4-0-0", "4-0-4", "Agent"], ["4-0-2", "4-0-0", "Targ"], ["4-0-4", "6-0-8", "I-eq"], ["5-0-0", "6-0-2", "I-eq"], ["5-0-1", "5-0-13", "other-mod"], ["5-0-12", "5-0-13", "other-mod"], ["5-0-13", "5-0-0", "Targ"], ["5-0-4", "5-0-12", "other-mod"], ["5-0-8", "5-0-12", "other-mod"], ["6-0-0", "7-0-2", "I-eq"], ["6-0-2", "6-0-0", "Targ"], ["6-0-5", "6-0-0", "Dest"], ["6-0-8", "6-0-5", "I-part-of"], ["7-0-2", "7-0-0", "Targ"]]}
+{
+    "article_id": "8582372_make-a-christmas-tree-skirt",
+    "url": "https://www.wikihow.com/Make-a-Christmas-Tree-Skirt",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Decide",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "how",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "big",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "you",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "want",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "your",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "tree",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "skirt",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "to",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "be",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Fold",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "your",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "fabric",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "in",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": "half",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "1-0-5",
+                "token": ".",
+                "ne_tag": "Si-B"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Draw",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "semi-circle",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "on",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "the",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "fabric",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "based",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "on",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "your",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "measurement",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Draw",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "smaller",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "arch",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": ".",
+                "ne_tag": "Si-B"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "tree",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "skirt",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "out",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": ".",
+                "ne_tag": "Ae2-B"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Cut",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "six",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "pieces",
+                "ne_tag": "Q-I"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "6",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "-",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": "inch",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-7",
+                "token": "(",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-8",
+                "token": "15.24",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "5-0-9",
+                "token": "-",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-10",
+                "token": "centimeter",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-11",
+                "token": ")",
+                "ne_tag": "Si-I"
+            },
+            {
+                "token_id": "5-0-12",
+                "token": "long",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "5-0-13",
+                "token": "ribbon",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-14",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Glue",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "ribbons",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-5",
+                "token": "underside",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-6",
+                "token": "of",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-7",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-8",
+                "token": "skirt",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-9",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "7-0-0",
+                "token": "Decorate",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-2",
+                "token": "tree",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-3",
+                "token": "skirt",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "7-0-4",
+                "token": ",",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "7-0-5",
+                "token": "if",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "7-0-6",
+                "token": "desired",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "7-0-7",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-2",
+            "other-mod"
+        ],
+        [
+            "0-0-1",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-6",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-4",
+            "I-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "1-0-4",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-0",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "2-0-1",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-0",
+            "Dest"
+        ],
+        [
+            "3-0-0",
+            "4-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-2",
+            "3-0-3",
+            "other-mod"
+        ],
+        [
+            "3-0-3",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "4-0-4",
+            "Agent"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-4",
+            "6-0-8",
+            "I-eq"
+        ],
+        [
+            "5-0-0",
+            "6-0-2",
+            "I-eq"
+        ],
+        [
+            "5-0-1",
+            "5-0-13",
+            "other-mod"
+        ],
+        [
+            "5-0-12",
+            "5-0-13",
+            "other-mod"
+        ],
+        [
+            "5-0-13",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-4",
+            "5-0-12",
+            "other-mod"
+        ],
+        [
+            "5-0-8",
+            "5-0-12",
+            "other-mod"
+        ],
+        [
+            "6-0-0",
+            "7-0-2",
+            "I-eq"
+        ],
+        [
+            "6-0-2",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-5",
+            "6-0-0",
+            "Dest"
+        ],
+        [
+            "6-0-8",
+            "6-0-5",
+            "I-part-of"
+        ],
+        [
+            "7-0-2",
+            "7-0-0",
+            "Targ"
+        ]
+    ]
+}

@@ -1,1 +1,384 @@
-{"article_id": "7312723_fix-a-skipping-freehub-on-a-bicycle", "url": "https://www.wikihow.com/Fix-a-Skipping-Freehub-on-a-Bicycle", "steps": [[{"token_id": "0-0-0", "token": "Make", "ne_tag": "Ae-I"}, {"token_id": "0-0-1", "token": "sure", "ne_tag": "Ae-I"}, {"token_id": "0-0-2", "token": "that", "ne_tag": "Ae-I"}, {"token_id": "0-0-3", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "0-0-4", "token": "problem", "ne_tag": "Ae-I"}, {"token_id": "0-0-5", "token": "is", "ne_tag": "Ae-I"}, {"token_id": "0-0-6", "token": "caused", "ne_tag": "Ae-I"}, {"token_id": "0-0-7", "token": "by", "ne_tag": "Ae-I"}, {"token_id": "0-0-8", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "0-0-9", "token": "freewheel", "ne_tag": "Ae-I"}, {"token_id": "0-0-10", "token": ".", "ne_tag": "Ae-I"}], [{"token_id": "1-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "rear", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "wheel", "ne_tag": "I-I"}, {"token_id": "1-0-4", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "cassette", "ne_tag": "I-B"}, {"token_id": "2-0-3", "token": ".", "ne_tag": "I-B"}], [{"token_id": "3-0-0", "token": "Remove", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "freehub", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "assembly", "ne_tag": "I-I"}, {"token_id": "3-0-4", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Take", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "apart", "ne_tag": "Ae-I"}, {"token_id": "4-0-2", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "4-0-3", "token": "freewheel", "ne_tag": "I-B"}, {"token_id": "4-0-4", "token": "mechanism", "ne_tag": "I-I"}, {"token_id": "4-0-5", "token": ".", "ne_tag": "I-I"}], [{"token_id": "5-0-0", "token": "Clean", "ne_tag": "Ae-B"}, {"token_id": "5-0-1", "token": "and", "ne_tag": "Ae-B"}, {"token_id": "5-0-2", "token": "lubricate", "ne_tag": "Ae-B"}, {"token_id": "5-0-3", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "5-0-4", "token": "whole", "ne_tag": "Si-B"}, {"token_id": "5-0-5", "token": "mechanism", "ne_tag": "I-B"}, {"token_id": "5-0-6", "token": ".", "ne_tag": "I-B"}], [{"token_id": "6-0-0", "token": "Put", "ne_tag": "Ae-B"}, {"token_id": "6-0-1", "token": "everything", "ne_tag": "I-B"}, {"token_id": "6-0-2", "token": "back", "ne_tag": "Ae2-B"}, {"token_id": "6-0-3", "token": "together", "ne_tag": "Ae2-I"}, {"token_id": "6-0-4", "token": ".", "ne_tag": "Ae2-I"}], [{"token_id": "7-0-0", "token": "Test", "ne_tag": "Ae-B"}, {"token_id": "7-0-1", "token": "drive", "ne_tag": "Ae-I"}, {"token_id": "7-0-2", "token": "the", "ne_tag": "Ae-I"}, {"token_id": "7-0-3", "token": "bike", "ne_tag": "I-B"}, {"token_id": "7-0-4", "token": "to", "ne_tag": "I-B"}, {"token_id": "7-0-5", "token": "see", "ne_tag": "I-B"}, {"token_id": "7-0-6", "token": "if", "ne_tag": "I-B"}, {"token_id": "7-0-7", "token": "the", "ne_tag": "I-B"}, {"token_id": "7-0-8", "token": "fix", "ne_tag": "I-B"}, {"token_id": "7-0-9", "token": "was", "ne_tag": "I-B"}, {"token_id": "7-0-10", "token": "successful", "ne_tag": "I-B"}, {"token_id": "7-0-11", "token": ".", "ne_tag": "I-B"}]], "flows": [["1-0-0", "2-0-2", "I-part-of"], ["1-0-0", "3-0-2", "I-part-of"], ["1-0-2", "1-0-0", "Targ"], ["2-0-0", "6-0-1", "Set"], ["2-0-2", "2-0-0", "Targ"], ["3-0-0", "4-0-3", "I-eq"], ["3-0-2", "3-0-0", "Targ"], ["4-0-0", "5-0-5", "I-eq"], ["4-0-3", "4-0-0", "Targ"], ["5-0-0", "5-0-2", "Targ"], ["5-0-2", "6-0-1", "Set"], ["5-0-4", "5-0-5", "other-mod"], ["5-0-5", "5-0-0", "Targ"], ["6-0-0", "6-0-2", "Agent"], ["6-0-1", "6-0-0", "Targ"], ["6-0-2", "7-0-3", "I-eq"], ["7-0-3", "7-0-0", "Targ"]]}
+{
+    "article_id": "7312723_fix-a-skipping-freehub-on-a-bicycle",
+    "url": "https://www.wikihow.com/Fix-a-Skipping-Freehub-on-a-Bicycle",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Make",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "sure",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "that",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "problem",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "is",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "caused",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": "by",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-8",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-9",
+                "token": "freewheel",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "0-0-10",
+                "token": ".",
+                "ne_tag": "Ae-I"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "rear",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "wheel",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "cassette",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Remove",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "freehub",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "assembly",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Take",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "apart",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "freewheel",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "mechanism",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "5-0-0",
+                "token": "Clean",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-1",
+                "token": "and",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-2",
+                "token": "lubricate",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-3",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "5-0-4",
+                "token": "whole",
+                "ne_tag": "Si-B"
+            },
+            {
+                "token_id": "5-0-5",
+                "token": "mechanism",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "5-0-6",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "6-0-0",
+                "token": "Put",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "6-0-1",
+                "token": "everything",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "6-0-2",
+                "token": "back",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "6-0-3",
+                "token": "together",
+                "ne_tag": "Ae2-I"
+            },
+            {
+                "token_id": "6-0-4",
+                "token": ".",
+                "ne_tag": "Ae2-I"
+            }
+        ],
+        [
+            {
+                "token_id": "7-0-0",
+                "token": "Test",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "7-0-1",
+                "token": "drive",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "7-0-2",
+                "token": "the",
+                "ne_tag": "Ae-I"
+            },
+            {
+                "token_id": "7-0-3",
+                "token": "bike",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-4",
+                "token": "to",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-5",
+                "token": "see",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-6",
+                "token": "if",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-7",
+                "token": "the",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-8",
+                "token": "fix",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-9",
+                "token": "was",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-10",
+                "token": "successful",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "7-0-11",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "1-0-0",
+            "2-0-2",
+            "I-part-of"
+        ],
+        [
+            "1-0-0",
+            "3-0-2",
+            "I-part-of"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "6-0-1",
+            "Set"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-0",
+            "4-0-3",
+            "I-eq"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-0",
+            "5-0-5",
+            "I-eq"
+        ],
+        [
+            "4-0-3",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "5-0-0",
+            "5-0-2",
+            "Targ"
+        ],
+        [
+            "5-0-2",
+            "6-0-1",
+            "Set"
+        ],
+        [
+            "5-0-4",
+            "5-0-5",
+            "other-mod"
+        ],
+        [
+            "5-0-5",
+            "5-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-0",
+            "6-0-2",
+            "Agent"
+        ],
+        [
+            "6-0-1",
+            "6-0-0",
+            "Targ"
+        ],
+        [
+            "6-0-2",
+            "7-0-3",
+            "I-eq"
+        ],
+        [
+            "7-0-3",
+            "7-0-0",
+            "Targ"
+        ]
+    ]
+}

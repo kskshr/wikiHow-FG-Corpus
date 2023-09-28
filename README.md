@@ -6,7 +6,7 @@ This repository contains the wikiHow flow graph (wikiHow-FG) corpus, flow graph 
 The `data` directory contains four directories for annotated articles of each domain. The annotated articles are provided as json files. Each json file contains:
 
 - `steps`: A list of steps, and each step contains a list of tokens consisting of a token ID, word, and named entity tag. A token ID is represented in the form (step index)-(sentence index)-(word index).
-- `flows`: A list of labeled edges. Each edge is a tuple of the token ID of the start node, the token ID of the end node, and a label.
+- `flows`: A list of labeled edges. Each edge is a tuple of (i) the token ID of the start node, (ii) the token ID of the end node, and (iii) a label.
 - `url`: A URL of the article.
 - `article_id`: An article id used in [the wikiHow corpus](https://github.com/zharry29/wikihow-goal-step).
 

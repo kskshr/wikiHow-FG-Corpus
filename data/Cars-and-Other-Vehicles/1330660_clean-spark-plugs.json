@@ -1,1 +1,383 @@
-{"article_id": "1330660_clean-spark-plugs", "url": "https://www.wikihow.com/Clean-Spark-Plugs", "steps": [[{"token_id": "0-0-0", "token": "Disconnect", "ne_tag": "Ae-B"}, {"token_id": "0-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "0-0-2", "token": "negative", "ne_tag": "I-B"}, {"token_id": "0-0-3", "token": "terminal", "ne_tag": "I-I"}, {"token_id": "0-0-4", "token": "on", "ne_tag": "I-I"}, {"token_id": "0-0-5", "token": "the", "ne_tag": "I-I"}, {"token_id": "0-0-6", "token": "battery", "ne_tag": "I-B"}, {"token_id": "0-0-7", "token": ".", "ne_tag": "I-B"}], [{"token_id": "1-0-0", "token": "Locate", "ne_tag": "Ae-B"}, {"token_id": "1-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "1-0-2", "token": "spark", "ne_tag": "I-B"}, {"token_id": "1-0-3", "token": "plugs", "ne_tag": "I-I"}, {"token_id": "1-0-4", "token": ".", "ne_tag": "I-I"}], [{"token_id": "2-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "2-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "2-0-2", "token": "can", "ne_tag": "T-B"}, {"token_id": "2-0-3", "token": "of", "ne_tag": "O"}, {"token_id": "2-0-4", "token": "compressed", "ne_tag": "St-B"}, {"token_id": "2-0-5", "token": "air", "ne_tag": "T-B"}, {"token_id": "2-0-6", "token": "to", "ne_tag": "O"}, {"token_id": "2-0-7", "token": "blow", "ne_tag": "Ae-B"}, {"token_id": "2-0-8", "token": "debris", "ne_tag": "I-B"}, {"token_id": "2-0-9", "token": "away", "ne_tag": "Ae2-B"}, {"token_id": "2-0-10", "token": "from", "ne_tag": "Ae2-B"}, {"token_id": "2-0-11", "token": "the", "ne_tag": "Ae2-B"}, {"token_id": "2-0-12", "token": "spark", "ne_tag": "I-B"}, {"token_id": "2-0-13", "token": "plugs", "ne_tag": "I-I"}, {"token_id": "2-0-14", "token": ".", "ne_tag": "I-I"}], [{"token_id": "3-0-0", "token": "Disconnect", "ne_tag": "Ae-B"}, {"token_id": "3-0-1", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "3-0-2", "token": "spark", "ne_tag": "I-B"}, {"token_id": "3-0-3", "token": "plug", "ne_tag": "I-I"}, {"token_id": "3-0-4", "token": "wire", "ne_tag": "I-I"}, {"token_id": "3-0-5", "token": "on", "ne_tag": "I-I"}, {"token_id": "3-0-6", "token": "1", "ne_tag": "Q-B"}, {"token_id": "3-0-7", "token": "spark", "ne_tag": "I-B"}, {"token_id": "3-0-8", "token": "plug", "ne_tag": "I-I"}, {"token_id": "3-0-9", "token": "at", "ne_tag": "I-I"}, {"token_id": "3-0-10", "token": "a", "ne_tag": "I-I"}, {"token_id": "3-0-11", "token": "time", "ne_tag": "I-I"}, {"token_id": "3-0-12", "token": ".", "ne_tag": "I-I"}], [{"token_id": "4-0-0", "token": "Use", "ne_tag": "Ae-B"}, {"token_id": "4-0-1", "token": "a", "ne_tag": "Ae-B"}, {"token_id": "4-0-2", "token": "spark", "ne_tag": "T-B"}, {"token_id": "4-0-3", "token": "plug", "ne_tag": "T-I"}, {"token_id": "4-0-4", "token": "socket", "ne_tag": "T-I"}, {"token_id": "4-0-5", "token": "to", "ne_tag": "O"}, {"token_id": "4-0-6", "token": "unscrew", "ne_tag": "Ae-B"}, {"token_id": "4-0-7", "token": "the", "ne_tag": "Ae-B"}, {"token_id": "4-0-8", "token": "spark", "ne_tag": "I-B"}, {"token_id": "4-0-9", "token": "plug", "ne_tag": "I-I"}, {"token_id": "4-0-10", "token": ".", "ne_tag": "I-I"}]], "flows": [["0-0-0", "1-0-0", "Dest"], ["0-0-2", "0-0-0", "Targ"], ["0-0-6", "0-0-0", "other-mod"], ["1-0-0", "2-0-12", "I-eq"], ["1-0-2", "1-0-0", "Targ"], ["2-0-0", "2-0-7", "T-comp"], ["2-0-12", "2-0-8", "I-part-of"], ["2-0-2", "2-0-0", "Targ"], ["2-0-4", "2-0-5", "other-mod"], ["2-0-5", "2-0-2", "other-mod"], ["2-0-7", "2-0-9", "Agent"], ["2-0-8", "2-0-7", "Targ"], ["2-0-9", "3-0-7", "I-eq"], ["2-0-9", "3-0-2", "I-part-of"], ["3-0-0", "4-0-8", "I-eq"], ["3-0-2", "3-0-0", "Targ"], ["3-0-6", "3-0-7", "other-mod"], ["3-0-7", "3-0-0", "Dest"], ["4-0-0", "4-0-6", "T-comp"], ["4-0-2", "4-0-0", "Targ"], ["4-0-8", "4-0-6", "Targ"]]}
+{
+    "article_id": "1330660_clean-spark-plugs",
+    "url": "https://www.wikihow.com/Clean-Spark-Plugs",
+    "steps": [
+        [
+            {
+                "token_id": "0-0-0",
+                "token": "Disconnect",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "0-0-2",
+                "token": "negative",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-3",
+                "token": "terminal",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-4",
+                "token": "on",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-5",
+                "token": "the",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "0-0-6",
+                "token": "battery",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "0-0-7",
+                "token": ".",
+                "ne_tag": "I-B"
+            }
+        ],
+        [
+            {
+                "token_id": "1-0-0",
+                "token": "Locate",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "1-0-2",
+                "token": "spark",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "1-0-3",
+                "token": "plugs",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "1-0-4",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "2-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-2",
+                "token": "can",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-3",
+                "token": "of",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-4",
+                "token": "compressed",
+                "ne_tag": "St-B"
+            },
+            {
+                "token_id": "2-0-5",
+                "token": "air",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "2-0-6",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "2-0-7",
+                "token": "blow",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "2-0-8",
+                "token": "debris",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-9",
+                "token": "away",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "2-0-10",
+                "token": "from",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "2-0-11",
+                "token": "the",
+                "ne_tag": "Ae2-B"
+            },
+            {
+                "token_id": "2-0-12",
+                "token": "spark",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "2-0-13",
+                "token": "plugs",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "2-0-14",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "3-0-0",
+                "token": "Disconnect",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-1",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "3-0-2",
+                "token": "spark",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-3",
+                "token": "plug",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-4",
+                "token": "wire",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-5",
+                "token": "on",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-6",
+                "token": "1",
+                "ne_tag": "Q-B"
+            },
+            {
+                "token_id": "3-0-7",
+                "token": "spark",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "3-0-8",
+                "token": "plug",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-9",
+                "token": "at",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-10",
+                "token": "a",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-11",
+                "token": "time",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "3-0-12",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ],
+        [
+            {
+                "token_id": "4-0-0",
+                "token": "Use",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-1",
+                "token": "a",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-2",
+                "token": "spark",
+                "ne_tag": "T-B"
+            },
+            {
+                "token_id": "4-0-3",
+                "token": "plug",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "4-0-4",
+                "token": "socket",
+                "ne_tag": "T-I"
+            },
+            {
+                "token_id": "4-0-5",
+                "token": "to",
+                "ne_tag": "O"
+            },
+            {
+                "token_id": "4-0-6",
+                "token": "unscrew",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-7",
+                "token": "the",
+                "ne_tag": "Ae-B"
+            },
+            {
+                "token_id": "4-0-8",
+                "token": "spark",
+                "ne_tag": "I-B"
+            },
+            {
+                "token_id": "4-0-9",
+                "token": "plug",
+                "ne_tag": "I-I"
+            },
+            {
+                "token_id": "4-0-10",
+                "token": ".",
+                "ne_tag": "I-I"
+            }
+        ]
+    ],
+    "flows": [
+        [
+            "0-0-0",
+            "1-0-0",
+            "Dest"
+        ],
+        [
+            "0-0-2",
+            "0-0-0",
+            "Targ"
+        ],
+        [
+            "0-0-6",
+            "0-0-0",
+            "other-mod"
+        ],
+        [
+            "1-0-0",
+            "2-0-12",
+            "I-eq"
+        ],
+        [
+            "1-0-2",
+            "1-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-0",
+            "2-0-7",
+            "T-comp"
+        ],
+        [
+            "2-0-12",
+            "2-0-8",
+            "I-part-of"
+        ],
+        [
+            "2-0-2",
+            "2-0-0",
+            "Targ"
+        ],
+        [
+            "2-0-4",
+            "2-0-5",
+            "other-mod"
+        ],
+        [
+            "2-0-5",
+            "2-0-2",
+            "other-mod"
+        ],
+        [
+            "2-0-7",
+            "2-0-9",
+            "Agent"
+        ],
+        [
+            "2-0-8",
+            "2-0-7",
+            "Targ"
+        ],
+        [
+            "2-0-9",
+            "3-0-7",
+            "I-eq"
+        ],
+        [
+            "2-0-9",
+            "3-0-2",
+            "I-part-of"
+        ],
+        [
+            "3-0-0",
+            "4-0-8",
+            "I-eq"
+        ],
+        [
+            "3-0-2",
+            "3-0-0",
+            "Targ"
+        ],
+        [
+            "3-0-6",
+            "3-0-7",
+            "other-mod"
+        ],
+        [
+            "3-0-7",
+            "3-0-0",
+            "Dest"
+        ],
+        [
+            "4-0-0",
+            "4-0-6",
+            "T-comp"
+        ],
+        [
+            "4-0-2",
+            "4-0-0",
+            "Targ"
+        ],
+        [
+            "4-0-8",
+            "4-0-6",
+            "Targ"
+        ]
+    ]
+}
