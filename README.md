@@ -13,7 +13,7 @@ The `data` directory contains four directories for annotated articles of each do
 ## Citation
 
 ```
-@inproceedings{shirai-etal-2023-towards,
+@inproceedings{shirai2023towards,
     title = "Towards Flow Graph Prediction of Open-Domain Procedural Texts",
     author = "Shirai, Keisuke  and Kameko, Hirotaka  and Mori, Shinsuke",
     booktitle = "Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP 2023)",
