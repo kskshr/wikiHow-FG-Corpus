@@ -1,6 +1,6 @@
 # wikiHow-FG-Corpus
 
-This repository contains the wikiHow flow graph (wikiHow-FG) corpus, flow graph annotations of 120 articles in four domains. More information is provided in our paper, [Towards Flow Graph Prediction of Open-Domain Procedural Texts](https://aclanthology.org/2023.repl4nlp-1.8/).
+This repository contains the wikiHow flow graph (wikiHow-FG) corpus, flow graph annotations of 120 articles in four domains. More information is provided in our paper, [Towards Flow Graph Prediction of Open-Domain Procedural Texts](https://arxiv.org/abs/2305.19497).
 
 ## Data Structure
 The `data` directory contains four directories for annotated articles of each domain. The annotated articles are provided as json files. Each json file contains:
